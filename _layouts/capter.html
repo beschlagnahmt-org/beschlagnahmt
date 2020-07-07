@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody" style="text-align: justify"">
+    {{ content }}
+  </div>
+
+</article>
+
+<table style="width:100%; background: transparent; border: 0px solid #000;">
+  <tr>
+    <td style="text-align: left; width:33%; border: 0px solid #000;">
+       {% if page.previous.url %}
+          <a href="{{page.previous.url}}">&laquo;&nbsp;{{page.previous.title}}</a>
+       {% endif %}
+    </td>
+    <td style="text-align: center; width:33%; border: 0px solid #000;">
+      <a href="/inhalt/"> &uArr; Kapitel-Übersicht</a>
+   </td> 
+    <td style="text-align: right; width:33%; border: 0px solid #000;">
+      {% if page.next.url %}
+        <a href="{{page.next.url}}">{{page.next.title}}&nbsp;&raquo;</a>
+      {% endif %} 
+    </td>
+  </tr>
+</table>

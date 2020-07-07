@@ -1,0 +1,11 @@
+---
+title: Phishing
+layout: capter
+permalink: /phishing/
+category: capter
+---
+Es klingt wie der billigste Trick der Welt, ist aber eine sehr verbreitete Methode um an fremde Passwörter zu gelangen. beim Phishing wird eine Seite perfekt nachgebildet und die Zielperson dazu gebracht sich auf der gefälschten Seite einzuloggen. Die Angreifer*innen können das Passwort dann lesen und sich auf der richtigen Seite einloggen. Die Nachbildungen können extrem realistisch sein, mit ein paar Tricks ist es sogar möglich das die Adresse genau gleich aussieht, zum Beispiel in dem Buchstaben aus dem kyrillischen Alphabet eingesetzt werden die wie lateinische Buchstaben aussehen. Um sicher zu gehen bedenke immer ob du die Seite auf einem vertrauenswürdigen Weg erreicht hast oder ob dir irgendwer einen langen schwer lesbaren Link geschickt hat der dich zu dieser Login-Maske gebracht hat. Am sichersten ist es wenn du Adressen immer selbst eintippst oder die Lesezeichenfunktion deines Browsers verwendest.
+
+![](/assets/posts/phishing.jpg)
+
+So könnte eine Phishing Seite aussehen. Beachte die Auffälligkeiten die hier mit Kästen markiert sind.

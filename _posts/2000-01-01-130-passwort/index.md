@@ -1,0 +1,11 @@
+---
+title: Passwort
+layout: capter
+permalink: /passwort/
+category: capter
+---
+Das Passwort ist bei all diesen Verschlüsselungsmethoden ein wichtiger Bestandteil. Im Regelfall ist es das Schwächste Glied in der Kette und die Sicherheit deiner Verschlüsselung hängt davon ab dass du ein sicheres Passwort gewählt hast, und es schaffst dieses vor den Ermittlungsbehörden geheim zu halten. Also erstmal grundlegend: Das Passwort darf nirgendwo notiert werden, es darf nichts mit dir oder deinem Umfeld zu tun haben und außer dir darf es keine*r wissen. Es muss lang sein, das heißt am besten mehr als 20 Zeichen lang, es sollte nicht aus irgendeinem einfachen Satz bestehen und du solltest definitiv ein Passwort für einen Anwendungszweck haben. Keine Mehrfachverwendungen. Es gibt verschiedene Meinungen dazu wie ein sicheres Passwort aussehen muss. Einige schwören auf wüste Sonderzeichenkombinationen, andere reihen ein paar zufällige Wörter aneinander. Wo sich aber alle einig sind ist, dass es die Länge macht. Wenn du ein Alphabet mit 26 Zeichen und ein Passwort der Länge 10 hast sind das 26^10 mögliche Kombinationen (also 141167095653376).
+
+Wenn du dein Passwort um eine Stelle verlängerst sind es schon 26^11 Kombinationen (also 3670344486987776). 
+
+Die Arbeit die ein Computer aufbringen muss um dein Passwort zu raten wächst also mit jedem Zeichen exponentiell. Natürlich kann sich keine*r zig verschiedene elendig lange Passwörter merken. Deswegen gibt es sogenannte “Passwort-Manager” in denen du deine Passwörter abspeichern kannst. Eine Anleitung kannst du im Abschnitt “Accountsicherheit” finden. Der Grund dafür das du Passwörter nicht mehrfach verwenden solltest ist das immer wieder Passwort-Datenbanken geklaut und veröffentlicht werden. Wenn du davon betroffen bist kannst du das zum Beispiel mit haveibeenpwned.com feststellen. Dort gibst du deine E-Mail Adresse ein und die Seite zeigt dir ob du in einem der bekannten Datensätze auftauchst. 
