@@ -11,4 +11,3 @@ Falls du noch mehr zum Thema lesen willst empfehlen sich unter anderem die Kolum
 Außerdem kannst du unter https://privacy-handbuch.de noch eine Menge detaillierterer Informationen zu Anonymisierung, Verschlüsselung und Schutz vor Tracking nachlesen.
 
 Vielen Dank an alle die bei der Erstellung des Hefts mitgeholfen haben und an alle die Ergänzungen einsenden und kommentieren. Solidarische Grüße an alle emanzipatorischen Gruppen und Einzelpersonen im Netz und in der analogen Welt.
-Es folgen nun noch die Querverweise aus dem Text.
