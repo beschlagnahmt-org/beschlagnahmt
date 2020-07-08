@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-{% image_tag src="/assets/cover/cover.jpg" width="700" %}
+![Cover](/assets/cover/cover.jpg "Cover")
