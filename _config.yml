@@ -19,7 +19,7 @@ minima:
   date_format: "%d.%m.%Y"
 
 # Build settings
-source: /home/stefan/beschlagnahmt-source/
+source: .
 markdown: kramdown
 encoding: utf-8
 theme: minima
