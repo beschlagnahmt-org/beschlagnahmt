@@ -14,7 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Install dependencies
-      run: sudo apt install imagemagick
+      run: sudo apt install -y imagemagick
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
