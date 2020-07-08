@@ -14,7 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Install dependencies
-      run: sudo apt update && sudo apt upgrade && sudo apt install -y libjpeg62 libjpeg62-dev libjasper-runtime libjasper-dev
+      run: sudo apt install -y libjpeg62 libjpeg62-dev libjasper-runtime libjasper-dev
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
