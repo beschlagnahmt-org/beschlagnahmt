@@ -8,7 +8,7 @@ order: 3
 Karlstr. 15<br>
 73266 Bissingen a. d. Teck<br>
 
-Kontakt: [beschlagnahmt@riseup.net](mailto:beschlagnahmt@riseup.net) [GPG-Key](/assets/pages/pubkey.asc)
+Kontakt: [beschlagnahmt@riseup.net](mailto:beschlagnahmt@riseup.net) ([GPG-Key](/assets/pages/pubkey.asc))
 
 ### Lizenz ###
 
