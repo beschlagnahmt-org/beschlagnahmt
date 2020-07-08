@@ -9,10 +9,12 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-16.04
 
     steps:
     - uses: actions/checkout@v2
+    - name: Install dependencies
+      run: sudo apt install imagemagick
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
