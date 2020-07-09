@@ -1,5 +1,5 @@
 ---
-title: Kapitel
+title: Inhalt
 layout: page
 permalink: /inhalt/
 order: 1
