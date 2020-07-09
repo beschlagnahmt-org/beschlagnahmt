@@ -26,7 +26,6 @@ theme: minima
 plugins:
   - jekyll-paginate
   - jekyll-srcset
-  - jekyll-favicon
 include:
   - _pages
 exclude:

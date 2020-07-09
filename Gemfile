@@ -22,5 +22,4 @@ gem "minima", "~> 2.5"
 group :jekyll_plugins do
    gem "jekyll-paginate", "~>1.1.0"
    gem "jekyll-srcset2"
-   gem 'jekyll-favicon', '~> 0.2.8', group: :jekyll_plugins
 end
