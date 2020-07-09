@@ -1,22 +1,19 @@
 title: beschlagnahmt.org
-author: ACAB
-email: beschlagnahmt@riseup.net
-description: > # this means to ignore newlines until "baseurl:"
-  IT-Sicherheit für Aktivisti
-url: "https://beschlagnahmt.org"
-twitter_username: beschlagnahmt_
-github_username: beschlagnahmt-org
-#mastodon:
-#  - username:
-#    instance:
-
-defaults:
-  -
-    values:
-      author: "admin"
+author:
+  name: ACAB
+  email: beschlagnahmt@riseup.net
+description: IT-Sicherheit für Aktivisti
 
 minima:
   date_format: "%d.%m.%Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: beschlagnahmt_
+    github:  beschlagnahmt-org
+    # mastodon:
+    # - username: 
+    #   instance: chaos.social
 
 # Build settings
 source: .
@@ -25,7 +22,8 @@ encoding: utf-8
 theme: minima
 plugins:
   - jekyll-paginate
-  - jekyll-srcset
+#  - jekyll-srcset
+  - jekyll-seo-tag
 include:
   - _pages
 exclude:
@@ -35,7 +33,6 @@ exclude:
   - .github
 keep_files:
   - assets
-
 header_pages:
  -  _pages/inhalt.md
  -  _pages/download.md
