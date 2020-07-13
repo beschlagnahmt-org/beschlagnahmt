@@ -22,6 +22,7 @@ Im Jahr 2015 gab es 3332 Festnetz-Überwachungen, 21906 Mobilfunküberwachungen 
 Im Jahr 2017 sind diese Zahlen leicht abgesunken, aber im Vergleich noch immer ausgesprochen hoch.
 
 ![](/assets/posts/kommunikationsueberwachung.jpg)
+Bild: Creative Commons BY-NC-SA 4.0. Netzpolitik.org
 
 Links:<br>
 [Wikipedia - Vorratsdatenspeicherung](https://de.wikipedia.org/wiki/Vorratsdatenspeicherung)<br>
