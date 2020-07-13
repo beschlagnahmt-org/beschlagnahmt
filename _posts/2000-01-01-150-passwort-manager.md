@@ -6,7 +6,7 @@ category: capter
 ---
 Was bei einem Passwort wichtig ist haben wir erklärt. 
 Um diese super sicheren Passwörter alle aufzubewahren hilft ein Passwort-Manager. Da es bereits zu Datenlecks bei Bezahl-Anbietern kam sollte die Wahl hierbei auf Keepass fallen, denn Keepass ist Open Source, bewährt und nicht web-basiert. Wie du trotzdem die Vorzüge von Browserintegration und geräteübergreifender Synchronisation genießen kannst weiter unten.
-Passwort Management mit Keepass (Win, Linux) [30]:
+Passwort Management mit Keepass (Win, Linux):
 Das Prinzip ist denkbar einfach. Mensch lädt sich die Anwendung herunter, erstellt eine neue Datenbank, vergibt ein Hauptpasswort und kann damit beginnen, Logindaten für Websiten zu hinterlegen. Die Datenbank ist hierbei verschlüsselt. Das heißt: solange niemensch dein Passwort knackt, bringt es der Person nichts im Besitz der Datei zu sein.
 Wichtig: Das Hauptpasswort wird selbstverständlich nicht in der Datenbank hinterlegt, du musst es dir also merken und es muss sicher sein. Wähle kein Passwort, welches du schon mal verwendet hast, nutze viele Zeichen, gerne auch Sonderzeichen und Zahlen. Darüber haben wir ja gerade schonmal geredet. Solltest du nun einen neuen Eintrag in der Datenbank anlegen, ist das Passwortfeld bereits gefüllt. Lässt du dir den Inhalt anzeigen, wird dort etwas unleserliches, generiertes stehen, was allein durch diese Eigenschaft schon schwer zu knacken ist. Übernimm das bei das Passwortvergabe einfach in das Passwortfeld im Browser.
 Merken muss sich das zum Glück niemensch, du hast ja das Hauptpasswort.
@@ -23,8 +23,13 @@ Um die Bedienung über den Browser zu erleichtern gibt es für Chrome und Firefo
 
 (1. Nur Für Linux/Mac User*Innen: Installiere das Paket “mono-complete”)
 2. Erstelle im Keepass Installationsordner einen Ordner namens “Plugins”
-3. Lade dir die neuste KeePassRPC.plgx Datei herunter [31] und schiebe sie in den “Plugins” Ordner
+3. Lade dir die neuste KeePassRPC.plgx Datei herunter und schiebe sie in den “Plugins” Ordner
 4. Starte Keepass und aktiviere das Plugin
-5. Installiere das Kee Browseraddon [32]
+5. Installiere das Kee Browseraddon
 6. Konfiguriere die Verbindung zwischen dem Browser-Addon und dem Keepass-Plugin indem du der Anleitung auf dem Bildschirm folgst
 7. Wenn du ein Passwort eingibst bietet Kee dir nun an es zu speichern. Mit einem Knopfdruck kannst du gespeicherte Passwörter abrufen.
+
+Links:<br>
+[Keepass](https://keepass.info/)<br>
+[KeepassRPC](https://keepass.info/plugins.html#keepassrpc)<br>
+[Kee](https://www.kee.pm)

@@ -7,7 +7,7 @@ category: capter
 Bei der Telekommunikationsüberwachung, oder kurz TKÜ hören die Behörden Kommunikation direkt beim Dienstbetreiber ab. Das kann zum Beispiel euer Handyanbieter sein, euer Internet-Provider oder euer E-Mail Service. Es können viele Daten auch im Nachhinein angefordert werden, zum Beispiel die Websites die du aufgerufen hast, die Nummern die du angerufen hast, die E-Mails die du geschrieben hast und die Privatnachrichten die du auf Facebook verschickt hast. (Vorrausgesetzt der Anbieter hat diese Daten noch gespeichert.)
 Auch hier kannst du dich wieder durch verschiedene Verschlüsselungsverfahren schützen.
 
-Um das Thema Vorratsdatenspeicherung wird aktuell noch gestritten. Momentan ist diese ausgesetzt, wie sich das in Zukunft entwickeln wird ist aber noch unklar. Halte dich am besten gelegentlich etwas auf dem Laufenden. [9]
+Um das Thema Vorratsdatenspeicherung wird aktuell noch gestritten. Momentan ist diese ausgesetzt, wie sich das in Zukunft entwickeln wird ist aber noch unklar. Halte dich am besten gelegentlich etwas auf dem Laufenden.
 
 Neben solchen Anfragen bei Dritten gibt es auch noch den sogenannten “Großen Lauschangriff” also das direkte Abhören der Wohnung mit Mikrofonen. Dieser wird aber recht selten angewandt. Anzunehmen sind vielleicht 10-15 Fälle pro Jahr. Beachte das eine Hausdurchsuchung für die Cops eine gute Gelegenheit ist Wanzen zu deponieren.
 
@@ -17,8 +17,13 @@ Mensch sollte es sich auf jeden Fall zweimal überlegen welche Gespräche in der
 
 __Statistik__
 
-Wie oft werden eigentlich Überwachungsmaßnahmen angeordnet? Beispielhaft schauen wir uns hier mal die Statistiken von 2015 und 2017 an, welche von netzpolitik.org aufbereitet wurden. [10] [11]
+Wie oft werden eigentlich Überwachungsmaßnahmen angeordnet? Beispielhaft schauen wir uns hier mal die Statistiken von 2015 und 2017 an, welche von netzpolitik.org aufbereitet wurden.
 Im Jahr 2015 gab es 3332 Festnetz-Überwachungen, 21906 Mobilfunküberwachungen und 7431 Internetüberwachungen. Verkehrsdatenüberwachungen, also das Sammeln von Metadaten über die Kommunikation wurde in ganzen 26265 Fällen angeordnet und die Anordnung in weiteren 899 Fällen verlängert.
 Im Jahr 2017 sind diese Zahlen leicht abgesunken, aber im Vergleich noch immer ausgesprochen hoch.
 
 ![](/assets/posts/kommunikationsueberwachung.jpg)
+
+Links:<br>
+[Wikipedia - Vorratsdatenspeicherung](https://de.wikipedia.org/wiki/Vorratsdatenspeicherung)<br>
+[Polizei überwacht vor allem wegen Drogen](https://netzpolitik.org/2016/statistik-polizei-ueberwacht-weiterhin-vor-allem-wegen-drogen/)<br>
+[Polizei überwacht erstmals weniger](https://netzpolitik.org/2019/ueberraschung-polizei-ueberwacht-erstmals-weniger-kommunikation/)
