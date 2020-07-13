@@ -22,5 +22,5 @@ gem "minima", :github => 'jekyll/minima', :ref => '49f6dce'
 group :jekyll_plugins do
    gem "jekyll-paginate", "~>1.1.0"
 #   gem "jekyll-srcset2"
-   gem "jekyll-seo-tag"
+   gem "jekyll-seo-tag", "~>2.6.1"
 end
