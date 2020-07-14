@@ -20,7 +20,7 @@ Wenn du unbedingt Papiere aufbewahren musst tue dies in einem Umschlag der mit �
 
 Für deinen Computer hast du zwei grundlegende Optionen. Du kannst das gesamte System verschlüsseln, oder einen verschlüsselten Container anlegen in dem du du vertrauliche Dateien ablegst.
 
-Systemverschlüsselung mit VeraCrypt (Win) [15][16] :
+Systemverschlüsselung mit VeraCrypt (Win):
 
 1. VeraCrypt installieren und starten
 2. “Create Volume” klicken
@@ -45,7 +45,7 @@ VeraCrypt benötigt Zufallsdaten zum verschlüsseln.
 15. Notfallanweisungen lesen, ggf. drucken und mit “Ok” bestätigen
 16. Abwarten bis alles verschlüsselt ist. Bei größeren Windows-Updates wird es Probleme geben wenn die Festplatte komplett verschlüsselt ist. Das Update schlägt dann fehl und muss zurückgerollt werden. Wenn du Pech hast kann dadurch sogar deine verschlüsselte Partition beschädigt werden oder der Rechner kann nicht mehr starten. Seit Version 1.23 von VeraCrypt gibt es eine Technik mit der du trotzdem ein solches Update durchführen kannst. Versuche auf keinen Fall größere Updates ohne diese Maßnahmen einzuspielen. 
 
-Windows Upgrade eines verschlüsselten Systems [17]:
+Windows Upgrade eines verschlüsselten Systems:
 
 1. Erstelle ein Installationsmedium mit dem Media Creation Tool von Microsoft
 2. Öffne eine Kommandozeile (Einfach im Startmenü “cmd” eingeben und mit Rechtsklick als Administrator*in ausführen)
@@ -60,7 +60,7 @@ Sollte dir das wirklich viel viel zu kompliziert sein kannst du auch schauen ob 
 Das war die Systemverschlüsselung. Alternativ kannst du auch einen Container erstellen und deine Daten darin ablegen anstatt das ganze System zu verschlüsseln.
 Dann musst du natürlich darauf achten keinerlei kritische Daten außerhalb des Containers zu belassen, was nicht immer ganz einfach ist.
 
-Container mit VeraCrypt (Win, Linux) [18] :
+Container mit VeraCrypt (Win, Linux):
 1. VeraCrypt installieren und starten
 2. “Create Volume” klicken
 3. “Create an encrypted file container” anwählen und “Next” klicken
@@ -79,7 +79,7 @@ Container mit VeraCrypt öffnen:
 4. “Mount”
 5. Passwort eingeben und “Ok” klicken
 
-Wie erwähnt bringen viele Linux-Betriebssysteme bereits Verschlüsselungsmechanismen mit. Zwischen den Verschiedenen Linux-Distributionen gibt es einige Unterschiede. Meistens ist es am einfachsten die Verschlüsselung direkt bei der Installation zu aktivieren. Beispielhaft stehen hier die Schritte für Ubuntu, unter “Mehr zum Thema” findest du aber auch Anleitungen für andere Distributionen und Möglichkeiten auch ohne Neuinstallation ein verschlüsseltes System zu bekommen. [19]
+Wie erwähnt bringen viele Linux-Betriebssysteme bereits Verschlüsselungsmechanismen mit. Zwischen den Verschiedenen Linux-Distributionen gibt es einige Unterschiede. Meistens ist es am einfachsten die Verschlüsselung direkt bei der Installation zu aktivieren. Beispielhaft stehen hier die Schritte für Ubuntu, unter “Mehr zum Thema” findest du aber auch Anleitungen für andere Distributionen und Möglichkeiten auch ohne Neuinstallation ein verschlüsseltes System zu bekommen.
 
 Systemverschlüsselung bei der Installation (Ubuntu):
 1. Installationsprozess starten
@@ -87,6 +87,13 @@ Systemverschlüsselung bei der Installation (Ubuntu):
 3. Passwort eingeben (siehe dazu Kapitel „Passwort“)
 4. Haken bei “Overwrite empty disk space” setzen
 5. Mit “Install Now” die eigentliche Installation starten Bedenke das diese Verfahren umgangen werden können indem in deine Wohnung eingedrungen wird und ein Keylogger installiert wird. Das ist ein kleines Gerät am USB Anschluss oder eine Software welche die Tastatureingaben mitschneidet. Statte also dein UEFI und ggf. deinen Bootloader mit einem Passwort aus [20] und prüfe immer mal wieder den Anschluss deiner Tastatur auf Unregelmäßigkeiten.
+
+Links:<br>
+[VeraCrypt](https://www.veracrypt.fr/)<br>
+[Anleitung VeraCrypt-Systemverschlüsselung](https://www.veracrypt.fr/en/System%20Encryption.html)<br>
+[Windows Upgrade bei Systemverschlüsselung](https://github.com/th-wilde/veracrypt-w10-patcher)<br>
+[Anleitung Linux Verschlüsseln](https://svenfila.wordpress.com/2010/11/04/encrypt-root-partition-without-re-installing-linux/)<br>
+[Anleitung BIOS Passwort](https://www.wikihow.com/Set-a-BIOS-Password)
 
 **Handy**
 
@@ -99,6 +106,9 @@ Trotz Verschlüsselung ist es also vernünftig zu Aktionen nur ein billiges Zwei
 
 > ⚠ Fallstrick beim Handy-Verschlüsseln ⚠<br>
 > Wenn du ein Smartphone von Samsung hast wird das mit der Verschlüsselung leider etwas unpraktisch. Normalerweise musst du dein Entschlüsselungspasswort nur beim Starten des Geräts eingeben. Während es an ist kannst du dann deinen normalen Lockscreen benutzen. Samsung zwingt dich aber das Passwort jedes mal einzugeben wenn du den Bildschirm entsperren willst. Ziemlich unpraktisch und verleitet dazu ein unsicheres Passwort zu benutzen.
+
+Links:<br>
+[How to Encrypt your Android Phone](https://proprivacy.com/privacy-service/guides/encryption-guide-to-securing-android-phone)
 
 **Kommunikation**
 
