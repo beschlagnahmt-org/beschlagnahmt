@@ -2,7 +2,7 @@
 title: Download
 layout: page
 permalink: /download/
-order: 2
+order: 3
 ---
 
 ### Aktuelle Version ###

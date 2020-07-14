@@ -2,7 +2,7 @@
 title: Impressum
 layout: page
 permalink: /kontakt/
-order: 3
+order: 4
 ---
 [Stefan Leibfarth](https://stefan.leibfarth.org) <br>
 Karlstr. 15<br>

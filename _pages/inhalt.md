@@ -2,7 +2,7 @@
 title: Inhalt
 layout: page
 permalink: /inhalt/
-order: 1
+order: 2
 ---
 <ol>
 	{% for item in site.posts reversed %}
