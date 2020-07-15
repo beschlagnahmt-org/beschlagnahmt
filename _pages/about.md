@@ -14,3 +14,6 @@ Hier bekommst du einige Anhaltspunkte wie du dich schützen kannst, auch ohne ei
 Der Quelltext von ACAB ist unter [https://github.com/beschlagnahmt-org/beschlagnahmt](https://github.com/beschlagnahmt-org/beschlagnahmt) zu finden. Wenn du einen Fehler gefunden oder einen Verbessungsvorschlag hast, [lass es uns wissen](https://github.com/beschlagnahmt-org/beschlagnahmt/issues).
 Gerne kannst du direkt [auf Github einen Verbesserungsvorschlag einrichen](https://github.com/beschlagnahmt-org/beschlagnahmt/pulls).
 Sollte dir das zu öffentlich sein, melde dich gerne unter der im [Impressum](/impressum) angegeben Mail-Adresse.
+
+![](/assets/antifamily.jpg)<br>
+InhaberInnen der der ANTIFAmity Karte bekommen außerdem Zugang zu wertvollen Zusatz-Tipps.
