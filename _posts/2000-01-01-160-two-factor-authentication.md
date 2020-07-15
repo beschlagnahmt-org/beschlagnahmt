@@ -4,11 +4,18 @@ layout: capter
 permalink: /two-factor-authentication/
 category: capter
 ---
-Passwörter können aus verschiedenen Gründen bekannt werden. Vielleicht wurde eine Seite gehackt auf der du das Passwort verwendet hast, dir hat irgendwer beim Eingeben über die Schulter geschaut oder du hast als Passwort den Namenstag deiner Katze ausgewählt und irgendwer hat es geschafft das zu erraten. Für solche Fälle gibt es als Rettungsnetz “Two Factor Authentication” oder kurz “2FA”. Dabei installierst du eine App auf deinem Handy die dir alle 30 Sekunden einen anderen kurzen Zahlencode anzeigt. Wenn du dich jetzt zum Beispiel auf einer Website anmelden willst gibst du nicht nur dein Passwort ein, sondern auch noch den Code von deinem Handy. Ohne den Code kommt keine*r rein, das Passwort alleine reicht nicht mehr. Es werden jetzt also zwei “Faktoren” geprüft. Etwas das du weißt (das Passwort) und etwas das du besitzt (dein Handy mit der App).
-Eine weit verbreitete 2FA App ist “Authy”. Auf der Seite von Authy findest du auch Anleitungen für viele Anbieter wie du auf deren Seiten 2FA einrichten kannst. 
-Eine alternative App ist “andOTP”.
-Damit du nicht völlig aufgeschmissen bist falls du mal dein Handy verlierst lagert Authy eine verschlüsselte Kopie deiner Datenbank auf ihrem Server. Diese kannst du mit einem Passwort abrufen. Um 2FA im Alltag zu benutzen benötigst du aber keine Internetverbindung auf dem Handy.
+Deine Passwörter können aus verschiedenen Gründen dritten bekannt werden:
+  - Eine Seite, auf der Du es benutzt hast [wurde gehackt](https://www.zeit.de/digital/datenschutz/2019-01/datenleak-email-passwoerter-internet-it-sicherheit) 
+  - Dir hat irgendwer beim [Eingeben über die Schulter geschaut](https://en.wikipedia.org/wiki/Shoulder_surfing_(computer_security))
+  - Du hast als Passwort den Namenstag deiner Katze ausgewählt und irgendwer hat es geschafft das zu [erraten](https://en.wikipedia.org/wiki/Brute-force_attack)
+  - Dein Diensteanbieter wurde [gezwungen das Passwort heraus zu geben](https://netzpolitik.org/2020/bundesregierung-beschliesst-pflicht-zur-passwortherausgabe/)
 
-Links:<br>
-[Authy](https://www.authy.com/)<br>
-[andOTP](https://github.com/andOTP/andOTP)<br>
+Durch die, zuvor bereits erwähnte, Verwendung eines Passwortmanagers kannst du dich vor ein paar dieser Szenarien schützen.
+
+Trotzdem macht “Two Factor Authentication” oder kurz “2FA” zusätzlich großen Sinn. Dabei installierst du eine App auf deinem Handy die dir alle 30 Sekunden einen anderen kurzen Zahlencode anzeigt. Wenn du auf einer Website anmelden willst, bei der Du 2FA aktiviert hast, gibst du nicht nur dein Passwort ein, sondern auch noch den Code von deinem Handy. Ohne den Code kommt keine*r rein, das Passwort alleine reicht nicht mehr. Es werden jetzt also zwei “Faktoren” geprüft: Etwas das du weißt (das Passwort) und etwas das du besitzt (dein Handy mit der App).
+
+Auf [twofactorauth.org](https://twofactorauth.org/de/) kannst du dich informieren ob die Dienste die du nutzt 2FA anbieten und wie du es aktivieren kannst. 
+
+Eine weit verbreitete 2FA App ist “[Authy](https://www.authy.com/)”. Damit du nicht völlig aufgeschmissen bist falls du mal dein Handy verlierst, lagert Authy eine verschlüsselte Kopie deiner Datenbank auf deren Server. Diese kannst du von dort mit einem Passwort abrufen. Dieses Cloud-Backup ist trotzdem ein gewisses Risiko.
+
+Eine alternative App ist '[andOTP](https://github.com/andOTP/andOTP)' (nur Android). Diese App ist speichert nichts in '[der Cloud](https://fsfe.org/contribute/promopics/thereisnocloud-bluecolor-preview.png)', Du musst dich aber um die Backups selbst kümmern. Die App stellt dafür eine Möglichkeit bereit.
