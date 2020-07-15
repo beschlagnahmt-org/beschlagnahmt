@@ -23,12 +23,6 @@ Mail:
 - [disroot.org](https://disroot.org) (Free)
 - [snopyta.org](https://snopyta.org) (Free)
 
-VPN:
-- [riseup.net](https://riseup.net)
-- [ipredator.se](https://ipredator.se) (€)
-- [mullvad.net](https://mullvad.net) (€)
-- [cryptostorm.is](https://cryptostorm.is) (€)
-
 Suche:
 - [duckduckgo.com](https://duckduckgo.com)
 - [startpage.com](https://startpage.com)
