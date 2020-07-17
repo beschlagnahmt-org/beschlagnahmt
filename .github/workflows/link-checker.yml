@@ -1,6 +1,6 @@
 on:
   schedule:
-  - cron: '* * */1 * *'
+#  - cron: '* * */1 * *'
 name: Check markdown links
 jobs:
   linkChecker:
@@ -11,9 +11,9 @@ jobs:
         uses: peter-evans/link-checker@v1
         with:
           args: -v -r * -x assets|item|_posts|_pages
-#      - name: Create Issue From File
-#        uses: peter-evans/create-issue-from-file@v2
-#        with:
-#          title: Link Checker Report
-#          content-filepath: ./link-checker/out.md
-#          labels: report, automated issue
+      - name: Create Issue From File
+        uses: peter-evans/create-issue-from-file@v2
+        with:
+          title: Link Checker Report
+          content-filepath: ./link-checker/out.md
+          labels: report, automated issue
