@@ -1,7 +1,7 @@
 ---
-title: Inhalt
+title: Themen
 layout: page
-permalink: /inhalt/
+permalink: /themen/
 order: 2
 ---
 <ol>
