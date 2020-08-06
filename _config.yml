@@ -11,9 +11,9 @@ minima:
   social_links:
     twitter: beschlagnahmt_
     github:  beschlagnahmt-org
-    # mastodon:
-    # - username: 
-    #   instance: chaos.social
+    mastodon:
+      - username: beschlagnahmt 
+        instance: social.bau-ha.us
 
 # Build settings
 source: .
