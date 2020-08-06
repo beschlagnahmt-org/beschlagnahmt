@@ -6,7 +6,7 @@ ruby RUBY_VERSION
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
 #     bundle exec jekyll serve
-#
+#g
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "3.9.0"
@@ -23,4 +23,6 @@ group :jekyll_plugins do
    gem "jekyll-paginate", "~>1.1.0"
 #   gem "jekyll-srcset2"
    gem "jekyll-seo-tag", "~>2.6.1"
+   gem "kramdown"
+   gem "kramdown-parser-gfm"
 end
