@@ -22,7 +22,7 @@ Um die Bedienung über den Browser zu erleichtern gibt es für Chrome und Firefo
 >
 > Da die Anmeldedaten von Keepass zum Browser gelangen müssen bietet die Verwendung von solchen Addons natürlich Schadsoftware einen zusätzlichen Angriffsvektor um die Passwörter abzugreifen, falls dein System infiziert sein sollte.
 
-1. (Nur Für Linux/Mac User*Innen: Installiere das Paket “mono-complete”)
+1. (Nur Für Linux/Mac User:innen: Installiere das Paket “mono-complete”)
 2. Erstelle im Keepass Installationsordner einen Ordner namens “Plugins”
 3. Lade dir die neuste KeePassRPC.plgx Datei herunter und schiebe sie in den “Plugins” Ordner
 4. Starte Keepass und aktiviere das Plugin
@@ -30,7 +30,8 @@ Um die Bedienung über den Browser zu erleichtern gibt es für Chrome und Firefo
 6. Konfiguriere die Verbindung zwischen dem Browser-Addon und dem Keepass-Plugin indem du der Anleitung auf dem Bildschirm folgst
 7. Wenn du ein Passwort eingibst bietet Kee dir nun an es zu speichern. Mit einem Knopfdruck kannst du gespeicherte Passwörter abrufen.
 
-Links:<br>
-[Keepass](https://keepass.info/)<br>
-[KeepassRPC](https://keepass.info/plugins.html#keepassrpc)<br>
-[Kee](https://www.kee.pm)
+Links:
+
+- [Keepass](https://keepass.info/)
+- [KeepassRPC](https://keepass.info/plugins.html#keepassrpc)
+- [Kee](https://www.kee.pm)

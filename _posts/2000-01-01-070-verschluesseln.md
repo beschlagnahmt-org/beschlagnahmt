@@ -90,11 +90,11 @@ Systemverschlüsselung bei der Installation (Ubuntu):
 
 Links:
 
-[VeraCrypt](https://www.veracrypt.fr/)
-[Anleitung VeraCrypt-Systemverschlüsselung](https://www.veracrypt.fr/en/System%20Encryption.html)
-[Windows Upgrade bei Systemverschlüsselung](https://github.com/th-wilde/veracrypt-w10-patcher)
-[Anleitung Linux Verschlüsseln](https://svenfila.wordpress.com/2010/11/04/encrypt-root-partition-without-re-installing-linux/)
-[Anleitung BIOS Passwort](https://www.wikihow.com/Set-a-BIOS-Password)
+- [VeraCrypt](https://www.veracrypt.fr/)
+- [Anleitung VeraCrypt-Systemverschlüsselung](https://www.veracrypt.fr/en/System%20Encryption.html)
+- [Windows Upgrade bei Systemverschlüsselung](https://github.com/th-wilde/veracrypt-w10-patcher)
+- [Anleitung Linux Verschlüsseln](https://svenfila.wordpress.com/2010/11/04/encrypt-root-partition-without-re-installing-linux/)
+- [Anleitung BIOS Passwort](https://www.wikihow.com/Set-a-BIOS-Password)
 
 **Handy**
 
@@ -110,7 +110,7 @@ Trotz Verschlüsselung ist es also vernünftig zu Aktionen nur ein billiges Zwei
 
 Links:
 
-[How to Encrypt your Android Phone](https://proprivacy.com/privacy-service/guides/encryption-guide-to-securing-android-phone)
+- [How to Encrypt your Android Phone](https://proprivacy.com/privacy-service/guides/encryption-guide-to-securing-android-phone)
 
 **Kommunikation**
 

@@ -24,7 +24,8 @@ Im Jahr 2017 sind diese Zahlen leicht abgesunken, aber im Vergleich noch immer a
 ![](../assets/posts/kommunikationsueberwachung.jpg)
 Bild: Creative Commons BY-NC-SA 4.0. Netzpolitik.org
 
-Links:<br>
-[Wikipedia - Vorratsdatenspeicherung](https://de.wikipedia.org/wiki/Vorratsdatenspeicherung)<br>
-[Polizei überwacht vor allem wegen Drogen](https://netzpolitik.org/2016/statistik-polizei-ueberwacht-weiterhin-vor-allem-wegen-drogen/)<br>
-[Polizei überwacht erstmals weniger](https://netzpolitik.org/2019/ueberraschung-polizei-ueberwacht-erstmals-weniger-kommunikation/)
+Links:
+
+- [Wikipedia - Vorratsdatenspeicherung](https://de.wikipedia.org/wiki/Vorratsdatenspeicherung)
+- [Polizei überwacht vor allem wegen Drogen](https://netzpolitik.org/2016/statistik-polizei-ueberwacht-weiterhin-vor-allem-wegen-drogen/)
+- [Polizei überwacht erstmals weniger](https://netzpolitik.org/2019/ueberraschung-polizei-ueberwacht-erstmals-weniger-kommunikation/)

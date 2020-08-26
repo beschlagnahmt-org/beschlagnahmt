@@ -17,11 +17,12 @@ Bild: Ein IMSI-Catcher, Creative Commons BY-NC-SA 2.5 Canada. BC Civil Liberties
 > Wenn du dir ein sauberes Handy und eine anonyme Nummer besorgt hast schalte das Gerät niemals bei dir Zuhause oder an Orten an denen du dich oft aufhältst an. Damit wäre die Nummer und das Handy > nicht mehr anonym. Schalte es erst an wenn du am Ort der Aktion bist. Lege die SIM-Karte nie in dein normales Handy (und andersrum). Schalte Aktionshandy und normales Handy nie am gleichen Ort ein. 
 > Überlege dir auch immer mal wieder die Nummer zu wechseln.
 
-Links:<br>
-[Wikipedia - IMSI-Catcher](https://de.wikipedia.org/wiki/IMSI-Catcher)<br>
-[SnoopSnitch](https://opensource.srlabs.de/projects/snoopsnitch)<br>
-[Darshak](https://github.com/darshakframework/darshak)<br>
-[AIMSICD](https://cellularprivacy.github.io/Android-IMSI-Catcher-Detector/)<br>
-[Berliner Transparenzsystem](https://fts.berlin.de/)<br>
-[Wikipedia - Stille SMS](https://de.wikipedia.org/wiki/Stille_SMS)<br>
-[Statistik Stille SMS](https://netzpolitik.org/2018/halbjahreswerte-fuer-stille-sms-imsi-catcher-und-funkzellenabfragen/)<br>
+Links:
+
+- [Wikipedia - IMSI-Catcher](https://de.wikipedia.org/wiki/IMSI-Catcher)
+- [SnoopSnitch](https://opensource.srlabs.de/projects/snoopsnitch)
+- [Darshak](https://github.com/darshakframework/darshak)
+- [AIMSICD](https://cellularprivacy.github.io/Android-IMI-Catcher-Detector/)
+- [Berliner Transparenzsystem](https://fts.berlin.de/)
+- [Wikipedia - Stille SMS](https://de.wikipedia.org/wiki/Stille_SMS)
+- [Statistik Stille SMS](https://netzpolitik.org/2018/halbjahreswerte-fuer-stille-sms-imsi-catcher-und-funkzellenabfragen/)

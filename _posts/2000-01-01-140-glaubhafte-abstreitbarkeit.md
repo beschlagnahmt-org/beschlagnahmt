@@ -13,8 +13,9 @@ Um diese Funktion zu nutzen beginnst du mit einem unverschlüsselten System, ins
 Ja, das ist leider ziemlich kompliziert, kann dir aber in bestimmten Situationen von großem Nutzen sein. Weitere Informationen und Sicherheitshinweise findest auf der Seite von VeraCrypt. Eine Anleitung zu Plausible Deniability unter Linux findest du bei LinuxBrujo.
 Tricks wie diese können unter Umständen helfen dich in Verhörsituationen zu entlasten, aber selbstverständlich sind sie keine Garantie dass dein Gegenüber dir glaubt und ggf. auf die Anwendung von Gewalt verzichtet.
 
-Links:<br>
-[Wikipedia - Gummischlauch-Kryptoanalyse](https://de.wikipedia.org/wiki/Rubber-hose_cryptanalysis)<br>
-[VeraCrypt - Plausible Deniability](https://www.veracrypt.fr/en/Plausible%20Deniability.html)<br>
-[VeraCrypt - Hidden Operating System](https://www.veracrypt.fr/en/VeraCrypt%20Hidden%20Operating%20System.html)<br>
-[LinuxBrujo - Plausible Deniability with LUKS](https://blog.linuxbrujo.net/posts/plausible-deniability-with-luks/)<br>
+Links:
+
+- [Wikipedia - Gummischlauch-Kryptoanalyse](https://de.wikipedia.org/wiki/Rubber-hose_cryptanalysis)
+- [VeraCrypt - Plausible Deniability](https://www.veracrypt.fr/en/Plausible%20Deniability.html)
+- [VeraCrypt - Hidden Operating System](https://www.veracrypt.fr/en/VeraCrypt%20Hidden%20Operating%20System.html)
+- [LinuxBrujo - Plausible Deniability with LUKS](https://blog.linuxbrujo.net/posts/plausible-deniability-with-luks/)

@@ -22,5 +22,6 @@ Daher hier nochmal ein paar Grundregeln:
 
 Weitere gute Tipps für Windows Nutzer:innen gibt es bei [Decent Security](https://decentsecurity.com).
 
-Links:<br>
-[uBlock](https://github.com/gorhill/uBlock/)<br>
+Links:
+
+- [uBlock](https://github.com/gorhill/uBlock/)
