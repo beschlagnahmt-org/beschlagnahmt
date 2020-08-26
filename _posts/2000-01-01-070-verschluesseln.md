@@ -50,10 +50,7 @@ Windows Upgrade eines verschlüsselten Systems:
 1. Erstelle ein Installationsmedium mit dem Media Creation Tool von Microsoft
 2. Öffne eine Kommandozeile (Einfach im Startmenü “cmd” eingeben und mit Rechtsklick als Administrator*in ausführen)
 3. Navigiere in das Verzeichnis mit der setup.exe das du in Schritt 1 erstellt hast
-4. Führe den Befehl
-.\setup.exe
-/ReflectDrivers
-“C:\Program Files\VeraCrypt” /PostOOBE C:\ProgramData\VeraCrypt\SetupComplete.cmd aus. (Alles in einer Zeile)
+4. Führe den Befehl `.\setup.exe /ReflectDrivers “C:\Program Files\VeraCrypt” /PostOOBE C:\ProgramData\VeraCrypt\SetupComplete.cmd` aus. (Alles in einer Zeile)
 5. Folge den Anweisungen auf dem Bildschirm
 
 Sollte dir das wirklich viel viel zu kompliziert sein kannst du auch schauen ob deine Windows Version “Bitlocker” mit dabei hat. Das ist das Verschlüsselungs-Programm von Microsoft. Es ist einfacher zu bedienen, allerdings ist es sehr wahrscheinlich das dort Hintertüren eingebaut wurden. Allgemein kann VeraCrypt da deutlich mehr Vertrauen entgegen gebracht werden, aber bevor du stattdessen gar keine Verschlüsselung benutzt verwende lieber Bitlocker.
