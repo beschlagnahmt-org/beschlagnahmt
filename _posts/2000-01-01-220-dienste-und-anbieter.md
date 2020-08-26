@@ -10,49 +10,36 @@ Inv = Nur auf persönliche Anfrage oder Einladung<br>
 
 Mail:
 
-- [posteo.de](https://posteo.de) (€)
-- [mailbox.org](https://mailbox.org) (€)
-- [protonmail.com](https://protonmail.com)
-- [riseup.net](https://riseup.net) (Inv)
-- [autistici.org](https://autistici.org) (Inv)
-- [systemausfall.org](https://systemausfall.org) (inv)
-- [systemli.org](https://systemli.org) (Inv)
-- [so36.net](https://so36.net) (Inv)
-- [anonymousspeech.com](https://anonymousspeech.com) (€)
-- [immerda.ch](https://immerda.ch) (Inv)
-- [dismail.de](https://dismail.de) (XMPP Anmeldung)
-- [disroot.org](https://disroot.org) (Free)
-- [snopyta.org](https://snopyta.org) (Free)
-
-Suche:
-
-- [duckduckgo.com](https://duckduckgo.com)
-- [startpage.com](https://startpage.com)
-- [qwant.com](https://qwant.com)
-- Searx
-    - [searx.mastodontech.de](https://searx.mastodontech.de)
-    - [search.snopyta.org](https://search.snopyta.org)
-    - [searx.decatec.de](https://searx.decatec.de)
+- [Posteo](https://posteo.de) (€)
+- [Mailbox](https://mailbox.org) (€)
+- [Riseup](https://riseup.net) (Inv)
+- [Autistici](https://autistici.org) (Inv)
+- [Systemausfall](https://systemausfall.org) (inv)
+- [Systemli](https://systemli.org) (Inv)
+- [so36](https://so36.net) (Inv)
+- [Anonymous Speech](https://anonymousspeech.com) (€)
+- [Immerda](https://immerda.ch) (Inv)
+- [Dismail](https://dismail.de) (XMPP Anmeldung)
+- [Disroot](https://disroot.org) (Free)
+- [Snopyta](https://snopyta.org) (Free)
 
 Jabber/XMPP:
 
-- [riseup.net](https://riseup.net) (Inv)
-- [systemli.org](https://systemli.org)
-- [systemausfall.org](https://systemausfall.org) (Inv)
-- [so36.net](https://so36.net) (Inv)
-- [jabber.ccc.de](https://jabber.ccc.de)
+- [Riseup](https://riseup.net) (Inv)
+- [Systemli](https://systemli.org)
+- [Systemausfall](https://systemausfall.org) (Inv)
+- [so36](https://so36.net) (Inv)
+- [CCC](https://jabber.ccc.de)
 
 Telefonie:
 
 - Jitsi Meet
     - [jitsi.rocks](https://jitsi.rocks)
-    - [meet.jitsi.world](https://meet.jitsi.world)
-    - [talk.snopyta.org](https://talk.snopyta.org)
+    - [jitsi.world](https://meet.jitsi.world)
+    - [Snopyta](https://talk.snopyta.org)
 - BigBlueButton
-    - [meeten.statt-drosseln.de](https://meeten.statt-drosseln.de)
-    - [senfcall.de](https://senfcall.de)
-    - [bbb.daten.reisen/b](https://bbb.daten.reisen/b)
-
-DNS:
+    - [Meeten statt Drosseln](https://meeten.statt-drosseln.de)
+    - [Senfcall](https://senfcall.de)
+    - [Datenreisen](https://bbb.daten.reisen/b)
 
 Eine ausführliche Liste von Software und Anbietern findest du bei [PrismBreak](https://prism-break.org/de/) und [PrivacyTools](https://www.privacytools.io/).
