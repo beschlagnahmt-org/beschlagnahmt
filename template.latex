@@ -40,6 +40,7 @@ breaklinks=true}
 \usepackage[margin=2cm]{geometry}
 \usepackage{graphicx,grffile}
 \usepackage{eso-pic}
+\usepackage{setspace}
 
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -64,12 +65,15 @@ breaklinks=true}
 }
 
 \begin{document}
-
 \newpage
 \thispagestyle{empty}
 \mbox{}
 \newpage
 \ClearShipoutPictureBG
+
+{\setstretch{0.5}
+\tableofcontents
+}
 
 $for(include-before)$
 $include-before$
