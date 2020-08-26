@@ -8,12 +8,12 @@ Die deutschen Behörden können deine elektronischen Geräte beschlagnahmen, aus
 
 **Sei für diesen Fall vorbereitet!**
 
-Mit ein paar Tricks kannst du dafür sorgen, dass die ganze Aktion zwar nervig ist, aber er Staat [nicht in deinen persönlichen Daten rumschnüffelt](https://www.kontextwochenzeitung.de/debatte/438/linksunten-6138.html). 
+Mit ein paar Tricks kannst du dafür sorgen, dass die ganze Aktion zwar nervig ist, aber der Staat [nicht in deinen persönlichen Daten rumschnüffelt](https://www.kontextwochenzeitung.de/debatte/438/linksunten-6138.html). 
 Hier bekommst du einige Anhaltspunkte wie du dich schützen kannst, auch ohne ein Computernerd zu sein. Lieber jetzt ein wenig Arbeit investieren und dafür bleiben später deine Daten für die Cops tabu.
 
 Der Quelltext von ACAB ist unter [https://github.com/beschlagnahmt-org/beschlagnahmt](https://github.com/beschlagnahmt-org/beschlagnahmt) zu finden. Wenn du einen Fehler gefunden oder einen Verbessungsvorschlag hast, [lass es uns wissen](https://github.com/beschlagnahmt-org/beschlagnahmt/issues).
-Gerne kannst du direkt [auf Github einen Verbesserungsvorschlag einrichen](https://github.com/beschlagnahmt-org/beschlagnahmt/pulls).
+Gerne kannst du direkt [auf Github einen Verbesserungsvorschlag einreichen](https://github.com/beschlagnahmt-org/beschlagnahmt/pulls).
 Sollte dir das zu öffentlich sein, melde dich gerne unter der im [Impressum](/impressum) angegeben Mail-Adresse.
 
-![](/assets/antifamily.jpg)<br>
-InhaberInnen der der ANTIFAmity Karte bekommen außerdem Zugang zu wertvollen Zusatz-Tipps.
+![](/assets/pages/crt-antifa.png)<br>
+(Computer: CC-BY-SA-3.0 Thomas Kaiser, Montage: Beschlagnahmt)
