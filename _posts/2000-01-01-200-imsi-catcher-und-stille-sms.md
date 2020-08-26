@@ -4,6 +4,7 @@ layout: capter
 permalink: /imsi-catcher-und-stille-sms/
 category: capter
 ---
+# IMSI Catcher und Stille SMS
 Warum wird denn eigentlich immer dazu geraten zu Demos und Aktionen nur Zweithandys mitzunehmen?
 Klar, die Bullen können die eventuell dein Haupthandy wegnehmen und Daten davon gewinnen. Doch es gibt noch andere Risiken, für die du das Handy nichtmal aus der Tasche genommen haben musst. Immer wieder kommt es vor das im Umfeld von Demos IMSI-Catcher aufgestellt werden. (Es ist möglich diese mit spezieller Software wie SnoopSnitch, Darshak oder AIMSICD zu erkennen.) IMSI-Catcher tun so als wären sie eine normale Funkzelle im Handynetz und überreden Geräte in ihrem Umfeld dazu sich dort einzubuchen.
 Damit können die Bullen feststellen welche Handynummern gerade in der Umgebung sind und so die anwesen den Personen feststellen. Mit dem Gerät können auch Telefonate abgehört werden. Dazu leitet der IMSI-Catcher das Gespräch mit seiner eigenen Nummer weiter. Wird der Catcher nicht in diesem Abhörmodus betrieben sind für die Personen im Umfeld oft Anrufe komplett blockiert. 

@@ -4,6 +4,7 @@ layout: capter
 permalink: /passwort-manager/
 category: capter
 ---
+# Passwort-Manager
 Was bei einem Passwort wichtig ist haben wir erklärt. 
 Um diese super sicheren Passwörter alle aufzubewahren hilft ein Passwort-Manager. Da es bereits zu Datenlecks bei Bezahl-Anbietern kam sollte die Wahl hierbei auf Keepass fallen, denn Keepass ist Open Source, bewährt und nicht web-basiert. Wie du trotzdem die Vorzüge von Browserintegration und geräteübergreifender Synchronisation genießen kannst weiter unten.
 Passwort Management mit Keepass (Win, Linux):

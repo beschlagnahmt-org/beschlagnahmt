@@ -4,6 +4,7 @@ layout: capter
 permalink: /systemsicherheit/
 category: capter
 ---
+# Systemsicherheit
 Besonders weil die Behörden möglicherweise Spionage-Software auf deinem Rechner oder deinem Handy installieren wollen solltest du darauf achten diese möglichst frei von Sicherheitslücken zu halten. 
 
 Daher hier nochmal ein paar Grundregeln:

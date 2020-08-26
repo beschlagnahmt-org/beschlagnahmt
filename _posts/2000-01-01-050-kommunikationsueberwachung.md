@@ -4,6 +4,7 @@ layout: capter
 permalink: /kommunikationsueberwachung/
 category: capter
 ---
+# Kommunikationsüberwachung
 Bei der Telekommunikationsüberwachung, oder kurz TKÜ hören die Behörden Kommunikation direkt beim Dienstbetreiber ab. Das kann zum Beispiel euer Handyanbieter sein, euer Internet-Provider oder euer E-Mail Service. Es können viele Daten auch im Nachhinein angefordert werden, zum Beispiel die Websites die du aufgerufen hast, die Nummern die du angerufen hast, die E-Mails die du geschrieben hast und die Privatnachrichten die du auf Facebook verschickt hast. (Vorrausgesetzt der Anbieter hat diese Daten noch gespeichert.)
 Auch hier kannst du dich wieder durch verschiedene Verschlüsselungsverfahren schützen.
 

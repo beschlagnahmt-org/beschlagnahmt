@@ -4,6 +4,7 @@ layout: capter
 permalink: /anonym-im-netz/
 category: capter
 ---
+# Anonym im Netz
 Ganz grundlegend: Solltest du nicht wollen, dass ersichtlich ist was Du im Internet machst, musst Du einen Anonymisierungsdienst verwenden. Das Tool, welches Dir hierfür die besten Chancen bietet ist der 'Tor Browser'. Es gibt noch andere Angebote die das selbe versprechen, diese sind aber entweder unsicherer (wie z.B. VPNs, mehr dazu weiter unten) oder weit weniger verbreitet (wie z.B. [I2P](https://geti2p.net/de/) oder [Freenet](https://freenetproject.org/)) damit auch weniger von Fachleuten geprüft.
 
 **Tor**
