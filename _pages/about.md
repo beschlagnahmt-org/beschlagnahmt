@@ -15,5 +15,5 @@ Der Quelltext von ACAB ist unter [https://github.com/beschlagnahmt-org/beschlagn
 Gerne kannst du direkt [auf Github einen Verbesserungsvorschlag einreichen](https://github.com/beschlagnahmt-org/beschlagnahmt/pulls).
 Sollte dir das zu öffentlich sein, melde dich gerne unter der im [Impressum](/impressum) angegeben Mail-Adresse.
 
-![](/assets/pages/crt-antifa.png)<br>
+![](/assets/pages/crt-antifa.jpg)  
 (Computer: CC-BY-SA-3.0 Thomas Kaiser, Montage: Beschlagnahmt)
