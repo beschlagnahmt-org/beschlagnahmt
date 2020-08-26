@@ -28,8 +28,11 @@ Die einfachste Methode um Tor zu benutzen ist der [Tor Browser](https://www.torp
 Grundsätzlich solltest du bedenken, dass mögliche Überwacher Deines Anschlusses sehen können dass du Tor benutzt. Allerdings können sie nicht sehen was du machst, denn die Verbindung ins Netzwerk ist verschlüsselt. Die Nutzung von Tor an sich macht dich nicht verdächtig, denn außer dir machen das alleine [in Deutschland über 150.000 Meschen täglich](https://metrics.torproject.org/userstats-relay-country.html?country=de&events=off).
 
 > ⚠ Wichtig ⚠<br>
+>
 > - [Security Level](https://tb-manual.torproject.org/security-settings/) mindestens 'Safer' besser 'Safest'
+>
 > - Keine Addons installieren
+>
 > - Einstellungen des Browsers nicht ändern
 
 **VPN**

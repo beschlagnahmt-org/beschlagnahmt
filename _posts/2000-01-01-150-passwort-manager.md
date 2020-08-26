@@ -19,9 +19,10 @@ Kee:
 Um die Bedienung über den Browser zu erleichtern gibt es für Chrome und Firefox das Addon “Kee”. Dieses kann Anmeldeformulare automatisch ausfüllen, Passwörter generieren oder Anmeldedaten nach einer Registrierung in der Datenbank ablegen.
 
 > ⚠ Risiken abwägen ⚠<br>
+>
 > Da die Anmeldedaten von Keepass zum Browser gelangen müssen bietet die Verwendung von solchen Addons natürlich Schadsoftware einen zusätzlichen Angriffsvektor um die Passwörter abzugreifen, falls dein System infiziert sein sollte.
 
-(1. Nur Für Linux/Mac User*Innen: Installiere das Paket “mono-complete”)
+1. (Nur Für Linux/Mac User*Innen: Installiere das Paket “mono-complete”)
 2. Erstelle im Keepass Installationsordner einen Ordner namens “Plugins”
 3. Lade dir die neuste KeePassRPC.plgx Datei herunter und schiebe sie in den “Plugins” Ordner
 4. Starte Keepass und aktiviere das Plugin

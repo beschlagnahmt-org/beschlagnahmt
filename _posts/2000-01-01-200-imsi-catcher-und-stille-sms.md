@@ -13,6 +13,7 @@ Das gilt auch für Notrufe. Aus diesem Grund ist es so wichtig ein Demo-Handy mi
 Bild: Ein IMSI-Catcher, Creative Commons BY-NC-SA 2.5 Canada. BC Civil Liberties Association
 
 > ⚠ Fallstrick beim Demo-Handy ⚠<br>
+>
 > Wenn du dir ein sauberes Handy und eine anonyme Nummer besorgt hast schalte das Gerät niemals bei dir Zuhause oder an Orten an denen du dich oft aufhältst an. Damit wäre die Nummer und das Handy > nicht mehr anonym. Schalte es erst an wenn du am Ort der Aktion bist. Lege die SIM-Karte nie in dein normales Handy (und andersrum). Schalte Aktionshandy und normales Handy nie am gleichen Ort ein. 
 > Überlege dir auch immer mal wieder die Nummer zu wechseln.
 
