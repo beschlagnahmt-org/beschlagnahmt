@@ -158,9 +158,9 @@ $endif$
 $if(verbatim-in-note)$
 \VerbatimFootnotes % allows verbatim text in footnotes
 $endif$
-$if(geometry)$
-\usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
-$endif$
+
+\usepackage[margin=2cm]{geometry}
+
 $if(beamer)$
 \newif\ifbibliography
 $endif$
@@ -343,18 +343,6 @@ $endif$
 $endif$
 
 \begin{document}
-$if(title)$
-$if(beamer)$
-\frame{\titlepage}
-$else$
-\maketitle
-$endif$
-$if(abstract)$
-\begin{abstract}
-$abstract$
-\end{abstract}
-$endif$
-$endif$
 
 $for(include-before)$
 $include-before$
