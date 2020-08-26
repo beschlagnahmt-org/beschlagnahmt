@@ -21,7 +21,7 @@ Wie oft werden eigentlich Überwachungsmaßnahmen angeordnet? Beispielhaft schau
 Im Jahr 2015 gab es 3332 Festnetz-Überwachungen, 21906 Mobilfunküberwachungen und 7431 Internetüberwachungen. Verkehrsdatenüberwachungen, also das Sammeln von Metadaten über die Kommunikation wurde in ganzen 26265 Fällen angeordnet und die Anordnung in weiteren 899 Fällen verlängert.
 Im Jahr 2017 sind diese Zahlen leicht abgesunken, aber im Vergleich noch immer ausgesprochen hoch.
 
-![](/assets/posts/kommunikationsueberwachung.jpg)
+![](../assets/posts/kommunikationsueberwachung.jpg)
 Bild: Creative Commons BY-NC-SA 4.0. Netzpolitik.org
 
 Links:<br>

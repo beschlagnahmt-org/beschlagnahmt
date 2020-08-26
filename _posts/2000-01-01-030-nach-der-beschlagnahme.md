@@ -11,4 +11,4 @@ Auch gesperrte Handys können mit der Spezialsoftware und -hardware ausgelesen w
 
 Wird das Verfahren irgendwann eingestellt bekommst du deine beschlagnahmten Sachen zurück. Das kann aber dauern und es soll auch schon vorgekommen sein dass Festplatten die nicht entschlüsselt werden konnten bei der Rückgabe auf einmal leer waren.
 
-![](/assets/posts/beschlagnahme.jpg)
+![](../assets/posts/beschlagnahme.jpg)

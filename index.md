@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-![Cover](/assets/cover/cover.jpg "Cover")
+![Cover](assets/cover/cover.jpg "Cover")

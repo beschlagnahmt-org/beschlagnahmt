@@ -35,7 +35,7 @@ klicken
 10. “Next”
 11. Entsprechend der Anweisungen eine Rescue Disk erstellen. Wenn du kein CD-Laufwerk hast kannst du auch einen USB-Stick verwenden. Mit der CD bzw. dem USB-Stick kannst du das System nicht wiederherstellen wenn du dein Passwort vergessen hast. Sie dienen nur dazu das System zu retten falls Dateien beschädigt wurden die VeraCrypt zum entschlüsseln benötigt. Du solltest den Datenträger also gut aufbewahren, wenn die Cops ihn kriegen sind deine Daten aber trotzdem noch sicher.
 
-![](/assets/posts/veracrypt-verschluesseln.jpg)
+![](../assets/posts/veracrypt-verschluesseln.jpg)
 
 VeraCrypt benötigt Zufallsdaten zum verschlüsseln.
 
@@ -101,7 +101,7 @@ Die meisten Smartphones unterstützen ebenfalls eine Systemverschlüsselung.
 Das funktioniert unterschiedlich gut und auf jedem Gerät ein wenig anders. Den genauen Weg für dein Gerät recherchierst du am besten selber, aber im großen und ganzen läuft das so ähnlich wie beim Computer. [21] Du lädst das Handy auf und lässt es am Ladegerät, suchst im Einstellungsmenü die Option zum verschlüsseln, gibst zweimal dein gewünschtes Passwort ein und wartest bis der Prozess abgeschlossen ist. Teilweise muss nochmal explizit angewählt werden das auch die externe Speicherkarte verschlüsselt werden soll. Grundsätzlich ist das alles auch genau so sicher wie auf dem Computer, aber besonders ältere Geräte die nicht mehr mit Updates versorgt werden stellen ein zusätzliches Risiko dar.
 Trotz Verschlüsselung ist es also vernünftig zu Aktionen nur ein billiges Zweit-Handy mitzunehmen auf dem keine persönlichen Daten gespeichert sind. Auch eine SIM-Karte die nicht mit deinem Namen verknüpft ist, ist dabei eine gute Idee.
 
-![](/assets/posts/handy_verschluesselung.jpg)
+![](../assets/posts/handy_verschluesselung.jpg)
 
 
 > ⚠ Fallstrick beim Handy-Verschlüsseln ⚠<br>
@@ -123,6 +123,6 @@ Was wir gerade für die Verschlüsselung unserer Geräte verwendet haben war ein
 
 Ein privater und ein öffentlicher Schlüssel bilden ein Schlüsselpaar. Eine Nachricht die mit Bobs öffentlichem Schlüssel verschlüsselt wurde kann nur mit seinem privatem Schlüssel entschlüssselt werden. Selbst Alice die die Nachricht verschlüsselt hat kann die Verschlüsselung nicht rückgängig machen, denn nur Bob kennt den privaten Schlüssel.
 
-![](/assets/posts/encryption_decryption.jpg)
+![](../assets/posts/encryption_decryption.jpg)
 
 Dieses Verfahren wird fast überall verwendet wo ohne einen sicheren Kanal zum Passwortaustausch kommuniziert werden muss. Es ist auf den ersten Blick etwas kompliziert, funktioniert aber gut.
