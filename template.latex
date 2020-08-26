@@ -41,6 +41,7 @@ breaklinks=true}
 \usepackage{graphicx,grffile}
 \usepackage{eso-pic}
 \usepackage{setspace}
+\usepackage{datetime}
 
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -65,18 +66,37 @@ breaklinks=true}
 }
 
 \begin{document}
+
+%frontcover
 \newpage
 \thispagestyle{empty}
 \mbox{}
 \newpage
 \ClearShipoutPictureBG
 
+%impressum
+\newpage
+Commit \input{.git/refs/heads/master}\\
+built on \today, \currenttime
+
+Weitergabe und Vervielfältigung ausdrücklich erwünscht.
+
+beschlagnahmt@riseup.net\\
+96D2 D925 9050 EFBD C187 5334 A02F 772C 7A0E 353F
+
+Online verfügbar unter beschlagnahmt.org oder via Tor unter\\ 
+hkku46njdrc6zj76hhaeflyycsrdpuwimclhs75rkowbbguyudmbinad.onion
+
+Lizenziert unter WTFPL (http://www.wtfpl.net/txt/copying/)
+\newpage
+
+%table of contents
 {\setstretch{0} \footnotesize
 \tableofcontents
 \par}
-
 \newpage
 
+%content
 $for(include-before)$
 $include-before$
 $endfor$
@@ -87,8 +107,8 @@ $for(include-after)$
 $include-after$
 $endfor$
 
+%backcover
 \newpage
-
 \AddToShipoutPictureBG{%
   \AtPageLowerLeft{\includegraphics[width=\paperwidth,height=\paperheight]{assets/cover/acabBack}}
 }
