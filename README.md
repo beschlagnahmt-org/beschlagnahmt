@@ -4,4 +4,4 @@
 
 Build PDF using
 
-`pandoc -s -f markdown _posts/* -o acab.pdf --resource-path=.:./assets/ --pdf-engine=xelatex --template=template.latex`
+`pandoc -s -f markdown _pages/about.md _posts/* -o acab.pdf --resource-path=.:./assets/ --pdf-engine=xelatex --template=template.latex`

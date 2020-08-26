@@ -71,9 +71,11 @@ breaklinks=true}
 \newpage
 \ClearShipoutPictureBG
 
-{\setstretch{0.5}
+{\setstretch{0} \footnotesize
 \tableofcontents
-}
+\par}
+
+\newpage
 
 $for(include-before)$
 $include-before$
