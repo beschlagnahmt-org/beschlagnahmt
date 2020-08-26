@@ -9,6 +9,7 @@ Hier wurde nun öfters erwähnt wie viel Vertrauen du den Menschen gegenüber br
 Inv = Nur auf persönliche Anfrage oder Einladung<br>
 
 Mail:
+
 - [posteo.de](https://posteo.de) (€)
 - [mailbox.org](https://mailbox.org) (€)
 - [protonmail.com](https://protonmail.com)
@@ -24,6 +25,7 @@ Mail:
 - [snopyta.org](https://snopyta.org) (Free)
 
 Suche:
+
 - [duckduckgo.com](https://duckduckgo.com)
 - [startpage.com](https://startpage.com)
 - [qwant.com](https://qwant.com)
@@ -33,6 +35,7 @@ Suche:
     - [searx.decatec.de](https://searx.decatec.de)
 
 Jabber/XMPP:
+
 - [riseup.net](https://riseup.net) (Inv)
 - [systemli.org](https://systemli.org)
 - [systemausfall.org](https://systemausfall.org) (Inv)
@@ -40,11 +43,11 @@ Jabber/XMPP:
 - [jabber.ccc.de](https://jabber.ccc.de)
 
 Telefonie:
+
 - Jitsi Meet
     - [jitsi.rocks](https://jitsi.rocks)
     - [meet.jitsi.world](https://meet.jitsi.world)
     - [talk.snopyta.org](https://talk.snopyta.org)
-
 - BigBlueButton
     - [meeten.statt-drosseln.de](https://meeten.statt-drosseln.de)
     - [senfcall.de](https://senfcall.de)
@@ -52,4 +55,4 @@ Telefonie:
 
 DNS:
 
-Eine ausführliche Liste von Software und Anbietern findest du bei [PrismBreak](https://prism-break.org/de/) [53] und [PrivacyTools](https://www.privacytools.io/). [68]
+Eine ausführliche Liste von Software und Anbietern findest du bei [PrismBreak](https://prism-break.org/de/) und [PrivacyTools](https://www.privacytools.io/).
