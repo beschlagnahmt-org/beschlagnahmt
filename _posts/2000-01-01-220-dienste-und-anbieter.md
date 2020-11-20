@@ -51,4 +51,4 @@ Telefonie:
 
 DNS:
 
-Eine ausführliche Liste von Software und Anbietern findest du bei [PrismBreak](https://prism-break.org/de/) [53] und [PrivacyTools](https://www.privacytools.io/). [68]
+Eine ausführliche Liste von Software und Anbietern findest du bei [PrismBreak](https://prism-break.org/de/) und [PrivacyTools](https://www.privacytools.io/).
