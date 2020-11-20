@@ -48,7 +48,7 @@ VeraCrypt benötigt Zufallsdaten zum verschlüsseln.
 Windows Upgrade eines verschlüsselten Systems:
 
 1. Erstelle ein Installationsmedium mit dem Media Creation Tool von Microsoft
-2. Öffne eine Kommandozeile (Einfach im Startmenü “cmd” eingeben und mit Rechtsklick als Administrator*in ausführen)
+2. Öffne eine Kommandozeile (Einfach im Startmenü “cmd” eingeben und mit Rechtsklick als Administrator:in ausführen)
 3. Navigiere in das Verzeichnis mit der setup.exe das du in Schritt 1 erstellt hast
 4. Führe den Befehl
 .\setup.exe
@@ -86,7 +86,7 @@ Systemverschlüsselung bei der Installation (Ubuntu):
 2. Im Fenster “Art der Installation” einen Haken bei “Encrypt the new Ubuntu installation for security” setzen und weiter zum nächsten Schritt 
 3. Passwort eingeben (siehe dazu Kapitel „Passwort“)
 4. Haken bei “Overwrite empty disk space” setzen
-5. Mit “Install Now” die eigentliche Installation starten Bedenke das diese Verfahren umgangen werden können indem in deine Wohnung eingedrungen wird und ein Keylogger installiert wird. Das ist ein kleines Gerät am USB Anschluss oder eine Software welche die Tastatureingaben mitschneidet. Statte also dein UEFI und ggf. deinen Bootloader mit einem Passwort aus [20] und prüfe immer mal wieder den Anschluss deiner Tastatur auf Unregelmäßigkeiten.
+5. Mit “Install Now” die eigentliche Installation starten Bedenke das diese Verfahren umgangen werden können indem in deine Wohnung eingedrungen wird und ein Keylogger installiert wird. Das ist ein kleines Gerät am USB Anschluss oder eine Software welche die Tastatureingaben mitschneidet. Statte also dein UEFI und ggf. deinen Bootloader mit einem Passwort aus und prüfe immer mal wieder den Anschluss deiner Tastatur auf Unregelmäßigkeiten.
 
 Links:<br>
 [VeraCrypt](https://www.veracrypt.fr/)<br>
@@ -98,7 +98,7 @@ Links:<br>
 **Handy**
 
 Die meisten Smartphones unterstützen ebenfalls eine Systemverschlüsselung.
-Das funktioniert unterschiedlich gut und auf jedem Gerät ein wenig anders. Den genauen Weg für dein Gerät recherchierst du am besten selber, aber im großen und ganzen läuft das so ähnlich wie beim Computer. [21] Du lädst das Handy auf und lässt es am Ladegerät, suchst im Einstellungsmenü die Option zum verschlüsseln, gibst zweimal dein gewünschtes Passwort ein und wartest bis der Prozess abgeschlossen ist. Teilweise muss nochmal explizit angewählt werden das auch die externe Speicherkarte verschlüsselt werden soll. Grundsätzlich ist das alles auch genau so sicher wie auf dem Computer, aber besonders ältere Geräte die nicht mehr mit Updates versorgt werden stellen ein zusätzliches Risiko dar.
+Das funktioniert unterschiedlich gut und auf jedem Gerät ein wenig anders. Den genauen Weg für dein Gerät recherchierst du am besten selber, aber im großen und ganzen läuft das so ähnlich wie beim Computer. Du lädst das Handy auf und lässt es am Ladegerät, suchst im Einstellungsmenü die Option zum verschlüsseln, gibst zweimal dein gewünschtes Passwort ein und wartest bis der Prozess abgeschlossen ist. Teilweise muss nochmal explizit angewählt werden das auch die externe Speicherkarte verschlüsselt werden soll. Grundsätzlich ist das alles auch genau so sicher wie auf dem Computer, aber besonders ältere Geräte die nicht mehr mit Updates versorgt werden stellen ein zusätzliches Risiko dar.
 Trotz Verschlüsselung ist es also vernünftig zu Aktionen nur ein billiges Zweit-Handy mitzunehmen auf dem keine persönlichen Daten gespeichert sind. Auch eine SIM-Karte die nicht mit deinem Namen verknüpft ist, ist dabei eine gute Idee.
 
 ![](/assets/posts/handy_verschluesselung.jpg)
@@ -112,11 +112,11 @@ Links:<br>
 
 **Kommunikation**
 
-Wenn du eine Nachricht über das Internet versendest wird sie viele Stellen durchlaufen bis sie am Ziel angekommen ist. Vielen davon musst du ohne Verschlüsselung einfach vertrauen das sie deine Daten schützen und sich im Zweifel auch gegen Behördenanfragen zur Wehr setzen. Das machen aber leider viele nicht. Zum Beispiel ist bekannt das 1&1 zu denen auch GMX und Web.de gehören ohne große Rückfragen gespeicherte Daten weitergeben. Aber auch bei kleineren Anbietern solltest du dich nicht darauf verlassen dass die Betreiber*innen für dich in den Knast gehen werden wenn sie eine Anfrage bekommen. Die Lösung ist auch hier wieder Verschlüsselung.
+Wenn du eine Nachricht über das Internet versendest wird sie viele Stellen durchlaufen bis sie am Ziel angekommen ist. Vielen davon musst du ohne Verschlüsselung einfach vertrauen das sie deine Daten schützen und sich im Zweifel auch gegen Behördenanfragen zur Wehr setzen. Das machen aber leider viele nicht. Zum Beispiel ist bekannt das 1&1 zu denen auch GMX und Web.de gehören ohne große Rückfragen gespeicherte Daten weitergeben. Aber auch bei kleineren Anbietern solltest du dich nicht darauf verlassen dass die Betreiber:innen für dich in den Knast gehen werden wenn sie eine Anfrage bekommen. Die Lösung ist auch hier wieder Verschlüsselung.
 
 **Asymmetrische Verschlüsselung**
 
-Was wir gerade für die Verschlüsselung unserer Geräte verwendet haben war eine traditionelle symmetrische Verschlüsselung. Das bedeutet das die Person an die Daten kommt die das Passwort hat. Für Kommunikation ist das etwas unpraktisch, da so das Passwort zwischen allen Kommunikationsteilnehmer*innen auf einem sicheren Kanal ausgetauscht werden muss bevor kommuniziert werden kann. Das ist umständlich und bringt das Risiko mit sich, dass das Passwort beim Austausch abgefangen wird. Dieses Problem wird mit asymmetrischer Verschlüsselung gelöst. Bei dieser haben unsere Kommunikationsteilnehmer*innen Alice und Bob je einen öffentlichen und einen privaten Schlüssel. Der öffentliche Schlüssel wird nur zum verschlüsseln verwendet, der private Schlüssel wird nur zum entschlüsseln verwendet. 
+Was wir gerade für die Verschlüsselung unserer Geräte verwendet haben war eine traditionelle symmetrische Verschlüsselung. Das bedeutet das die Person an die Daten kommt die das Passwort hat. Für Kommunikation ist das etwas unpraktisch, da so das Passwort zwischen allen Kommunikationsteilnehmer:innen auf einem sicheren Kanal ausgetauscht werden muss bevor kommuniziert werden kann. Das ist umständlich und bringt das Risiko mit sich, dass das Passwort beim Austausch abgefangen wird. Dieses Problem wird mit asymmetrischer Verschlüsselung gelöst. Bei dieser haben unsere Kommunikationsteilnehmer:innen Alice und Bob je einen öffentlichen und einen privaten Schlüssel. Der öffentliche Schlüssel wird nur zum verschlüsseln verwendet, der private Schlüssel wird nur zum entschlüsseln verwendet. 
 
 > Alice und Bob?
 > Alice und Bob sind die “Anna und Arthur” der Kryptografie, In unserem Beispiel wollen die beiden miteinander kommunizieren ohne dass Mallory mitlesen kann.
