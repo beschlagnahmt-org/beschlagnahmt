@@ -6,7 +6,7 @@ category: capter
 ---
 __Online-Durchsuchung__
 
-Eine 'Online-Durchsuchung' lässt sich mit einer heimlichen Hausdurchsuchung vergleichen. Die Behörden versuchen dabei einen Trojaner auf dem Zielsystem zu installieren und so alle gespeicherten Daten (Fotos, Adressbuch, Kalender, Chats, ...) abzugreifen. So hat zum Beispiel die Firma DigiTask, der Hersteller des “Staatstrojaners”, Funktionen in die Software eingebaut die die Behörden überhaupt nicht nutzen dürften. Auch die Software FinFisher der deutschen Firma Gamma Group wurde zeitweise ohne Rechtsgrundlage vom LKA Berlin lizenziert. D Nette Geschichte am Rande: Die Firmen Gamma und Hacking Team wurden beide von einem Frosch namens Phineas Phisher gehackt und interne Daten über ihre Geschäfte ins Netz gestellt.
+Eine 'Online-Durchsuchung' lässt sich mit einer heimlichen Hausdurchsuchung vergleichen. Die Behörden versuchen dabei einen Trojaner auf dem Zielsystem zu installieren und so alle gespeicherten Daten (Fotos, Adressbuch, Kalender, Chats, ...) abzugreifen. So hat zum Beispiel die Firma DigiTask, der Hersteller des “Staatstrojaners”, Funktionen in die Software eingebaut die die Behörden überhaupt nicht nutzen dürften. Auch die Software FinFisher der deutschen Firma Gamma Group wurde zeitweise ohne Rechtsgrundlage vom LKA Berlin lizenziert.
 
 __Quellen-TKÜ__
 
