@@ -37,7 +37,6 @@ Jabber/XMPP:
 - [systemli.org](https://systemli.org)
 - [systemausfall.org](https://systemausfall.org) (Inv)
 - [so36.net](https://so36.net) (Inv)
-- [jabber.ccc.de](https://jabber.ccc.de)
 
 Telefonie:
 - Jitsi Meet
@@ -51,5 +50,6 @@ Telefonie:
     - [bbb.daten.reisen/b](https://bbb.daten.reisen/b)
 
 DNS:
+- [Digitalcourage e.V.](https://digitalcourage.de/support/zensurfreier-dns-server) 
 
-Eine ausführliche Liste von Software und Anbietern findest du bei [PrismBreak](https://prism-break.org/de/) [53] und [PrivacyTools](https://www.privacytools.io/). [68]
+Eine ausführliche Liste von Software und Anbietern findest du bei [PrismBreak](https://prism-break.org/de/) und [PrivacyTools](https://www.privacytools.io/).
