@@ -37,7 +37,6 @@ Jabber/XMPP:
 - [systemli.org](https://systemli.org)
 - [systemausfall.org](https://systemausfall.org) (Inv)
 - [so36.net](https://so36.net) (Inv)
-- [jabber.ccc.de](https://jabber.ccc.de)
 
 Telefonie:
 - Jitsi Meet
