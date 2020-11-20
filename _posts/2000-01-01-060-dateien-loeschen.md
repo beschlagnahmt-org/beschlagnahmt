@@ -1,7 +1,7 @@
 ---
-title: Löschen
+title: Dateien löschen
 layout: capter
-permalink: /loeschen/
+permalink: /dateien-loeschen/
 category: capter
 ---
 Wie wir vorhin Erfahren haben können die Cops und Sachverständige also gelöschte Daten wiederherstellen.
