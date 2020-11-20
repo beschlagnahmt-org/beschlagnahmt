@@ -51,4 +51,5 @@ Telefonie:
 
 DNS:
 - [Digitalcourage e.V.](https://digitalcourage.de/support/zensurfreier-dns-server) 
+
 Eine ausführliche Liste von Software und Anbietern findest du bei [PrismBreak](https://prism-break.org/de/) und [PrivacyTools](https://www.privacytools.io/).
