@@ -9,6 +9,6 @@ Andernfalls werden die Daten akribisch durchsucht. Den dabei verwendeten Forensi
 
 Auch gesperrte Handys können mit der Spezialsoftware und -hardware ausgelesen werden. Die Funde werden mit einer Prüfsumme versehen und katalogisiert, so dass sie vor Gericht als Beweis verwendet werden können.
 
-Wird das Verfahren irgendwann eingestellt bekommst du deine beschlagnahmten Sachen zurück. Das kann aber dauern und es soll auch schon vorgekommen sein dass Festplatten die nicht entschlüsselt werden konnten bei der Rückgabe auf einmal leer waren.
+Wird das Verfahren irgendwann eingestellt bekommst du deine beschlagnahmten Sachen zurück. Das kann aber dauern und es soll auch schon vorgekommen sein, dass Festplatten die nicht entschlüsselt werden konnten bei der Rückgabe auf einmal leer waren.
 
 ![](/assets/posts/beschlagnahme.jpg)
