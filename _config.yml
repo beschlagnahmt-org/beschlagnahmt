@@ -10,7 +10,7 @@ minima:
   # generate social links in footer
   social_links:
     twitter: beschlagnahmt_
-    github:  beschlagnahmt-org
+    github:  beschlagnahmt-org/beschlagnahmt
     mastodon:
       - username: beschlagnahmt 
         instance: social.bau-ha.us
