@@ -21,15 +21,14 @@ Wie wir bereits wissen ist es recht unbedenklich die Datenbank online zu lagern.
 
 _Browser-Integration_
 
-Um die Bedienung über den Browser zu erleichtern gibt es für [Firefox](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/) und [Chrome](https://chrome.google.com/webstore/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk) und das offizielle Addon “KeePassXC-Browser”. Dieses kann Anmeldeformulare automatisch ausfüllen, Passwörter generieren oder Anmeldedaten in der Datenbank ablegen.
+Um die Bedienung über den Browser zu erleichtern gibt es für [Firefox](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/) und [Chrome](https://chrome.google.com/webstore/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk) das offizielle Addon “KeePassXC-Browser”. Dieses kann Anmeldeformulare automatisch ausfüllen, Passwörter generieren oder Anmeldedaten in der Datenbank ablegen.
 
-5. Installiere das Kee Browseraddon
-4. aktiviere das Plugin
-6. Konfiguriere die Verbindung zwischen dem Browser-Addon und dem Keepass-Plugin indem du der Anleitung auf dem Bildschirm folgst
-7. Wenn du ein Passwort eingibst bietet Kee dir nun an es zu speichern. Mit einem Knopfdruck kannst du gespeicherte Passwörter abrufen.
+1. Installiere KeePassXC-Browser
+2. Aktiviere die Browser-Integartion in den Einstellungen von KeePassXC
+3. Wenn du ein Passwort eingibst bietet das Addon dir nun an es in KeePassXC zu speichern. Anders rum kannst du mit einem Knopfdruck gespeicherte Anmeldedaten ausfüllen lassen, sofern du die zugehörige URL in jeweiligen Eintrag hinterlegt hast.
 
-> ⚠ Tipp für Profis ⚠<br>
-> YubiKey
+> ⚠ Tipp für zusätzliche Sicherheit ⚠<br>
+> Schütze Deinen Passwort-Safe zusätzlich mit einem [YubiKey / OnlyKey](https://keepassxc.org/docs/#faq-yubikey-howto), dann hast Du eine [Two-Factor Authentication](/two-factor-authentication/). Das funktioniert auch in Verbindung mit der nachfolgend empfohlen Android-App.
 
 **Android**
 
