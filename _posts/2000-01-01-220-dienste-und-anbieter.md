@@ -31,12 +31,11 @@ Jabber/XMPP:
 - [systemausfall.org](https://systemausfall.org) (Inv)
 - [so36.net](https://so36.net) (Inv)
 
-Telefonie:
-
 - Jitsi Meet
+    - [meet.jit.si](https://meet.jit.si) (Unterstützt E2E-Verschlüsslung)
     - [jitsi.rocks](https://jitsi.rocks)
-    - [jitsi.world](https://meet.jitsi.world)
-    - [Snopyta](https://talk.snopyta.org)
+    - [talk.snopyta.org](https://talk.snopyta.org)
+
 - BigBlueButton
     - [meeten.statt-drosseln.de](https://meeten.statt-drosseln.de)
     - [senfcall.de](https://senfcall.de)

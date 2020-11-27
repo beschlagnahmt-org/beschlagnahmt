@@ -8,7 +8,10 @@ category: capter
 So schützt du also die Daten die du eh nicht mehr haben willst. Aber was ist mit denen die du noch brauchst?
 Diese solltest du verschlüsseln. Wenn du das richtig machst haben die Behörden kaum eine Chance an die Daten heranzukommen.
 
-**Grundsätzliches**
+* TOC
+{:toc}
+
+## Grundsätzliches
 
 Ein Versteck ersetzt keine Verschlüsselung. Irgendwo tief in einem Ordner abgelegte Dateien werden die Be hörden mit hoher Sicherheit finden. Gleiches gilt für in der Wohnung versteckte Datenträger. Effektiv schützen kannst du dich nur indem du deine Daten verschlüsselst.
 Wenn sie Datenträger mitnehmen ist das egal, da sie dich nicht zwingen können das Passwort herauszugeben.
@@ -17,11 +20,11 @@ Wenn du Backups von deinen Daten anlegst denk daran auch diese zu verschlüsseln
 Und noch was: Am sichersten sind die Daten die du gar nicht erst speicherst. Halte dich besonders bei heiklen Informationen an das Konzept der Datensparsamkeit.
 Wenn du unbedingt Papiere aufbewahren musst tue dies in einem Umschlag der mit “Für meinen Anwalt” o.Ä. beschriftet ist.
 
-**Computer**
+## Computer
 
 Für deinen Computer hast du zwei grundlegende Optionen. Du kannst das gesamte System verschlüsseln, oder einen verschlüsselten Container anlegen in dem du du vertrauliche Dateien ablegst.
 
-Systemverschlüsselung mit VeraCrypt (Win):
+### Systemverschlüsselung mit VeraCrypt (Win)
 
 1. VeraCrypt installieren und starten
 2. “Create Volume” klicken
@@ -38,7 +41,7 @@ klicken
 
 ![](../assets/posts/veracrypt-verschluesseln.jpg)
 
-VeraCrypt benötigt Zufallsdaten zum verschlüsseln.
+*VeraCrypt benötigt Zufallsdaten zum verschlüsseln.*
 
 12. “1-Pass” Wipemode auswählen (Das kennen wir schon vom Löschen)
 13. “Test” klicken. Der Rechner wird nun neustarten und du kannst dich das erste mal mit deinem Passwort anmelden. Wenn ein “PIM” verlangt wird drücke einfach Enter. Wenn alles funktioniert hat kann es weitergehen. 
@@ -46,7 +49,7 @@ VeraCrypt benötigt Zufallsdaten zum verschlüsseln.
 15. Notfallanweisungen lesen, ggf. drucken und mit “Ok” bestätigen
 16. Abwarten bis alles verschlüsselt ist. Bei größeren Windows-Updates wird es Probleme geben wenn die Festplatte komplett verschlüsselt ist. Das Update schlägt dann fehl und muss zurückgerollt werden. Wenn du Pech hast kann dadurch sogar deine verschlüsselte Partition beschädigt werden oder der Rechner kann nicht mehr starten. Seit Version 1.23 von VeraCrypt gibt es eine Technik mit der du trotzdem ein solches Update durchführen kannst. Versuche auf keinen Fall größere Updates ohne diese Maßnahmen einzuspielen. 
 
-Windows Upgrade eines verschlüsselten Systems:
+#### Windows Upgrade eines verschlüsselten Systems
 
 1. Erstelle ein Installationsmedium mit dem Media Creation Tool von Microsoft
 2. Öffne eine Kommandozeile (Einfach im Startmenü “cmd” eingeben und mit Rechtsklick als Administrator:in ausführen)
@@ -58,8 +61,7 @@ Sollte dir das wirklich viel viel zu kompliziert sein kannst du auch schauen ob 
 Das war die Systemverschlüsselung. Alternativ kannst du auch einen Container erstellen und deine Daten darin ablegen anstatt das ganze System zu verschlüsseln.
 Dann musst du natürlich darauf achten keinerlei kritische Daten außerhalb des Containers zu belassen, was nicht immer ganz einfach ist.
 
-Container mit VeraCrypt (Win, Linux):
-
+### Container mit VeraCrypt (Win, Linux)
 1. VeraCrypt installieren und starten
 2. “Create Volume” klicken
 3. “Create an encrypted file container” anwählen und “Next” klicken
@@ -71,8 +73,7 @@ Container mit VeraCrypt (Win, Linux):
 9. Ein Dateisystem auswählen (FAT ist in Ordnung) und die Maus möglichst zufällig durch das Fenster bewegen bis der grüne Balken voll ist, dann “Format”
 10. Abwarten bis die Erstellung abgeschlossen ist und mit “Exit” das Programm verlassen
 
-Container mit VeraCrypt öffnen:
-
+#### Container mit VeraCrypt öffnen
 1. VeraCrypt starten
 2. Freien Laufwerksbuchstaben auswählen
 3. “Select File” und die Containerdatei auswählen
@@ -81,13 +82,12 @@ Container mit VeraCrypt öffnen:
 
 Wie erwähnt bringen viele Linux-Betriebssysteme bereits Verschlüsselungsmechanismen mit. Zwischen den Verschiedenen Linux-Distributionen gibt es einige Unterschiede. Meistens ist es am einfachsten die Verschlüsselung direkt bei der Installation zu aktivieren. Beispielhaft stehen hier die Schritte für Ubuntu, unter “Mehr zum Thema” findest du aber auch Anleitungen für andere Distributionen und Möglichkeiten auch ohne Neuinstallation ein verschlüsseltes System zu bekommen.
 
-Systemverschlüsselung bei der Installation (Ubuntu):
-
+### Systemverschlüsselung bei der Installation (Ubuntu)
 1. Installationsprozess starten
 2. Im Fenster “Art der Installation” einen Haken bei “Encrypt the new Ubuntu installation for security” setzen und weiter zum nächsten Schritt 
 3. Passwort eingeben (siehe dazu Kapitel „Passwort“)
 4. Haken bei “Overwrite empty disk space” setzen
-5. Mit “Install Now” die eigentliche Installation starten Bedenke das diese Verfahren umgangen werden können indem in deine Wohnung eingedrungen wird und ein Keylogger installiert wird. Das ist ein kleines Gerät am USB Anschluss oder eine Software welche die Tastatureingaben mitschneidet. Statte also dein UEFI und ggf. deinen Bootloader mit einem Passwort aus [20] und prüfe immer mal wieder den Anschluss deiner Tastatur auf Unregelmäßigkeiten.
+5. Mit “Install Now” die eigentliche Installation starten Bedenke das diese Verfahren umgangen werden können indem in deine Wohnung eingedrungen wird und ein Keylogger installiert wird. Das ist ein kleines Gerät am USB Anschluss oder eine Software welche die Tastatureingaben mitschneidet. Statte also dein UEFI und ggf. deinen Bootloader mit einem Passwort aus und prüfe immer mal wieder den Anschluss deiner Tastatur auf Unregelmäßigkeiten.
 
 Links:
 
@@ -97,7 +97,7 @@ Links:
 - [Anleitung Linux Verschlüsseln](https://svenfila.wordpress.com/2010/11/04/encrypt-root-partition-without-re-installing-linux/)
 - [Anleitung BIOS Passwort](https://www.wikihow.com/Set-a-BIOS-Password)
 
-**Handy**
+## Handy
 
 Die meisten Smartphones unterstützen ebenfalls eine Systemverschlüsselung.
 Das funktioniert unterschiedlich gut und auf jedem Gerät ein wenig anders. Den genauen Weg für dein Gerät recherchierst du am besten selber, aber im großen und ganzen läuft das so ähnlich wie beim Computer. Du lädst das Handy auf und lässt es am Ladegerät, suchst im Einstellungsmenü die Option zum verschlüsseln, gibst zweimal dein gewünschtes Passwort ein und wartest bis der Prozess abgeschlossen ist. Teilweise muss nochmal explizit angewählt werden das auch die externe Speicherkarte verschlüsselt werden soll. Grundsätzlich ist das alles auch genau so sicher wie auf dem Computer, aber besonders ältere Geräte die nicht mehr mit Updates versorgt werden stellen ein zusätzliches Risiko dar.
@@ -113,11 +113,11 @@ Links:
 
 - [How to Encrypt your Android Phone](https://proprivacy.com/privacy-service/guides/encryption-guide-to-securing-android-phone)
 
-**Kommunikation**
+## Kommunikation
 
 Wenn du eine Nachricht über das Internet versendest wird sie viele Stellen durchlaufen bis sie am Ziel angekommen ist. Vielen davon musst du ohne Verschlüsselung einfach vertrauen das sie deine Daten schützen und sich im Zweifel auch gegen Behördenanfragen zur Wehr setzen. Das machen aber leider viele nicht. Zum Beispiel ist bekannt das 1&1 zu denen auch GMX und Web.de gehören ohne große Rückfragen gespeicherte Daten weitergeben. Aber auch bei kleineren Anbietern solltest du dich nicht darauf verlassen dass die Betreiber:innen für dich in den Knast gehen werden wenn sie eine Anfrage bekommen. Die Lösung ist auch hier wieder Verschlüsselung.
 
-**Asymmetrische Verschlüsselung**
+### Asymmetrische Verschlüsselung
 
 Was wir gerade für die Verschlüsselung unserer Geräte verwendet haben war eine traditionelle symmetrische Verschlüsselung. Das bedeutet das die Person an die Daten kommt die das Passwort hat. Für Kommunikation ist das etwas unpraktisch, da so das Passwort zwischen allen Kommunikationsteilnehmer:innen auf einem sicheren Kanal ausgetauscht werden muss bevor kommuniziert werden kann. Das ist umständlich und bringt das Risiko mit sich, dass das Passwort beim Austausch abgefangen wird. Dieses Problem wird mit asymmetrischer Verschlüsselung gelöst. Bei dieser haben unsere Kommunikationsteilnehmer:innen Alice und Bob je einen öffentlichen und einen privaten Schlüssel. Der öffentliche Schlüssel wird nur zum verschlüsseln verwendet, der private Schlüssel wird nur zum entschlüsseln verwendet. 
 

@@ -16,8 +16,7 @@ Wer ebenfalls gelegentlich mithört sind die Sprachassistenten von Google, Apple
 
 Mensch sollte es sich auf jeden Fall zweimal überlegen welche Gespräche in der Gegenwart von Alexa oder einem Handy mit aktivierter Google-Sprachsteuerung geführt werden sollten.
 
-__Statistik__
-
+## Statistik
 Wie oft werden eigentlich Überwachungsmaßnahmen angeordnet? Beispielhaft schauen wir uns hier mal die Statistiken von 2015 und 2017 an, welche von netzpolitik.org aufbereitet wurden.
 Im Jahr 2015 gab es 3332 Festnetz-Überwachungen, 21906 Mobilfunküberwachungen und 7431 Internetüberwachungen. Verkehrsdatenüberwachungen, also das Sammeln von Metadaten über die Kommunikation wurde in ganzen 26265 Fällen angeordnet und die Anordnung in weiteren 899 Fällen verlängert.
 Im Jahr 2017 sind diese Zahlen leicht abgesunken, aber im Vergleich noch immer ausgesprochen hoch.

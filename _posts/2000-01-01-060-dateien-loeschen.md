@@ -10,8 +10,7 @@ Wie kann das angehen?
 Wenn du eine Datei auf deinem Computer löschst verschwinden die Einsen und Nullen auf der Festplatte nicht automatisch. Sie werden nur zum Überschreiben freigegeben falls der Platz für was anderes gebraucht wird. Du kannst die Datei also nicht mehr sehen, aber sie lässt sich mit etwas Arbeit noch rekonstruieren. (Auch wenn du den Papierkorb bereits “geleert” hast.)
 Die Lösung ist zum Glück ganz einfach. Wenn du die Daten sofort beim Löschen überschreibst kommt da keine:r mehr dran. Es gibt auch Programme die das für dich machen.
 
-Löschen mit Eraser (Win):
-
+## Löschen mit Eraser (Win):
 1. Eraser installieren (Standardinstallation)
 2. Rechtsklick auf die Datei
 3. “Eraser” und Unterpunkt “Erase” auswählen
@@ -24,15 +23,13 @@ Wenn dir das bei großen Dateien zu lange dauert kannst du in den Eraser-Einstel
 
 Wenn du mit der Kommandozeile zurecht kommst kannst du auch „SDelete“ von Microsoft verwenden. Das ist wahrscheinlich sogar etwas gründlicher.
 
-Löschen mit SDelete (Win):
-
+## Löschen mit SDelete (Win):
 1. SDelete installieren
 2. In der CMD zum Speicherort navigieren
 3. „sdelete DATEINAME“
 4. Warten bis Datei verschwunden ist
 
-Löschen mit shred (Linux):
-
+## Löschen mit shred (Linux):
 1. wipe installieren (Paketverwaltung)
 2. Im Terminal zum Speicherort navigieren
 3. “wipe -f DATEINAME” eingeben
