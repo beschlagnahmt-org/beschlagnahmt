@@ -4,8 +4,13 @@ layout: capter
 permalink: /staatstrojaner/
 category: capter
 ---
+<details markdown="block">
+  <summary>
+    Inhalt
+  </summary>
 * TOC
 {:toc}
+</details>
 
 ## Online-Durchsuchung
 
