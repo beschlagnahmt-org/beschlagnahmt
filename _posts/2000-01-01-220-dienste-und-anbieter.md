@@ -38,10 +38,10 @@ Jabber/XMPP:
 - [systemausfall.org](https://systemausfall.org) (Inv)
 - [so36.net](https://so36.net) (Inv)
 
-Telefonie:
+Videokonferenz:
 - Jitsi Meet
+    - [meet.jit.si](https://meet.jit.si) (Unterstützt E2E-Verschlüsslung)
     - [jitsi.rocks](https://jitsi.rocks)
-    - [meet.jitsi.world](https://meet.jitsi.world)
     - [talk.snopyta.org](https://talk.snopyta.org)
 
 - BigBlueButton
