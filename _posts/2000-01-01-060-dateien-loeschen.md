@@ -1,7 +1,7 @@
 ---
-title: Löschen
+title: Dateien löschen
 layout: capter
-permalink: /loeschen/
+permalink: /dateien-loeschen/
 category: capter
 ---
 # Löschen
@@ -53,7 +53,7 @@ Ein weiteres Risiko ist das sogenannte Journaling. Das ist eine nützliche Techn
 
 Du bist mit allen Datenträgerarten auf der sicheren Seite wenn du deine Datenträger von vornherein verschlüsselst. Denn dann würde zum Wiederherstellen von Daten immer noch das Passwort benötigt werden.
 Oder du arbeitest einfach gleich ohne eine Festplatte.
-Dazu gibt es Live-Systeme wie Tails. Du kannst dann alle Festplatten aus deinem Gerät ausbauen und das Betriebssystem von einem USB-Stick starten. Nach dem herunterfahren sind alle Daten verschwunden. Mehr dazu findest du im Abschnitt „Whonix und Tails“.
+Dazu gibt es Live-Systeme wie Tails. Du kannst dann alle Festplatten aus deinem Gerät ausbauen und das Betriebssystem von einem USB-Stick starten. Nach dem herunterfahren sind alle Daten verschwunden. Mehr dazu findest du bei „Whonix" und "Tails“ im Kapitel [Anonym im Netz](/anonym-im-netz/).
 Als letzte Option bleibt immer den Datenträger physisch zu zerstören. Sei dabei ruhig gründlich und trage eine Staubschutzmaske um keinen Glas- oder Metallstaub einzuatmen, das ist wirklich sehr ungesund.
 
 Links:

@@ -22,7 +22,7 @@ gem "minima", :github => 'jekyll/minima', :ref => '49f6dce'
 group :jekyll_plugins do
    gem "jekyll-paginate", "~>1.1.0"
 #   gem "jekyll-srcset2"
-   gem "jekyll-seo-tag", "~>2.6.1"
+   gem "jekyll-seo-tag", "~>2.7.1"
    gem "kramdown"
    gem "kramdown-parser-gfm"
 end

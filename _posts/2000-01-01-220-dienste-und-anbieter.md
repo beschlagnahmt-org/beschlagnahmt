@@ -26,11 +26,10 @@ Mail:
 
 Jabber/XMPP:
 
-- [Riseup](https://riseup.net) (Inv)
-- [Systemli](https://systemli.org)
-- [Systemausfall](https://systemausfall.org) (Inv)
-- [so36](https://so36.net) (Inv)
-- [CCC](https://jabber.ccc.de)
+- [riseup.net](https://riseup.net) (Inv)
+- [systemli.org](https://systemli.org)
+- [systemausfall.org](https://systemausfall.org) (Inv)
+- [so36.net](https://so36.net) (Inv)
 
 Telefonie:
 
@@ -39,8 +38,11 @@ Telefonie:
     - [jitsi.world](https://meet.jitsi.world)
     - [Snopyta](https://talk.snopyta.org)
 - BigBlueButton
-    - [Meeten statt Drosseln](https://meeten.statt-drosseln.de)
-    - [Senfcall](https://senfcall.de)
-    - [Datenreisen](https://bbb.daten.reisen/b)
+    - [meeten.statt-drosseln.de](https://meeten.statt-drosseln.de)
+    - [senfcall.de](https://senfcall.de)
+    - [bbb.daten.reisen/b](https://bbb.daten.reisen/b)
+
+DNS:
+- [Digitalcourage e.V.](https://digitalcourage.de/support/zensurfreier-dns-server) 
 
 Eine ausführliche Liste von Software und Anbietern findest du bei [PrismBreak](https://prism-break.org/de/) und [PrivacyTools](https://www.privacytools.io/).

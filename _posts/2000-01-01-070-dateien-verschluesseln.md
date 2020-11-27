@@ -1,7 +1,7 @@
 ---
-title: Verschlüsseln
+title: Dateien verschlüsseln
 layout: capter
-permalink: /verschluesseln/
+permalink: /dateien-verschluesseln/
 category: capter
 ---
 # Verschlüsseln
