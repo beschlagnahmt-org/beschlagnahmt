@@ -41,7 +41,7 @@ CalyxOS verfolgt einen ganz ähnlichen Ansatz wie GrapheneOS, daher dürfte sich
 Hier ist wieder das Aktionslevel der anwenden Person zu berücksichtigen. Wenn auszuschließen ist, dass das Smartphone bei der Bullerei unterm Mikroskop landet, ist CalyxOS wahrscheinlich trotzdem dieser Abwägung zwischen Leistung & Sicherheit eine gute Wahl.
 
 
-3. Lineage(for microG)
+## Lineage(for microG)
 
 Lineage ist verglichen mit den Betriebsystemen, die standarmäßig auf verkauften Smartphones installiert sind ein großer Fortschritt, da dadurch das Handy von einer Menge Bloat- und Spyware befreit wird. Dennoch hinkt das Betriebssystem in Sachen Sicherheit den anderen beiden vorgestellten Projekten hinterher, da Privatsphäre kein Hauptaugenmerk der Entwicklung ist. Oftmals schaffen es (gerätespezifische) Sicherheitupdates, die ohnehin verfügbar sind, nicht rechtzeitig oder gar nicht in die Lineage Updates, da diese nur Sicherheitsupdates aus dem generischen Androidprojekt berücksichtigen. Gerätetreiber zum Beispiel sind aber oftmals sehr individuell von Sicherheitslücken betroffen, die es zu beheben gilt.
 Das Standard LineageOS kommt ganz ohne vorinstallierte Googlesoftware. Sollten bestimmte Googlefeatures benötigt werden, besteht die Möglichkeit Lineage for microG zu nutzen oder die originalen Google Apps zu flashen. Einfach gesagt: Je weniger Google ihr auf den Telefon habt, desto besser, versucht es doch erstmal  ohne.
