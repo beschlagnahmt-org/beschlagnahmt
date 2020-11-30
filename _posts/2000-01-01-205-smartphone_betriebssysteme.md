@@ -26,7 +26,7 @@ Das System kommt mit einer Fülle von Verbesserungen für die Sicherheit eures G
 - MAC-Randomisierung
 - Verified Boot: nur das signierte GrapheneOS oder ebenfalls signierte Updates können gestartet beziehungsweise installiert werden
 - Schutz vor stillen SMS - im Flugzeugmodus werden tatsächlich die verantwortlichen Module abgeschaltet, wodurch sichergestellt sein kann, dass ihr nicht trotzdem geortet werden könnt
-- remote attestation (die Auditor app überprüft in regelmäßigen Abständen mittels gardwarebasierten Sicherheitsfeatures die Integrität deines Betriebssystems und schlägt im Zweifel Alarm)
+- remote attestation (die Auditor app überprüft in regelmäßigen Abständen mittels hardwarebasierten Sicherheitsfeatures die Integrität deines Betriebssystems und schlägt im Zweifel Alarm)
 
 Graphene kann nicht gerooted werden, was ohnehin einen heftigen Angriffsvektor darstellt und deshalb vermieden werden sollte.
 
