@@ -30,4 +30,4 @@ Links:<br>
 [Überwachung durch Staatstrojaner](https://youtu.be/8REBKuFGfk8)<br>
 [Chaos Computer Club analysiert Staatstrojaner](https://www.ccc.de/de/updates/2011/staatstrojaner)
 
-![](/assets/posts/phineas.jpg)
+![](../assets/posts/phineas.jpg)

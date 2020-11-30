@@ -4,6 +4,7 @@ layout: capter
 permalink: /two-factor-authentication/
 category: capter
 ---
+# Two-Factor Authentication
 Deine Passwörter können aus verschiedenen Gründen dritten bekannt werden:
   - Eine Seite, auf der Du es benutzt hast [wurde gehackt](https://www.zeit.de/digital/datenschutz/2019-01/datenleak-email-passwoerter-internet-it-sicherheit) 
   - Dir hat irgendwer beim [Eingeben über die Schulter geschaut](https://en.wikipedia.org/wiki/Shoulder_surfing_(computer_security))

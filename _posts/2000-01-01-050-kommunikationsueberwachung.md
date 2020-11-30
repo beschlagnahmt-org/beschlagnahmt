@@ -4,6 +4,7 @@ layout: capter
 permalink: /kommunikationsueberwachung/
 category: capter
 ---
+# Kommunikationsüberwachung
 Bei der Telekommunikationsüberwachung, oder kurz TKÜ hören die Behörden Kommunikation direkt beim Dienstbetreiber ab. Das kann zum Beispiel euer Handyanbieter sein, euer Internet-Provider oder euer E-Mail Service. Es können viele Daten auch im Nachhinein angefordert werden, zum Beispiel die Websites die du aufgerufen hast, die Nummern die du angerufen hast, die E-Mails die du geschrieben hast und die Privatnachrichten die du auf Facebook verschickt hast. (Vorrausgesetzt der Anbieter hat diese Daten noch gespeichert.)
 Auch hier kannst du dich wieder durch verschiedene Verschlüsselungsverfahren schützen.
 
@@ -20,10 +21,11 @@ Wie oft werden eigentlich Überwachungsmaßnahmen angeordnet? Beispielhaft schau
 Im Jahr 2015 gab es 3332 Festnetz-Überwachungen, 21906 Mobilfunküberwachungen und 7431 Internetüberwachungen. Verkehrsdatenüberwachungen, also das Sammeln von Metadaten über die Kommunikation wurde in ganzen 26265 Fällen angeordnet und die Anordnung in weiteren 899 Fällen verlängert.
 Im Jahr 2017 sind diese Zahlen leicht abgesunken, aber im Vergleich noch immer ausgesprochen hoch.
 
-![](/assets/posts/kommunikationsueberwachung.jpg)
+![](../assets/posts/kommunikationsueberwachung.jpg)
 Bild: Creative Commons BY-NC-SA 4.0. Netzpolitik.org
 
-Links:<br>
-[Wikipedia - Vorratsdatenspeicherung](https://de.wikipedia.org/wiki/Vorratsdatenspeicherung)<br>
-[Polizei überwacht vor allem wegen Drogen](https://netzpolitik.org/2016/statistik-polizei-ueberwacht-weiterhin-vor-allem-wegen-drogen/)<br>
-[Polizei überwacht erstmals weniger](https://netzpolitik.org/2019/ueberraschung-polizei-ueberwacht-erstmals-weniger-kommunikation/)
+Links:
+
+- [Wikipedia - Vorratsdatenspeicherung](https://de.wikipedia.org/wiki/Vorratsdatenspeicherung)
+- [Polizei überwacht vor allem wegen Drogen](https://netzpolitik.org/2016/statistik-polizei-ueberwacht-weiterhin-vor-allem-wegen-drogen/)
+- [Polizei überwacht erstmals weniger](https://netzpolitik.org/2019/ueberraschung-polizei-ueberwacht-erstmals-weniger-kommunikation/)

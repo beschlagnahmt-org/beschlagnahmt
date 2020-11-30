@@ -4,41 +4,33 @@ layout: capter
 permalink: /dienste-und-anbieter/
 category: capter
 ---
+# Dienste und Anbieter
 Hier wurde nun öfters erwähnt wie viel Vertrauen du den Menschen gegenüber bringen musst die zum Beispiel deinen Mailserver oder dein VPN betreiben. Um die Auswahl etwas leichter zu machen ist hier eine kleine Liste mit Anbietern. Recherchiere aber auch nochmal selbst wer am besten zu dir passt und triff dann deine eigene Entscheidung.<br>
 € = Kostenpflichtig<br>
 Inv = Nur auf persönliche Anfrage oder Einladung<br>
 
 Mail:
-- [posteo.de](https://posteo.de) (€)
-- [mailbox.org](https://mailbox.org) (€)
-- [protonmail.com](https://protonmail.com)
-- [riseup.net](https://riseup.net) (Inv)
-- [autistici.org](https://autistici.org) (Inv)
-- [systemausfall.org](https://systemausfall.org) (inv)
-- [systemli.org](https://systemli.org) (Inv)
-- [so36.net](https://so36.net) (Inv)
-- [anonymousspeech.com](https://anonymousspeech.com) (€)
-- [immerda.ch](https://immerda.ch) (Inv)
-- [dismail.de](https://dismail.de) (XMPP Anmeldung)
-- [disroot.org](https://disroot.org) (Free)
-- [snopyta.org](https://snopyta.org) (Free)
 
-Suche:
-- [duckduckgo.com](https://duckduckgo.com)
-- [startpage.com](https://startpage.com)
-- [qwant.com](https://qwant.com)
-- Searx
-    - [searx.mastodontech.de](https://searx.mastodontech.de)
-    - [search.snopyta.org](https://search.snopyta.org)
-    - [searx.decatec.de](https://searx.decatec.de)
+- [Posteo](https://posteo.de) (€)
+- [Mailbox](https://mailbox.org) (€)
+- [Riseup](https://riseup.net) (Inv)
+- [Autistici](https://autistici.org) (Inv)
+- [Systemausfall](https://systemausfall.org) (inv)
+- [Systemli](https://systemli.org) (Inv)
+- [so36](https://so36.net) (Inv)
+- [Anonymous Speech](https://anonymousspeech.com) (€)
+- [Immerda](https://immerda.ch) (Inv)
+- [Dismail](https://dismail.de) (XMPP Anmeldung)
+- [Disroot](https://disroot.org) (Free)
+- [Snopyta](https://snopyta.org) (Free)
 
 Jabber/XMPP:
+
 - [riseup.net](https://riseup.net) (Inv)
 - [systemli.org](https://systemli.org)
 - [systemausfall.org](https://systemausfall.org) (Inv)
 - [so36.net](https://so36.net) (Inv)
 
-Videokonferenz:
 - Jitsi Meet
     - [meet.jit.si](https://meet.jit.si) (Unterstützt E2E-Verschlüsslung)
     - [jitsi.rocks](https://jitsi.rocks)

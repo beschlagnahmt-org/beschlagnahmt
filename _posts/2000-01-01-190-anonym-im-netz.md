@@ -4,6 +4,8 @@ layout: capter
 permalink: /anonym-im-netz/
 category: capter
 ---
+# Anonym im Netz
+
 <details markdown="block">
   <summary>
     Inhalt
@@ -26,7 +28,7 @@ Bei der Verwendung von Tor wird dein Datenverkehr verschlüsselt über 3 Rechner
 
 Das stellt den endscheidenden Vorteil gegenüber einem VPN dar, mehr dazu im Abschnitt zu VPNs. 
 
-![](/assets/posts/howtorworks.jpg)<br>
+![](../assets/posts/howtorworks.jpg)<br>
 Quelle: [Edward Snowden auf Twitter](https://twitter.com/Snowden/status/653587720598626304)
 
 ### Tor Browser
@@ -36,10 +38,12 @@ Die einfachste Methode um Tor zu benutzen ist der [Tor Browser](https://www.torp
 Grundsätzlich solltest du bedenken, dass mögliche Überwacher Deines Anschlusses sehen können dass du Tor benutzt. Allerdings können sie nicht sehen was du machst, denn die Verbindung ins Netzwerk ist verschlüsselt. Die Nutzung von Tor an sich macht dich nicht verdächtig, denn außer dir machen das alleine [in Deutschland über 150.000 Meschen täglich](https://metrics.torproject.org/userstats-relay-country.html?country=de&events=off).
 
 > ⚠ Wichtig ⚠<br>
+>
 > - [Security Level](https://tb-manual.torproject.org/security-settings/) mindestens 'Safer' besser 'Safest'
+>
 > - Keine Addons installieren
+>
 > - Einstellungen des Browsers nicht ändern
-
 
 ### Betriebsysteme mit Tor-Integration
 
@@ -65,4 +69,4 @@ Falls du schon etwas mehr technische Erfahrung hast und mit der Sicherheit mal s
 
 Ein VPN (Virtual Private Network) funktioniert technisch ähnlich wie Tor, hat aber einen entscheidenden Nachteil: Dein Internetverkehr wird nur an _eine_ einzige Zwischeninstanz verschlüsselt übermittelt, nämlich den VPN-Provider. Das bedeutet, Du darauf angewiesen bist, dass dieser Anbieter nicht speichert, wer seine Nutzenden sind und welche Seiten diese aufrufen. Da dies nicht gewährleistet werden kann, solltest Du [keine](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) VPNs [nutzen](https://schub.wtf/blog/2019/04/08/very-precarious-narrative.html). Denn die Anbieter müssen auf gerichtliche Anordnung diese Daten heraus geben und [machen das auch](https://www.theregister.com/2011/09/26/hidemyass_lulzsec_controversy/).
 
-![](/assets/posts/vpn.jpg)
+![](../assets/posts/vpn.jpg)

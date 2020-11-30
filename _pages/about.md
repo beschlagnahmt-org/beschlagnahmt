@@ -4,6 +4,7 @@ layout: page
 permalink: /about/
 order: 1
 ---
+
 Die deutschen Behörden können deine elektronischen Geräte beschlagnahmen, auslesen und deine Kommunikation überwachen. Das passiert gar nicht so selten. 
 
 **Sei für diesen Fall vorbereitet!**
@@ -13,7 +14,7 @@ Hier bekommst du einige Anhaltspunkte wie du dich schützen kannst, auch ohne ei
 
 Der Quelltext von ACAB ist unter [https://github.com/beschlagnahmt-org/beschlagnahmt](https://github.com/beschlagnahmt-org/beschlagnahmt) zu finden. Wenn du einen Fehler gefunden oder einen Verbessungsvorschlag hast, [lass es uns wissen](https://github.com/beschlagnahmt-org/beschlagnahmt/issues).
 Gerne kannst du direkt [auf Github einen Verbesserungsvorschlag einreichen](https://github.com/beschlagnahmt-org/beschlagnahmt/pulls).
-Sollte dir das zu öffentlich sein, melde dich gerne unter der im [Impressum](/impressum) angegeben Mail-Adresse.
+Sollte dir das zu öffentlich sein, melde dich gerne unter der im Impressum angegeben Mail-Adresse.
 
-![](/assets/pages/crt-antifa.jpg)  
+![](../assets/pages/crt-antifa.jpg)  
 (Computer: CC-BY-SA-3.0 Thomas Kaiser, Montage: Beschlagnahmt)

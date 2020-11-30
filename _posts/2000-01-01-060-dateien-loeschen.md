@@ -4,6 +4,7 @@ layout: capter
 permalink: /dateien-loeschen/
 category: capter
 ---
+# Löschen
 Wie wir vorhin Erfahren haben können die Cops und Sachverständige also gelöschte Daten wiederherstellen.
 Wie kann das angehen?
 Wenn du eine Datei auf deinem Computer löschst verschwinden die Einsen und Nullen auf der Festplatte nicht automatisch. Sie werden nur zum Überschreiben freigegeben falls der Platz für was anderes gebraucht wird. Du kannst die Datei also nicht mehr sehen, aber sie lässt sich mit etwas Arbeit noch rekonstruieren. (Auch wenn du den Papierkorb bereits “geleert” hast.)
@@ -16,7 +17,7 @@ Die Lösung ist zum Glück ganz einfach. Wenn du die Daten sofort beim Löschen 
 4. Nochmal mit Klick auf “Yes” bestätigen
 5. Warten bis die Datei verschwunden ist
 
-![](/assets/posts/loeschen.jpg)
+![](../assets/posts/loeschen.jpg)
 
 Wenn dir das bei großen Dateien zu lange dauert kannst du in den Eraser-Einstellungen als Löschmethode auch “Pseudorandom Data (1 Pass)” auswählen.
 
@@ -36,14 +37,15 @@ Wenn du mit der Kommandozeile zurecht kommst kannst du auch „SDelete“ von Mi
 
 Eine weitere Option für die du kein laufendes Betriebssystem brauchst ist DBAN.
 Diese Techniken sind nur für klassische Festplatten geeignet. Für SSDs, SD-Karten, USB-Sticks und den internen Speicher von Handys funktioniert das leider nicht so gut. Das Überschreiben schadet dem Gerät und es können trotzdem noch Daten zurückbleiben. Wenn du so einen Speicher hast kannst du dich auf den Seiten des Hersteller erkundigen ob es für das Gerät sichere Löschfunktionen gibt. Fast alle Hersteller stellen dafür Software zur Verfügung.
-Ein weiteres Risiko ist das sogenannte Journaling. Das ist eine nützliche Technik um zu verhindern das Daten verloren gehen, die fast überall eingesetzt wird. Allerdings führt sie dazu das Forensiker*innen eventuell Metadaten wie Dateinamen oder sogar Dateiinhalte aus dem Journal wiederherstellen können, selbst wenn die eigentlichen Daten überschrieben wurden.
+Ein weiteres Risiko ist das sogenannte Journaling. Das ist eine nützliche Technik um zu verhindern das Daten verloren gehen, die fast überall eingesetzt wird. Allerdings führt sie dazu das Forensiker:innen eventuell Metadaten wie Dateinamen oder sogar Dateiinhalte aus dem Journal wiederherstellen können, selbst wenn die eigentlichen Daten überschrieben wurden.
 
 > ⚠ Fallstrick beim Löschen ⚠ <br>
+>
 > Manche Systeme speichern zu Bilddateien kleine
 > Vorschaubilder ab. Diese bleiben auch nach dem
 > Löschen der Originaldatei erhalten.
-> Windows: %userprofile%\AppData\Local\Micro-
-> soft\Windows\Explorer
+>
+> Windows: `%userprofile%\AppData\Local\Microsoft\Windows\Explorer`
 > Linux: ~/.cache/thumbnails/
 
 Du bist mit allen Datenträgerarten auf der sicheren Seite wenn du deine Datenträger von vornherein verschlüsselst. Denn dann würde zum Wiederherstellen von Daten immer noch das Passwort benötigt werden.
@@ -51,8 +53,9 @@ Oder du arbeitest einfach gleich ohne eine Festplatte.
 Dazu gibt es Live-Systeme wie Tails. Du kannst dann alle Festplatten aus deinem Gerät ausbauen und das Betriebssystem von einem USB-Stick starten. Nach dem herunterfahren sind alle Daten verschwunden. Mehr dazu findest du bei „Whonix" und "Tails“ im Kapitel [Anonym im Netz](/anonym-im-netz/).
 Als letzte Option bleibt immer den Datenträger physisch zu zerstören. Sei dabei ruhig gründlich und trage eine Staubschutzmaske um keinen Glas- oder Metallstaub einzuatmen, das ist wirklich sehr ungesund.
 
-Links:<br>
-[Eraser](https://eraser.heidi.ie/)<br>
-[wipe](http://lambda-diode.com/software/wipe/)<br>
-[SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete)<br>
-[DBAN](https://dban.org)
+Links:
+
+- [Eraser](https://eraser.heidi.ie/)<br>
+- [wipe](http://lambda-diode.com/software/wipe/)<br>
+- [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete)<br>
+- [DBAN](https://dban.org)
