@@ -50,7 +50,7 @@ Das Standard LineageOS kommt ganz ohne vorinstallierte Googlesoftware. Sollten b
 ## (Not so) honorable Mentions
 
 Android-Betriebsysteme, auf die mensch auch stößt, wenn auf Privatsphäre und Sicherheit geachtet wird sind zum Beispiel /e/ oder Copperhead. Wir raten zum derzeitigen Zeitpunkt von der Verwendung dieser Betriebssysteme ab. Copperhead ist das ehemalige Projekt des GrapheneOS Entwicklers, welches sich aus unschönen Gründen zerstritten hat. Die Community ist sich da relativ einig, dass der jetzige GrapheneOS Entwickler die treibende Kraft hinter dem Projekt war und es demnach wenig sinnvoll ist, das alte Projekt zu verwenden.
-/e/ klingt auf dem Papier zwar vielversprechend, es gibt dann allerdings doch gravierende Mängel im Konzept, wie unter anderem hier aufgezeigt wird: https://www.reddit.com/r/MicroG/comments/iaas6l/e_vs_lineageos_for_microg_discussion/. Unserer Meinung nach ist die Vertrauenswürdigkeit einer Plattform nicht gegeben, die in der Vergangenheit schon mehrfach mit fragwürdigem Verhalten aufgefallen ist nicht gegeben, erst recht wenn nicht ersichtlich ist, dass Sicherheitsfeatures implementiert wurden, die über den Funktionsumfang von Lineage hinausgehen.
+/e/ klingt auf dem Papier zwar vielversprechend, es gibt dann allerdings doch gravierende Mängel im Konzept, wie unter anderem hier aufgezeigt wird: https://www.reddit.com/r/MicroG/comments/iaas6l/e_vs_lineageos_for_microg_discussion/. Unserer Meinung nach ist die Vertrauenswürdigkeit einer Plattform, die in der Vergangenheit schon mehrfach mit fragwürdigem Verhalten aufgefallen ist, nicht gegeben. Erst recht, wenn nicht ersichtlich ist, dass Sicherheitsfeatures implementiert wurden die über den Funktionsumfang von Lineage hinausgehen.
 
  
 ## Play Services
