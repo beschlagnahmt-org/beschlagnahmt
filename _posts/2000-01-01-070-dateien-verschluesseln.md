@@ -5,6 +5,8 @@ permalink: /dateien-verschluesseln/
 category: capter
 ---
 # Dateien verschlüsseln
+{: .no_toc }
+
 So schützt du also die Daten die du eh nicht mehr haben willst. Aber was ist mit denen die du noch brauchst?
 Diese solltest du verschlüsseln. Wenn du das richtig machst haben die Behörden kaum eine Chance an die Daten heranzukommen.
 
