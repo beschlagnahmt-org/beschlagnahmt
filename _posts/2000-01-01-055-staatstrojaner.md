@@ -30,7 +30,8 @@ Um dir gar nicht erst so einen Staatstrojaner ein zu fangen ist es wichtig, dass
 
 Nette Geschichte am Rande: Die Firmen Gamma und Hacking Team wurden beide von einem Frosch namens Phineas Phisher gehackt und interne Daten über ihre Geschäfte ins Netz gestellt.
 
-Links:<br>
+Links:
+
 [Überwachung durch Staatstrojaner](https://youtu.be/8REBKuFGfk8)<br>
 [Chaos Computer Club analysiert Staatstrojaner](https://www.ccc.de/de/updates/2011/staatstrojaner)
 
