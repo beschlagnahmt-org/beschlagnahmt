@@ -5,10 +5,7 @@ permalink: /dateien-verschluesseln/
 category: capter
 ---
 # Dateien verschlüsseln
-{: .no_toc }
-
-So schützt du also die Daten die du eh nicht mehr haben willst. Aber was ist mit denen die du noch brauchst?
-Diese solltest du verschlüsseln. Wenn du das richtig machst haben die Behörden kaum eine Chance an die Daten heranzukommen.
+{: .no_toc } 
 
 <details markdown="block">
   <summary>
@@ -17,6 +14,9 @@ Diese solltest du verschlüsseln. Wenn du das richtig machst haben die Behörden
 * TOC
 {:toc}
 </details>
+
+So schützt du also die Daten die du eh nicht mehr haben willst. Aber was ist mit denen die du noch brauchst?
+Diese solltest du verschlüsseln. Wenn du das richtig machst haben die Behörden kaum eine Chance an die Daten heranzukommen.
 
 ## Grundsätzliches
 
@@ -104,21 +104,12 @@ Links:
 - [Anleitung Linux Verschlüsseln](https://svenfila.wordpress.com/2010/11/04/encrypt-root-partition-without-re-installing-linux/)
 - [Anleitung BIOS Passwort](https://www.wikihow.com/Set-a-BIOS-Password)
 
-## Handy
+## Smartphone
 
-Die meisten Smartphones unterstützen ebenfalls eine Systemverschlüsselung.
-Das funktioniert unterschiedlich gut und auf jedem Gerät ein wenig anders. Den genauen Weg für dein Gerät recherchierst du am besten selber, aber im großen und ganzen läuft das so ähnlich wie beim Computer. Du lädst das Handy auf und lässt es am Ladegerät, suchst im Einstellungsmenü die Option zum verschlüsseln, gibst zweimal dein gewünschtes Passwort ein und wartest bis der Prozess abgeschlossen ist. Teilweise muss nochmal explizit angewählt werden das auch die externe Speicherkarte verschlüsselt werden soll. Grundsätzlich ist das alles auch genau so sicher wie auf dem Computer, aber besonders ältere Geräte die nicht mehr mit Updates versorgt werden stellen ein zusätzliches Risiko dar.
-Trotz Verschlüsselung ist es also vernünftig zu Aktionen nur ein billiges Zweit-Handy mitzunehmen auf dem keine persönlichen Daten gespeichert sind. Auch eine SIM-Karte die nicht mit deinem Namen verknüpft ist, ist dabei eine gute Idee.
+Die meisten Smartphones kommen heutzutage 'ab Werk' mit verschlüsseltem Speicher. Ob die Speicherverschlüsslung wirklich akiv ist, solltest du zur Sicherheit trotzdem einmal überprüfen. Das geht auf jedem Gerät ein wenig anders. Meist wirst du in den Einstellungen unter 'Sicherheit' fündig, den genauen Weg für dein Gerät recherchierst du am besten selber. Sollte die Verschlüsselung nicht aktiviert sein, solltest Du das sofort nachholen. Du lädst deinen Smartphone auf und wählst die Option zum Verschlüsseln, gibst zweimal deine gewünschtes Passwort/PIN ein. Wie Du ein möglichsts sicheres wählst, kannst du im Kapitel [Passwörter](/passwort/) nachlesen. Nun wartest bis der Prozess abgeschlossen ist. Teilweise muss nochmal explizit angewählt werden das auch die externe Speicherkarte verschlüsselt werden soll. Grundsätzlich ist das alles auch genau so sicher wie auf dem Computer, aber besonders ältere Geräte, die nicht mehr mit Updates versorgt werden stellen ein zusätzliches Risiko dar.
+Trotz Verschlüsselung ist es also vernünftig zu Aktionen nur ein billiges Zweit-Handy mitzunehmen, auf dem keine persönlichen Daten gespeichert sind. Auch eine SIM-Karte, die nicht mit deinem Namen verknüpft ist, ist dabei eine gute Idee.
 
-![](../assets/posts/handy_verschluesselung.jpg)
-
-
-> ⚠ Fallstrick beim Handy-Verschlüsseln ⚠<br>
-> Wenn du ein Smartphone von Samsung hast wird das mit der Verschlüsselung leider etwas unpraktisch. Normalerweise musst du dein Entschlüsselungspasswort nur beim Starten des Geräts eingeben. Während es an ist kannst du dann deinen normalen Lockscreen benutzen. Samsung zwingt dich aber das Passwort jedes mal einzugeben wenn du den Bildschirm entsperren willst. Ziemlich unpraktisch und verleitet dazu ein unsicheres Passwort zu benutzen.
-
-Links:
-
-- [How to Encrypt your Android Phone](https://proprivacy.com/privacy-service/guides/encryption-guide-to-securing-android-phone)
+![](../assets/posts/smartphone_verschluesselt.png)
 
 ## Kommunikation
 
