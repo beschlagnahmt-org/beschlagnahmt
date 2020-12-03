@@ -41,10 +41,6 @@ Um die Bedienung über den Browser zu erleichtern gibt es für [Firefox](https:/
 > ⚠ Tipp für zusätzliche Sicherheit ⚠<br>
 > Schütze Deinen Passwort-Safe zusätzlich mit einem [YubiKey / OnlyKey](https://keepassxc.org/docs/#faq-yubikey-howto), dann hast Du eine [Two-Factor Authentication](/two-factor-authentication/). Das funktioniert auch in Verbindung mit den nachfolgend empfohlenen Smartphone-Apps.
 
-## Android
+## Android und iOS
 
-[Keepass2Android](https://github.com/PhilippC/keepass2android)
-
-## iOS
-
-[KeePassium](https://keepassium.com/)
+Auch für die beiden großen Smartphone Betriebsysteme gibt es kompatibele Open Source Apps. Für Android empfehlen wir [Keepass2Android](https://github.com/PhilippC/keepass2android) und für iOS [KeePassium](https://keepassium.com/). Diese bieten grundsätzlich die gleiche Funktionalität wie KeePassXC, z.B. synchronisation mit einem Online-Speicher und automatisches Befüllen von Anmeldeformularen.
