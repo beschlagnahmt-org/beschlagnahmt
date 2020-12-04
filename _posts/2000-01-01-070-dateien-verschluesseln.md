@@ -5,7 +5,7 @@ permalink: /dateien-verschluesseln/
 category: capter
 ---
 # Dateien verschlüsseln
-{: .no_toc } 
+{:.no_toc} 
 
 <details markdown="block">
   <summary>

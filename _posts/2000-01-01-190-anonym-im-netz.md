@@ -5,7 +5,7 @@ permalink: /anonym-im-netz/
 category: capter
 ---
 # Anonym im Netz
-{: .no_toc }
+{:.no_toc}
 
 <details markdown="block">
   <summary>
