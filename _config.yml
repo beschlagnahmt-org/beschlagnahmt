@@ -30,7 +30,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - .github
   - LICENSE.md
 keep_files:
   - assets
