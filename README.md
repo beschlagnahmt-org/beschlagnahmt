@@ -29,5 +29,5 @@ $ > pandoc -s -f markdown _pages/about.md _posts/* \
     --resource-path=assets \
     --pdf-engine=xelatex \
     --template=.pandoc/template.latex \
-    --lua-filter=.pandoc/ remove-toc.lua
+    --lua-filter=.pandoc/remove-toc.lua
 ```
