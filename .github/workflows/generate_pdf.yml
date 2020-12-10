@@ -1,0 +1,17 @@
+name: Generate PDF
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: docker://pandoc/core:2.9
+        with:
+          args: |>  
+            -s -f markdown _pages/about.md _posts/*
+            -o acab.pdf
+            --resource-path=assets
+            --pdf-engine=xelatex
+            --template=.pandoc/template.latex 
+            --lua-filter=.pandoc/remove-toc.lua
