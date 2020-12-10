@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: docker://pandoc/core:2.9
         with:
-          args: |>  
+          args: |
             -s -f markdown _pages/about.md _posts/*
             -o acab.pdf
             --resource-path=assets
