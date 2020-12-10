@@ -1,6 +1,6 @@
 name: Generate PDF
 
-on: push
+on: workflow_dispatch
 
 jobs:
   convert_via_pandoc:
