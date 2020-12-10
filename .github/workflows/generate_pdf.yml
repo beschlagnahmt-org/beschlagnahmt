@@ -13,6 +13,8 @@ jobs:
         run: |
           mkdir output  # create output dir
           echo "::set-env name=FILELIST::$(printf '"%s" ' _posts/*.md)"
+        env:
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'        
 
       - name: Run pandoc
         uses: docker://pandoc/core:2.9
@@ -24,6 +26,8 @@ jobs:
             --pdf-engine=xelatex
             --template=.pandoc/template.latex 
             --lua-filter=.pandoc/remove-toc.lua
+        env:
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true' 
 
       - name: Upload artifact
         uses: actions/upload-artifact@master
