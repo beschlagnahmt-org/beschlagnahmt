@@ -6,7 +6,11 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-18.04
     steps:
-      - uses: docker://pandoc/core:2.9
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Run pandoc
+        uses: docker://pandoc/core:2.9
         with:
           args: |
             -s -f markdown _pages/about.md _posts/*
