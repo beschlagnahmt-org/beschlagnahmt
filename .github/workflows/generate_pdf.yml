@@ -8,14 +8,25 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+ 
+      - name: Create output dir & import _post
+        run: |
+          mkdir output  # create output dir
+          echo "::set-env name=FILELIST::$(printf '"%s" ' _posts/*.md)"
 
       - name: Run pandoc
         uses: docker://pandoc/core:2.9
         with:
           args: |
-            -s -f markdown _pages/about.md _posts/*
-            -o acab.pdf
+            -s -f markdown _pages/about.md ${{ env.FILELIST }}
+            --output=output/acab.pdf
             --resource-path=assets
             --pdf-engine=xelatex
             --template=.pandoc/template.latex 
             --lua-filter=.pandoc/remove-toc.lua
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@master
+        with:
+          name: output
+          path: output
