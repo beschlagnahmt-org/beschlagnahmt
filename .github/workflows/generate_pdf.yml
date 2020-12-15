@@ -8,29 +8,17 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
- 
-      - name: Create output dir & import _post
-        run: |
-          mkdir output  # create output dir
-          echo "::set-env name=FILELIST::$(printf '"%s" ' _posts/*.md)"
-        env:
-          ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'        
+
+      - name: Install packages
+        run: sudo apt install -y texlive-latex-extra texlive-xetex && wget https://github.com/jgm/pandoc/releases/download/2.6/pandoc-2.6-1-amd64.deb && sudo apt install ./pandoc-2.6-1-amd64.deb
 
       - name: Run pandoc
-        uses: docker://pandoc/core:2.9
-        with:
-          args: |
-            -s -f markdown _pages/about.md ${{ env.FILELIST }}
-            --output=output/acab.pdf
-            --resource-path=assets
-            --pdf-engine=xelatex
-            --template=.pandoc/template.latex 
-            --lua-filter=.pandoc/remove-toc.lua
-        env:
-          ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true' 
+        run: pandoc -s -f markdown _pages/about.md _posts/* --output=assets/download/acab.pdf --resource-path=assets --pdf-engine=xelatex --template=.pandoc/template.latex --lua-filter=.pandoc/remove-toc.lua -V documentclass=report
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@master
-        with:
-          name: output
-          path: output
+      - name: push changes to remote
+        run: |
+             git config --global user.name "Pandoc Bot"
+
+             git add assets/download/acab.pdf 
+             git commit -m "Upload latest .pdf"
+             git push
