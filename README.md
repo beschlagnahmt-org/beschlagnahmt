@@ -24,7 +24,7 @@ $ > bundle exec jekyll serve
 ## PDF Export
 mittels Pandoc 1.6
 
-### Automatische Export und Upload
+### Automatischer Export und Upload
 
 Mittels [Github Action](https://github.com/beschlagnahmt-org/beschlagnahmt/actions?query=workflow%3A%22Generate+PDF%22) wird täglich ein neues PDF generiert und dem Repo hinzugefügt.
 
