@@ -7,7 +7,7 @@
 Die Webseite wird mittels [Jekyll](https://jekyllrb.com/) generiert.
 
 - `_posts` enthält die einzelnen Themen
-- `_pages` enthält sonstige Unterseiten
+- `_pages` enthält die Seiten des Menüs
 
 ## Lokale Entwicklung
 
