@@ -22,6 +22,7 @@ $ > bundle exec jekyll serve
 ```
 
 ## PDF Export
+Getestet mit Pandoc 1.6
 
 ```bash
 $ > pandoc -s -f markdown _pages/about.md _posts/* \
