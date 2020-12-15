@@ -29,7 +29,8 @@ Bei der Verwendung von Tor wird dein Datenverkehr verschlüsselt über 3 Rechner
 
 Das stellt den endscheidenden Vorteil gegenüber einem VPN dar, mehr dazu im Abschnitt zu VPNs. 
 
-![](../assets/posts/howtorworks.jpg)<br>
+![](../assets/posts/howtorworks.jpg)
+
 Quelle: [Edward Snowden auf Twitter](https://twitter.com/Snowden/status/653587720598626304)
 
 ### Tor Browser
