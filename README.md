@@ -1,6 +1,6 @@
 # [beschlagnahmt.org](https://beschlagnahmt.org)
 
-![Jekyll site CI](https://github.com/beschlagnahmt-org/website/workflows/Jekyll%20site%20CI/badge.svg)
+![Jekyll site CI](https://github.com/beschlagnahmt-org/website/workflows/Jekyll%20site%20CI/badge.svg) ![Generate PDF](https://github.com/beschlagnahmt-org/beschlagnahmt/workflows/Generate%20PDF/badge.svg)
 
 ## Inhalte
 
@@ -22,7 +22,13 @@ $ > bundle exec jekyll serve
 ```
 
 ## PDF Export
-Getestet mit Pandoc 1.6
+mittels Pandoc 1.6
+
+### Automatische Export und Upload
+
+Mittels [Github Action](https://github.com/beschlagnahmt-org/beschlagnahmt/actions?query=workflow%3A%22Generate+PDF%22) wird täglich ein neues PDF generiert und dem Repo hinzugefügt.
+
+### Manueller Export
 
 ```bash
 $ > pandoc -s -f markdown _pages/about.md _posts/* \
