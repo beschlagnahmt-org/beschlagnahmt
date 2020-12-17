@@ -4,6 +4,16 @@ layout: capter
 permalink: /dateien-loeschen/
 category: capter
 ---
+{:.no_toc}
+
+<details markdown="block">
+  <summary>
+    Inhalt
+  </summary>
+* TOC
+{:toc}
+</details>
+
 # Dateien löschen
 Wie wir vorhin Erfahren haben können die Cops und Sachverständige also gelöschte Daten wiederherstellen.
 Wie kann das angehen?
@@ -11,7 +21,7 @@ Wenn du eine Datei auf deinem Computer löschst verschwinden die Einsen und Null
 Die Lösung ist zum Glück ganz einfach. Wenn du die Daten sofort beim Löschen überschreibst kommt da keine:r mehr dran. Es gibt auch Programme die das für dich machen.
 
 ## Löschen mit Eraser (Win):
-1. Eraser installieren (Standardinstallation)
+1. [Eraser](https://eraser.heidi.ie/) installieren (Standardinstallation)
 2. Rechtsklick auf die Datei
 3. “Eraser” und Unterpunkt “Erase” auswählen
 4. Nochmal mit Klick auf “Yes” bestätigen
@@ -24,18 +34,18 @@ Wenn dir das bei großen Dateien zu lange dauert kannst du in den Eraser-Einstel
 Wenn du mit der Kommandozeile zurecht kommst kannst du auch „SDelete“ von Microsoft verwenden. Das ist wahrscheinlich sogar etwas gründlicher.
 
 ## Löschen mit SDelete (Win):
-1. SDelete installieren
+1. [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete) installieren
 2. In der CMD zum Speicherort navigieren
 3. „sdelete DATEINAME“
 4. Warten bis Datei verschwunden ist
 
 ## Löschen mit shred (Linux):
-1. wipe installieren (Paketverwaltung)
+1. [wipe](http://lambda-diode.com/software/wipe/) installieren (Paketverwaltung)
 2. Im Terminal zum Speicherort navigieren
 3. “wipe -f DATEINAME” eingeben
 4. Warten bis die Datei verschwunden ist
 
-Eine weitere Option für die du kein laufendes Betriebssystem brauchst ist DBAN.
+Eine weitere Option für die du kein laufendes Betriebssystem brauchst ist [DBAN](https://dban.org).
 Diese Techniken sind nur für klassische Festplatten geeignet. Für SSDs, SD-Karten, USB-Sticks und den internen Speicher von Handys funktioniert das leider nicht so gut. Das Überschreiben schadet dem Gerät und es können trotzdem noch Daten zurückbleiben. Wenn du so einen Speicher hast kannst du dich auf den Seiten des Hersteller erkundigen ob es für das Gerät sichere Löschfunktionen gibt. Fast alle Hersteller stellen dafür Software zur Verfügung.
 Ein weiteres Risiko ist das sogenannte Journaling. Das ist eine nützliche Technik um zu verhindern das Daten verloren gehen, die fast überall eingesetzt wird. Allerdings führt sie dazu das Forensiker:innen eventuell Metadaten wie Dateinamen oder sogar Dateiinhalte aus dem Journal wiederherstellen können, selbst wenn die eigentlichen Daten überschrieben wurden.
 
@@ -52,10 +62,3 @@ Du bist mit allen Datenträgerarten auf der sicheren Seite wenn du deine Datentr
 Oder du arbeitest einfach gleich ohne eine Festplatte.
 Dazu gibt es Live-Systeme wie Tails. Du kannst dann alle Festplatten aus deinem Gerät ausbauen und das Betriebssystem von einem USB-Stick starten. Nach dem herunterfahren sind alle Daten verschwunden. Mehr dazu findest du bei „Whonix" und "Tails“ im Kapitel [Anonym im Netz](/anonym-im-netz/).
 Als letzte Option bleibt immer den Datenträger physisch zu zerstören. Sei dabei ruhig gründlich und trage eine Staubschutzmaske um keinen Glas- oder Metallstaub einzuatmen, das ist wirklich sehr ungesund.
-
-Links:
-
-- [Eraser](https://eraser.heidi.ie/)<br>
-- [wipe](http://lambda-diode.com/software/wipe/)<br>
-- [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete)<br>
-- [DBAN](https://dban.org)
