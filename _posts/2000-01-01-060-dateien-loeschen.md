@@ -4,6 +4,7 @@ layout: capter
 permalink: /dateien-loeschen/
 category: capter
 ---
+# Dateien löschen
 {:.no_toc}
 
 <details markdown="block">
@@ -14,7 +15,6 @@ category: capter
 {:toc}
 </details>
 
-# Dateien löschen
 Wie wir vorhin Erfahren haben können die Cops und Sachverständige also gelöschte Daten wiederherstellen.
 Wie kann das angehen?
 Wenn du eine Datei auf deinem Computer löschst verschwinden die Einsen und Nullen auf der Festplatte nicht automatisch. Sie werden nur zum Überschreiben freigegeben falls der Platz für was anderes gebraucht wird. Du kannst die Datei also nicht mehr sehen, aber sie lässt sich mit etwas Arbeit noch rekonstruieren. (Auch wenn du den Papierkorb bereits “geleert” hast.)
