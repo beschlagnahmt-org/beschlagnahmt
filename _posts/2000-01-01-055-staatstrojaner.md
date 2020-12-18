@@ -31,7 +31,7 @@ Nette Geschichte am Rande: Die Firmen Gamma und Hacking Team wurden beide von ei
 
 Links:
 
-[Überwachung durch Staatstrojaner](https://youtu.be/8REBKuFGfk8)<br>
-[Chaos Computer Club analysiert Staatstrojaner](https://www.ccc.de/de/updates/2011/staatstrojaner)
+ * [Überwachung durch Staatstrojaner](https://youtu.be/8REBKuFGfk8)
+ * [Chaos Computer Club analysiert Staatstrojaner](https://www.ccc.de/de/updates/2011/staatstrojaner)
 
 ![](../assets/posts/phineas.jpg)
