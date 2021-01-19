@@ -3,7 +3,7 @@ name: Generate PDF
 on:
   push:
     branches:
-      - main
+      - master
     
 jobs:
   convert_via_pandoc:
