@@ -26,7 +26,7 @@ Wenn du Backups von deinen Daten anlegst denk daran auch diese zu verschlüsseln
 Und noch was: Am sichersten sind die Daten die du gar nicht erst speicherst. Halte dich besonders bei heiklen Informationen an das Konzept der Datensparsamkeit.
 Wenn du unbedingt Papiere aufbewahren musst tue dies in einem Umschlag der mit “Für meinen Anwalt” o.Ä. beschriftet ist.
 
-## Computer
+## Laptop / Desktop
 Für deinen Computer hast du zwei grundlegende Optionen. Du kannst das [gesamte System verschlüsseln](https://www.veracrypt.fr/en/System%20Encryption.html), oder einen verschlüsselten Container anlegen in dem du du vertrauliche Dateien ablegst.
 
 ### Systemverschlüsselung mit VeraCrypt (Windows)
@@ -42,8 +42,7 @@ klicken
 8. Passwort eingeben (siehe dazu Kapitel „Passwort“)
 9. Die Maus möglichst zufällig durch das Fenster bewegen bis der grüne Balken voll ist, dann “Next”
 10. “Next”
-11. Entsprechend der Anweisungen eine Rescue Disk erstellen. Wenn du kein CD-Laufwerk hast kannst du auch einen USB-Stick verwenden. Mit der CD bzw. dem USB-Stick kannst du das System nicht wiederherstellen wenn du dein Passwort vergessen hast. Sie dienen nur dazu das System zu retten falls Dateien beschädigt wurden die VeraCrypt zum entschlüsseln benötigt. Du solltest den Datenträger also gut aufbewahren, aber falls
-die Cops ihn kriegen sind deine Daten aber trotzdem noch sicher.
+11. Entsprechend der Anweisungen eine Rescue Disk erstellen. Wenn du kein CD-Laufwerk hast kannst du auch einen USB-Stick verwenden. Mit der CD bzw. dem USB-Stick kannst du das System nicht wiederherstellen wenn du dein Passwort vergessen hast. Sie dienen nur dazu das System zu retten falls Dateien beschädigt wurden die VeraCrypt zum entschlüsseln benötigt. Du solltest den Datenträger also gut aufbewahren, aber falls die Cops ihn kriegen sind deine Daten aber trotzdem noch sicher.
 
 ![](../assets/posts/veracrypt-verschluesseln.jpg)
 
@@ -54,16 +53,6 @@ die Cops ihn kriegen sind deine Daten aber trotzdem noch sicher.
 14. VeraCrypt sollte sich automatisch gestartet haben. Auf den Button “Encrypt” klicken
 15. Notfallanweisungen lesen, ggf. drucken und mit “Ok” bestätigen
 16. Abwarten bis alles verschlüsselt ist.  
-
-#### Windows Upgrade eines verschlüsselten Systems
-
-Bei größeren Windows-Updates wird es Probleme geben wenn die Festplatte komplett verschlüsselt ist. Das Update schlägt dann fehl und muss zurückgerollt werden. Wenn du Pech hast kann dadurch sogar deine verschlüsselte Partition beschädigt werden oder der Rechner kann nicht mehr starten. Seit Version 1.23 von VeraCrypt gibt es eine Technik mit der du trotzdem ein solches Update durchführen kannst. Versuche auf keinen Fall größere Updates ohne diese Maßnahmen einzuspielen. 
-
-1. Erstelle ein Installationsmedium mit dem Media Creation Tool von Microsoft
-2. Öffne eine Kommandozeile (Einfach im Startmenü “cmd” eingeben und mit Rechtsklick als Administrator:in ausführen)
-3. Navigiere in das Verzeichnis mit der setup.exe das du in Schritt 1 erstellt hast
-4. Führe den Befehl `.\setup.exe /ReflectDrivers “C:\Program Files\VeraCrypt” /PostOOBE C:\ProgramData\VeraCrypt\SetupComplete.cmd` aus. (Alles in einer Zeile)
-5. Folge den Anweisungen auf dem Bildschirm
 
 Sollte dir das wirklich viel viel zu kompliziert sein kannst du auch schauen ob deine Windows Version “Bitlocker” mit dabei hat. Das ist das Verschlüsselungs-Programm von Microsoft. Es ist einfacher zu bedienen, allerdings ist es sehr wahrscheinlich das dort Hintertüren eingebaut wurden. Allgemein kann VeraCrypt da deutlich mehr Vertrauen entgegen gebracht werden, aber bevor du stattdessen gar keine Verschlüsselung benutzt verwende lieber Bitlocker.
 
