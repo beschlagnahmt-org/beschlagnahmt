@@ -1,10 +1,10 @@
 ---
-title: Dateien verschlüsseln
+title: Daten verschlüsseln
 layout: capter
-permalink: /dateien-verschluesseln/
+permalink: /daten-verschluesseln/
 category: capter
 ---
-# Dateien verschlüsseln
+# Daten verschlüsseln
 {:.no_toc} 
 
 <details markdown="block">
