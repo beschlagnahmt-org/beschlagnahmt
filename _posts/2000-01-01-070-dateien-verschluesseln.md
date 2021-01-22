@@ -56,6 +56,7 @@ die Cops ihn kriegen sind deine Daten aber trotzdem noch sicher.
 16. Abwarten bis alles verschlüsselt ist.  
 
 #### Windows Upgrade eines verschlüsselten Systems
+
 Bei größeren Windows-Updates wird es Probleme geben wenn die Festplatte komplett verschlüsselt ist. Das Update schlägt dann fehl und muss zurückgerollt werden. Wenn du Pech hast kann dadurch sogar deine verschlüsselte Partition beschädigt werden oder der Rechner kann nicht mehr starten. Seit Version 1.23 von VeraCrypt gibt es eine Technik mit der du trotzdem ein solches Update durchführen kannst. Versuche auf keinen Fall größere Updates ohne diese Maßnahmen einzuspielen. 
 
 1. Erstelle ein Installationsmedium mit dem Media Creation Tool von Microsoft
@@ -104,19 +105,3 @@ Die meisten Smartphones kommen heutzutage 'ab Werk' mit verschlüsseltem Speiche
 Trotz Verschlüsselung ist es also vernünftig zu Aktionen nur ein billiges Zweit-Handy mitzunehmen, auf dem keine persönlichen Daten gespeichert sind. Auch eine SIM-Karte, die nicht mit deinem Namen verknüpft ist, ist dabei eine gute Idee.
 
 ![](../assets/posts/smartphone_verschluesselt.png)
-
-## Kommunikation
-Wenn du eine Nachricht über das Internet versendest wird sie viele Stellen durchlaufen bis sie am Ziel angekommen ist. Vielen davon musst du ohne Verschlüsselung einfach vertrauen das sie deine Daten schützen und sich im Zweifel auch gegen Behördenanfragen zur Wehr setzen. Das machen aber leider viele nicht. Zum Beispiel ist bekannt das 1&1 zu denen auch GMX und Web.de gehören ohne große Rückfragen gespeicherte Daten weitergeben. Aber auch bei kleineren Anbietern solltest du dich nicht darauf verlassen dass die Betreiber:innen für dich in den Knast gehen werden wenn sie eine Anfrage bekommen. Die Lösung ist auch hier wieder Verschlüsselung.
-
-### Asymmetrische Verschlüsselung
-Was wir gerade für die Verschlüsselung unserer Geräte verwendet haben war eine traditionelle symmetrische Verschlüsselung. Das bedeutet das die Person an die Daten kommt die das Passwort hat. Für Kommunikation ist das etwas unpraktisch, da so das Passwort zwischen allen Kommunikationsteilnehmer:innen auf einem sicheren Kanal ausgetauscht werden muss bevor kommuniziert werden kann. Das ist umständlich und bringt das Risiko mit sich, dass das Passwort beim Austausch abgefangen wird. Dieses Problem wird mit asymmetrischer Verschlüsselung gelöst. Bei dieser haben unsere Kommunikationsteilnehmer:innen Alice und Bob je einen öffentlichen und einen privaten Schlüssel. Der öffentliche Schlüssel wird nur zum verschlüsseln verwendet, der private Schlüssel wird nur zum entschlüsseln verwendet. 
-
-> Alice und Bob?
->
-> Alice und Bob sind die “Anna und Arthur” der Kryptografie, In unserem Beispiel wollen die beiden miteinander kommunizieren ohne dass Mallory mitlesen kann.
-
-Ein privater und ein öffentlicher Schlüssel bilden ein Schlüsselpaar. Eine Nachricht die mit Bobs öffentlichem Schlüssel verschlüsselt wurde kann nur mit seinem privatem Schlüssel entschlüssselt werden. Selbst Alice die die Nachricht verschlüsselt hat kann die Verschlüsselung nicht rückgängig machen, denn nur Bob kennt den privaten Schlüssel.
-
-![](../assets/posts/encryption_decryption.jpg)
-
-Dieses Verfahren wird fast überall verwendet wo ohne einen sicheren Kanal zum Passwortaustausch kommuniziert werden muss. Es ist auf den ersten Blick etwas kompliziert, funktioniert aber gut.
