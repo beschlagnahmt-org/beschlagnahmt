@@ -19,10 +19,10 @@ So schützt du also die Daten die du eh nicht mehr haben willst. Aber was ist mi
 Diese solltest du verschlüsseln. Wenn du das richtig machst haben die Behörden kaum eine Chance an die Daten heranzukommen.
 
 ## Grundsätzliches
-Ein Versteck ersetzt keine Verschlüsselung. Irgendwo tief in einem Ordner abgelegte Dateien werden die Be hörden mit hoher Sicherheit finden. Gleiches gilt für in der Wohnung versteckte Datenträger. Effektiv schützen kannst du dich nur indem du deine Daten verschlüsselst.
+Ein Versteck ersetzt keine Verschlüsselung. Irgendwo tief in einem Ordner abgelegte Dateien werden die Behörden mit großer Sicherheit finden. Gleiches gilt für in der Wohnung versteckte Datenträger. Effektiv schützen kannst du dich nur in dem du deine Daten verschlüsselst.
 Wenn sie Datenträger mitnehmen ist das egal, da sie dich nicht zwingen können das Passwort herauszugeben.
 In den gleich folgenden Anleitungen wirst du dir an einigen Stellen ein Passwort ausdenken müssen. Bitte beachte hierfür auch den Abschnitt “Passwort”. Ein gutes Passwort ist für die Sicherheit deiner Daten essentiell.
-Wenn du Backups von deinen Daten anlegst denk daran auch diese zu verschlüsseln. Bevor du versuchst deine Geräte zu verschlüsseln lege auch eine Sicherung an, falls mal was schiefgeht.
+Wenn du Backups von deinen Daten anlegst denk daran auch diese zu verschlüsseln. Bevor du versuchst deine Geräte zu verschlüsseln lege auch eine Sicherung an, falls dabei was schiefgeht.
 Und noch was: Am sichersten sind die Daten die du gar nicht erst speicherst. Halte dich besonders bei heiklen Informationen an das Konzept der Datensparsamkeit.
 Wenn du unbedingt Papiere aufbewahren musst tue dies in einem Umschlag der mit “Für meinen Anwalt” o.Ä. beschriftet ist.
 
