@@ -1,14 +1,10 @@
 ---
-title: Impressum
+title: Kontakt
 layout: page
 permalink: /kontakt/
 order: 4
 ---
-[Stefan Leibfarth](https://stefan.leibfarth.org) <br>
-Karlstr. 15<br>
-73266 Bissingen a. d. Teck<br>
-
-Kontakt: [beschlagnahmt@riseup.net](mailto:beschlagnahmt@riseup.net) ([GPG-Key](/assets/pages/pubkey.asc))
+[beschlagnahmt@riseup.net](mailto:beschlagnahmt@riseup.net) ([GPG-Key](/assets/pages/pubkey.asc))
 
 ### Lizenz ###
 
