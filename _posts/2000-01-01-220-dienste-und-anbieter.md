@@ -9,7 +9,7 @@ Hier wurde nun öfters erwähnt wie viel Vertrauen du den Menschen gegenüber br
 € = Kostenpflichtig<br>
 Inv = Nur auf persönliche Anfrage oder Einladung<br>
 
-##Mail
+## Mail
 
 - [Posteo](https://posteo.de) (€)
 - [Mailbox](https://mailbox.org) (€)
@@ -24,26 +24,26 @@ Inv = Nur auf persönliche Anfrage oder Einladung<br>
 - [Disroot](https://disroot.org) (Free)
 - [Snopyta](https://snopyta.org) (Free)
 
-##Jabber/XMPP
+## Jabber/XMPP
 
 - [riseup.net](https://riseup.net) (Inv)
 - [systemli.org](https://systemli.org)
 - [systemausfall.org](https://systemausfall.org) (Inv)
 - [so36.net](https://so36.net) (Inv)
 
-##Jitsi Meet
+## Jitsi Meet
 
 - [meet.jit.si](https://meet.jit.si) (Unterstützt E2E-Verschlüsslung)
 - [jitsi.rocks](https://jitsi.rocks)
 - [talk.snopyta.org](https://talk.snopyta.org)
 
-##BigBlueButton
+## BigBlueButton
 
 - [meeten.statt-drosseln.de](https://meeten.statt-drosseln.de)
 - [senfcall.de](https://senfcall.de)
 - [bbb.daten.reisen/b](https://bbb.daten.reisen/b)
 
-##DNS
+## DNS
 
 - [Digitalcourage e.V.](https://digitalcourage.de/support/zensurfreier-dns-server) 
 
