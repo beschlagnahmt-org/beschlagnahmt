@@ -15,7 +15,7 @@ Inv = Nur auf persönliche Anfrage oder Einladung<br>
 - [Mailbox](https://mailbox.org) (€)
 - [Riseup](https://riseup.net) (Inv)
 - [Autistici](https://autistici.org) (Inv)
-- [Systemausfall](https://systemausfall.org) (inv)
+- [Systemausfall](https://systemausfall.org) (Inv)
 - [Systemli](https://systemli.org) (Inv)
 - [so36](https://so36.net) (Inv)
 - [Anonymous Speech](https://anonymousspeech.com) (€)
