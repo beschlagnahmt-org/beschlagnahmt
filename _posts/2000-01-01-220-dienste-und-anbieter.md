@@ -5,12 +5,13 @@ permalink: /dienste-und-anbieter/
 category: capter
 ---
 # Dienste und Anbieter
-Hier wurde nun öfters erwähnt wie viel Vertrauen du den Menschen gegenüber bringen musst die zum Beispiel deinen Mailserver oder dein VPN betreiben. Um die Auswahl etwas leichter zu machen ist hier eine kleine Liste mit Anbietern. Recherchiere aber auch nochmal selbst wer am besten zu dir passt und triff dann deine eigene Entscheidung.<br>
-€ = Kostenpflichtig<br>
-Inv = Nur auf persönliche Anfrage oder Einladung<br>
+Hier wurde nun öfters erwähnt wie viel Vertrauen du den Menschen gegenüber bringen musst die zum Beispiel deinen Mailserver oder dein VPN betreiben. Um die Auswahl etwas leichter zu machen ist hier eine kleine Liste mit Anbietern. Recherchiere aber auch nochmal selbst wer am besten zu dir passt und triff dann deine eigene Entscheidung.
+
+(€) = Kostenpflichtig
+
+(Inv) = Nur auf persönliche Anfrage oder Einladung
 
 ## Mail
-
 - [Posteo](https://posteo.de) (€)
 - [Mailbox](https://mailbox.org) (€)
 - [Riseup](https://riseup.net) (Inv)
@@ -25,7 +26,6 @@ Inv = Nur auf persönliche Anfrage oder Einladung<br>
 - [Snopyta](https://snopyta.org) (Free)
 
 ## Jabber/XMPP
-
 - [riseup.net](https://riseup.net) (Inv)
 - [systemli.org](https://systemli.org)
 - [systemausfall.org](https://systemausfall.org) (Inv)
@@ -33,18 +33,16 @@ Inv = Nur auf persönliche Anfrage oder Einladung<br>
 
 ## Jitsi Meet
 
-- [meet.jit.si](https://meet.jit.si) (Unterstützt E2E-Verschlüsslung)
+- [meet.jit.si](https://meet.jit.si) (Unterstützt E2E-Verschlüsselung)
 - [jitsi.rocks](https://jitsi.rocks)
 - [talk.snopyta.org](https://talk.snopyta.org)
 
 ## BigBlueButton
-
 - [meeten.statt-drosseln.de](https://meeten.statt-drosseln.de)
 - [senfcall.de](https://senfcall.de)
 - [bbb.daten.reisen/b](https://bbb.daten.reisen/b)
 
 ## DNS
-
 - [Digitalcourage e.V.](https://digitalcourage.de/support/zensurfreier-dns-server) 
 
 Eine ausführliche Liste von Software und Anbietern findest du bei [PrismBreak](https://prism-break.org/de/) und [PrivacyTools](https://www.privacytools.io/).
