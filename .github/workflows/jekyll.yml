@@ -3,8 +3,14 @@ name: Jekyll site CI
 on:
   push:
     branches: [ master ]
+    paths:
+    - '!.github/**'
+    - '!.pandoc/**'
   pull_request:
     branches: [ master ]
+    paths:
+    - '!.github/**'
+    - '!.pandoc/**'
 
 jobs:
   build:
