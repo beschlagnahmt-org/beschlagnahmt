@@ -24,6 +24,10 @@ Hier wurde nun öfters erwähnt wie viel Vertrauen du den Menschen gegenüber br
 - [Disroot](https://disroot.org) (Free)
 - [Snopyta](https://snopyta.org) (Free)
 
+## Matrix
+- [systemli.org](https://systemli.org/service/matrix/)
+- [systemausfall.org](https://systemausfall.org/dienste/matrix) (Inv)
+
 ## Jabber/XMPP
 - [riseup.net](https://riseup.net) (Inv)
 - [systemli.org](https://systemli.org/service/xmpp/)
@@ -31,7 +35,6 @@ Hier wurde nun öfters erwähnt wie viel Vertrauen du den Menschen gegenüber br
 - [so36.net](https://so36.net) (Inv)
 
 ## Jitsi Meet
-
 - [meet.jit.si](https://meet.jit.si) (Unterstützt E2E-Verschlüsselung)
 - [jitsi.rocks](https://jitsi.rocks)
 - [talk.snopyta.org](https://talk.snopyta.org)
