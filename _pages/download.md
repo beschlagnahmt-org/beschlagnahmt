@@ -4,4 +4,4 @@ layout: page
 permalink: /download/
 order: 3
 ---
-Die neueste Version findest Du [hier](/assets/download/acab.pdf), wann das PDF erstellt wurde steht auf dessen zweiter Seite.
+[![Download PDF](/assets/pages/download-pdf.png)](/assets/download/acab.pdf)
