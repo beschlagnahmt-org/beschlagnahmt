@@ -5,10 +5,9 @@ permalink: /dienste-und-anbieter/
 category: capter
 ---
 # Dienste und Anbieter
-Hier wurde nun öfters erwähnt wie viel Vertrauen du den Menschen gegenüber bringen musst die zum Beispiel deinen Mailserver oder dein VPN betreiben. Um die Auswahl etwas leichter zu machen ist hier eine kleine Liste mit Anbietern. Recherchiere aber auch nochmal selbst wer am besten zu dir passt und triff dann deine eigene Entscheidung.
+Hier wurde nun öfters erwähnt wie viel Vertrauen du den Menschen gegenüber bringen musst die zum Beispiel deinen Mailserver oder dein VPN betreiben. Um die Auswahl etwas leichter zu machen ist hier eine kleine Liste mit Anbietern. Recherchiere aber auch nochmal selbst wer am besten zu dir passt und triff dann deine eigene Entscheidung.   
 
-(€) = Kostenpflichtig
-
+(€) = Kostenpflichtig   
 (Inv) = Nur auf persönliche Anfrage oder Einladung
 
 ## Mail
@@ -27,7 +26,7 @@ Hier wurde nun öfters erwähnt wie viel Vertrauen du den Menschen gegenüber br
 
 ## Jabber/XMPP
 - [riseup.net](https://riseup.net) (Inv)
-- [systemli.org](https://systemli.org)
+- [systemli.org](https://systemli.org/service/xmpp/)
 - [systemausfall.org](https://systemausfall.org) (Inv)
 - [so36.net](https://so36.net) (Inv)
 
@@ -36,6 +35,7 @@ Hier wurde nun öfters erwähnt wie viel Vertrauen du den Menschen gegenüber br
 - [meet.jit.si](https://meet.jit.si) (Unterstützt E2E-Verschlüsselung)
 - [jitsi.rocks](https://jitsi.rocks)
 - [talk.snopyta.org](https://talk.snopyta.org)
+- [meet.systemli.org](https://meet.systemli.org/)
 
 ## BigBlueButton
 - [meeten.statt-drosseln.de](https://meeten.statt-drosseln.de)
