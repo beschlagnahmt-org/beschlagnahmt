@@ -19,12 +19,12 @@ So schützt du also die Daten die du eh nicht mehr haben willst. Aber was ist mi
 Diese solltest du verschlüsseln. Wenn du das richtig machst haben die Behörden kaum eine Chance an die Daten heranzukommen.
 
 ## Grundsätzliches
-Ein Versteck ersetzt keine Verschlüsselung. Irgendwo tief in einem Ordner abgelegte Dateien werden die Behörden mit großer Sicherheit finden. Gleiches gilt für in der Wohnung versteckte Datenträger. Effektiv schützen kannst du dich nur in dem du deine Daten verschlüsselst.
+Ein Versteck ersetzt keine Verschlüsselung. Irgendwo tief in einem Ordner abgelegte Dateien werden die Behörden mit großer Sicherheit finden. Gleiches gilt für in der Wohnung versteckte Datenträger, denn auch der Einsatz von Datenspeicher-Spürhunden hat zugenommen. Effektiv schützen kannst du dich nur in dem du deine Daten verschlüsselst.
 Wenn sie Datenträger mitnehmen ist das egal, da sie dich nicht zwingen können das Passwort herauszugeben.
 In den gleich folgenden Anleitungen wirst du dir an einigen Stellen ein Passwort ausdenken müssen. Bitte beachte hierfür auch das Kapitel “Passwort”. Ein gutes Passwort ist für die Sicherheit deiner Daten essentiell.
 Wenn du Backups von deinen Daten anlegst, denk daran auch diese zu verschlüsseln. Bevor du versuchst deine Geräte zu verschlüsseln lege auch eine Sicherung an, falls dabei was schiefgeht.
 Und noch was: Am sichersten sind die Daten die du gar nicht erst speicherst. Halte dich besonders bei heiklen Informationen an das Konzept der Datensparsamkeit.
-Wenn du unbedingt Papiere aufbewahren musst tue dies in einem Umschlag der mit “Für meinen Anwalt” o.Ä. beschriftet ist.
+Wenn du unbedingt Papiere aufbewahren musst tue dies in einem Umschlag der mit “Für meinen Anwalt” o. Ä. beschriftet ist.
 
 > ⚠ Bedenke das diese Verfahren umgangen werden können indem in deine Wohnung eingedrungen wird und ein Keylogger installiert wird. Das ist ein kleines Gerät am USB Anschluss oder eine Software welche die Tastatureingaben mitschneidet. Statte also dein UEFI und ggf. deinen Bootloader [mit einem Passwort aus](https://www.wikihow.com/Set-a-BIOS-Password) und prüfe immer mal wieder den Anschluss deiner Tastatur auf Unregelmäßigkeiten. ⚠
 
