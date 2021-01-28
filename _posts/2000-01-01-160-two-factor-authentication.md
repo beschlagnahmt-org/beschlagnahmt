@@ -13,7 +13,7 @@ Deine Passwörter können aus verschiedenen Gründen dritten bekannt werden:
 
 Durch die, zuvor bereits erwähnte, Verwendung eines Passwortmanagers kannst du dich vor ein paar dieser Szenarien schützen.
 
-Trotzdem macht “Two-Factor Authentication” oder kurz “2FA” zusätzlich großen Sinn. Dabei installierst du z. B. eine App auf deinem Handy, die dir alle 30 Sekunden einen anderen kurzen Zahlencode anzeigt. Wenn du auf einer Website anmelden willst, bei der Du diese 2FA-Methode aktiviert hast, gibst du nicht nur dein Passwort ein, sondern danach auch noch den Code von deinem Handy. Ohne den Code kommt keine:r rein, das Passwort alleine reicht nicht mehr. Es werden jetzt also zwei “Faktoren” geprüft: Etwas das du weißt (das Passwort) und etwas das du besitzt (dein Handy mit der App).
+Trotzdem macht “Two Factor Authentication” oder kurz “2FA” zusätzlich großen Sinn. Dabei installierst du z. B. eine App auf deinem Handy, die dir alle 30 Sekunden einen anderen kurzen Zahlencode anzeigt. Wenn du dich bei einem Dienst anmelden willst, bei dem Du 2FA aktiviert hast, gibst du nicht nur dein Passwort ein, sondern danach auch noch den Code von deinem Handy. Ohne den Code kommt keine:r rein, das Passwort alleine reicht nicht mehr. Es werden jetzt also zwei “Faktoren” geprüft: Etwas das du weißt (das Passwort) und etwas das du besitzt (dein Handy mit der App).
 
 Auf [twofactorauth.org](https://twofactorauth.org/) kannst du dich informieren, ob die Dienste die du nutzt 2FA anbieten und wie du es aktivieren kannst. 
 
