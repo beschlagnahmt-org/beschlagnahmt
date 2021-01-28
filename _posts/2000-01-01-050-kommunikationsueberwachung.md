@@ -10,7 +10,7 @@ Auch hier kannst du dich wieder durch verschiedene Verschlüsselungsverfahren sc
 
 Um das Thema Vorratsdatenspeicherung wird aktuell noch gestritten. Momentan ist diese ausgesetzt, wie sich das in Zukunft entwickeln wird ist aber noch unklar. Halte dich am besten gelegentlich etwas auf dem Laufenden.
 
-Neben solchen Anfragen bei Dritten gibt es auch noch den sogenannten “Großen Lauschangriff” also das direkte Abhören der Wohnung mit Mikrofonen. Dieser wird aber recht selten angewandt. Anzunehmen sind vielleicht 10-15 Fälle pro Jahr. Beachte das eine Hausdurchsuchung für die Cops eine gute Gelegenheit ist Wanzen zu deponieren.
+Neben solchen Anfragen bei Dritten gibt es auch noch den sogenannten “Großen Lauschangriff” also das direkte Abhören der Wohnung mit Mikrofonen. Dieser wird aber recht selten angewandt. Im Jahr 2019 wurden im repressiven Bereich 9 Maßnahmen angeordnet und 7 davon vollzogen. Beachte das eine Hausdurchsuchung für die Cops eine gute Gelegenheit ist Wanzen zu deponieren.
 
 Wer ebenfalls gelegentlich mithört sind die Sprachassistenten von Google, Apple und Amazon. Diese Geräte nehmen kontinuierlich ihre Umgebung auf. (Sonst könnten sie ja auch gar nicht auf ein “Hey Google” reagieren.) Aufzeichnungen von Sprachbefehlen werden auf den Servern der Anbieter gespeichert und können theoretisch auch von den Behörden angefragt werden.
 
