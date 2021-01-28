@@ -21,7 +21,7 @@ Eine 'Online-Durchsuchung' lässt sich mit einer heimlichen Hausdurchsuchung ver
 
 ## Quellen-TKÜ
 
-Die harmlos klingende Bezeichnung 'Quellen-TKÜ' ist in der Praxis nichts anderes als eine 'Online-Durchsuchung light'. Auch hier wird eine Schadsoftware auf euer(e) System(e) aufgebracht, mit dem Unterschied, dass nur 'laufende Kommuniaktion' abgeört werden soll. Durch die starke Zunahme von Messengern mit Ende-zu-Ende-Verschlüsselung ist die Quellen-TKÜ ein immer beliebteres Mittel der Behörden. Es ist jedoch relativ aufwändig und teuer, so dass es nicht annähernd so oft eingesetzt wird wie das 'klassische' Abhören von Telefonaten und SMS.
+Die harmlos klingende Bezeichnung 'Quellen-TKÜ' ist in der Praxis nichts anderes als eine 'Online-Durchsuchung light'. Auch hier wird eine Schadsoftware auf euer(e) System(e) aufgebracht, mit dem Unterschied, dass nur 'laufende Kommuniaktion' abgeört werden soll. Durch die starke Zunahme von Messengern mit Ende-zu-Ende-Verschlüsselung ist die Quellen-TKÜ ein immer beliebteres Mittel der Behörden. Es ist jedoch relativ aufwändig und teuer, so dass es nicht annähernd so oft eingesetzt wird wie das 'klassische' Abhören von Telefonaten und SMS. So gab es im [Jahr 2019](https://netzpolitik.org/2020/justizstatistik-2019-die-polizei-setzt-taeglich-staatstrojaner-ein/), bis zum 20. November, 20 "tatsächlich durchgeführte" Online-Durchsuchungen und 368 "tatsächlich durchgeführte" Quellen-TKÜs.
 
 ## Gegenmaßnahmen
 
