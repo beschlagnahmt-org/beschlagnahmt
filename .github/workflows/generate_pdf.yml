@@ -13,6 +13,11 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-18.04
     steps:
+      - name: Cancel Previous Runs
+        uses: styfle/cancel-workflow-action@0.7.0
+        with:
+          access_token: ${{ fc28042cd32f86a9a1137428ef2d49065d7ed59b }}
+      
       - name: Checkout code
         uses: actions/checkout@v2
 
