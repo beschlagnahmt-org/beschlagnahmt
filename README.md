@@ -26,7 +26,7 @@ mittels Pandoc 1.6
 
 ### Automatischer Export und Upload
 
-Mittels [Github Action](https://github.com/beschlagnahmt-org/beschlagnahmt/actions?query=workflow%3A%22Generate+PDF%22) wird täglich ein neues PDF generiert und dem Repo hinzugefügt.
+Mittels [Github Action](https://github.com/beschlagnahmt-org/beschlagnahmt/actions?query=workflow%3A%22Generate+PDF%22) wird nach jeder Änderung ein neues PDF generiert und dem Repo hinzugefügt.
 
 ### Manueller Export
 
