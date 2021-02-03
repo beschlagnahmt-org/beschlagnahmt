@@ -15,21 +15,29 @@ category: capter
 {:toc}
 </details>
 
-So schützt du also die Daten die du eh nicht mehr haben willst. Aber was ist mit denen die du noch brauchst?
-Diese solltest du verschlüsseln. Wenn du das richtig machst haben die Behörden kaum eine Chance an die Daten heranzukommen.
+So schützt du also die Daten die du eh nicht mehr haben willst.
+Aber was ist mit denen die du noch brauchst?
+Diese solltest du verschlüsseln.
+Wenn du das richtig machst haben die Behörden kaum eine Chance an die Daten heranzukommen.
 
 ## Grundsätzliches
-Ein Versteck ersetzt keine Verschlüsselung. Irgendwo tief in einem Ordner abgelegte Dateien werden die Behörden mit großer Sicherheit finden. Gleiches gilt für in der Wohnung versteckte Datenträger, denn auch der Einsatz von Datenspeicher-Spürhunden hat zugenommen. Effektiv schützen kannst du dich nur in dem du deine Daten verschlüsselst.
+Ein Versteck ersetzt keine Verschlüsselung. Irgendwo tief in einem Ordner abgelegte Dateien werden die Behörden mit großer Sicherheit finden.
+Gleiches gilt für in der Wohnung versteckte Datenträger, denn auch der Einsatz von Datenspeicher-Spürhunden hat zugenommen.
+Effektiv schützen kannst du dich nur in dem du deine Daten verschlüsselst.
 Wenn sie Datenträger mitnehmen ist das egal, da sie dich nicht zwingen können das Passwort herauszugeben.
-In den gleich folgenden Anleitungen wirst du dir an einigen Stellen ein Passwort ausdenken müssen. Bitte beachte hierfür auch das Kapitel “Passwort”. Ein gutes Passwort ist für die Sicherheit deiner Daten essentiell.
-Wenn du Backups von deinen Daten anlegst, denk daran auch diese zu verschlüsseln. Bevor du versuchst deine Geräte zu verschlüsseln lege auch eine Sicherung an, falls dabei was schiefgeht.
-Und noch was: Am sichersten sind die Daten die du gar nicht erst speicherst. Halte dich besonders bei heiklen Informationen an das Konzept der Datensparsamkeit.
+In den gleich folgenden Anleitungen wirst du dir an einigen Stellen ein Passwort ausdenken müssen.
+Bitte beachte hierfür auch das Kapitel “Passwort”. Ein gutes Passwort ist für die Sicherheit deiner Daten essentiell.
+Wenn du Backups von deinen Daten anlegst, denk daran auch diese zu verschlüsseln.
+Bevor du versuchst deine Geräte zu verschlüsseln lege auch eine Sicherung an, falls dabei was schiefgeht.
+Und noch was: Am sichersten sind die Daten die du gar nicht erst speicherst.
+Halte dich besonders bei heiklen Informationen an das Konzept der Datensparsamkeit.
 Wenn du unbedingt Papiere aufbewahren musst tue dies in einem Umschlag der mit “Für meinen Anwalt” o. Ä. beschriftet ist.
 
 > ⚠ Bedenke das diese Verfahren umgangen werden können indem in deine Wohnung eingedrungen wird und ein Keylogger installiert wird. Das ist ein kleines Gerät am USB Anschluss oder eine Software welche die Tastatureingaben mitschneidet. Statte also dein UEFI und ggf. deinen Bootloader [mit einem Passwort aus](https://www.wikihow.com/Set-a-BIOS-Password) und prüfe immer mal wieder den Anschluss deiner Tastatur auf Unregelmäßigkeiten. ⚠
 
 ## Laptop / Desktop
-Für deinen Computer hast du zwei grundlegende Optionen. Du kannst das [gesamte System verschlüsseln](https://www.veracrypt.fr/en/System%20Encryption.html), oder einen verschlüsselten Container anlegen in dem du du vertrauliche Dateien ablegst.
+Für deinen Computer hast du zwei grundlegende Optionen.
+Du kannst das [gesamte System verschlüsseln](https://www.veracrypt.fr/en/System%20Encryption.html), oder einen verschlüsselten Container anlegen in dem du du vertrauliche Dateien ablegst.
 
 ### Systemverschlüsselung mit VeraCrypt (Windows)
 1. [VeraCrypt](https://www.veracrypt.fr/) installieren und starten
@@ -65,7 +73,10 @@ Fast alle Linux-Betriebssysteme bringen bereits Verschlüsselungsmechanismen mit
 5. Mit “Install Now” die eigentliche Installation starten.
 
 ### Systemverschlüsselung mittels Bitlocker (Windows)
-Sollte dir das wirklich viel viel zu kompliziert sein kannst du auch schauen ob deine Windows Version “[Bitlocker](https://docs.microsoft.com/de-de/windows/security/information-protection/bitlocker/bitlocker-basic-deployment)” unterstützt. Das ist das Verschlüsselungs-Programm von Microsoft. Es ist einfacher zu bedienen, allerdings ist es sehr wahrscheinlich das dort Hintertüren eingebaut wurden. Grundsätzlich kann VeraCrypt da deutlich mehr Vertrauen entgegen gebracht werden, aber bevor du stattdessen gar keine Verschlüsselung benutzt verwende lieber Bitlocker.
+Sollte dir das wirklich viel viel zu kompliziert sein kannst du auch schauen ob deine Windows Version “[Bitlocker](https://docs.microsoft.com/de-de/windows/security/information-protection/bitlocker/bitlocker-basic-deployment)” unterstützt.
+Das ist das Verschlüsselungs-Programm von Microsoft.
+Es ist einfacher zu bedienen, allerdings ist es sehr wahrscheinlich das dort Hintertüren eingebaut wurden.
+Grundsätzlich kann VeraCrypt da deutlich mehr Vertrauen entgegen gebracht werden, aber bevor du stattdessen gar keine Verschlüsselung benutzt verwende lieber Bitlocker.
 
 ### Systemverschlüsselung mittels FileFault (MacOS)
 1. Drücke die „Apple“-Taste > „Systemeinstellungen“ und klicke auf „Sicherheit“ und dann auf „FileVault“. (Wenn das Schloss unten links geschlossen ist , klicke auf das Schloss, um die Systemeinstellung zu entsperren.)
@@ -96,7 +107,15 @@ Dann musst du natürlich darauf achten keinerlei kritische Daten außerhalb des 
 5. Passwort eingeben und “Ok” klicken
 
 ## Smartphone
-Die meisten Smartphones kommen heutzutage 'ab Werk' mit verschlüsseltem Speicher. Ob die Speicherverschlüsslung wirklich akiv ist, solltest du zur Sicherheit trotzdem einmal überprüfen. Das geht auf jedem Gerät ein wenig anders. Meist wirst du in den Einstellungen unter 'Sicherheit' fündig, den genauen Weg für dein Gerät recherchierst du am besten selber. Sollte die Verschlüsselung nicht aktiviert sein, solltest Du das sofort nachholen. Du lädst deinen Smartphone auf und wählst die Option zum Verschlüsseln, gibst zweimal deine gewünschtes Passwort/PIN ein. Wie Du ein möglichsts sicheres wählst, kannst du im Kapitel [Passwörter](/passwort/) nachlesen. Nun wartest bis der Prozess abgeschlossen ist. Teilweise muss nochmal explizit angewählt werden das auch die externe Speicherkarte verschlüsselt werden soll. Grundsätzlich ist das alles auch genau so sicher wie auf dem Computer, aber besonders ältere Geräte, die nicht mehr mit Updates versorgt werden stellen ein zusätzliches Risiko dar.
-Trotz Verschlüsselung ist es also vernünftig zu Aktionen nur ein billiges Zweit-Handy mitzunehmen, auf dem keine persönlichen Daten gespeichert sind. Auch eine SIM-Karte, die nicht mit deinem Namen verknüpft ist, ist dabei eine gute Idee.
+Die meisten Smartphones kommen heutzutage 'ab Werk' mit verschlüsseltem Speicher.
+Ob die Speicherverschlüsslung wirklich akiv ist, solltest du zur Sicherheit trotzdem einmal überprüfen.
+Das geht auf jedem Gerät ein wenig anders. Meist wirst du in den Einstellungen unter 'Sicherheit' fündig, den genauen Weg für dein Gerät recherchierst du am besten selber.
+Sollte die Verschlüsselung nicht aktiviert sein, solltest Du das sofort nachholen. Du lädst deinen Smartphone auf und wählst die Option zum Verschlüsseln, gibst zweimal deine gewünschtes Passwort/PIN ein.
+Wie Du ein möglichsts sicheres wählst, kannst du im Kapitel [Passwörter](/passwort/) nachlesen.
+Nun wartest bis der Prozess abgeschlossen ist.
+Teilweise muss nochmal explizit angewählt werden das auch die externe Speicherkarte verschlüsselt werden soll.
+Grundsätzlich ist das alles auch genau so sicher wie auf dem Computer, aber besonders ältere Geräte, die nicht mehr mit Updates versorgt werden stellen ein zusätzliches Risiko dar.
+Trotz Verschlüsselung ist es also vernünftig zu Aktionen nur ein billiges Zweit-Handy mitzunehmen, auf dem keine persönlichen Daten gespeichert sind.
+Auch eine SIM-Karte, die nicht mit deinem Namen verknüpft ist, ist dabei eine gute Idee.
 
 ![](../assets/posts/smartphone_verschluesselt.png)
