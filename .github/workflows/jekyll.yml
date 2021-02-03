@@ -2,15 +2,18 @@ name: Jekyll site CI
 
 on:
   push:
-    branches: [ master ]
-    paths:
-    - '!.github/**'
-    - '!.pandoc/**'
+    branches: 
+      - master
+    paths-ignore:
+      - '.github/**'
+      - '.pandoc/**'
+      
   pull_request:
-    branches: [ master ]
-    paths:
-    - '!.github/**'
-    - '!.pandoc/**'
+    branches: 
+      -  master
+    paths-ignore:
+      - '.github/**'
+      - '.pandoc/**'
 
 jobs:
   build:
