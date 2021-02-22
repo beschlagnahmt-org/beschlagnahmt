@@ -2,6 +2,7 @@
 title: Kontakt
 layout: page
 permalink: /kontakt/
+image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
 order: 4
 ---
 [beschlagnahmt@riseup.net](mailto:beschlagnahmt@riseup.net) ([GPG-Key](/assets/pages/pubkey.asc)) und über die unten auf jeder Seite verlinkten Möglichkeiten.
