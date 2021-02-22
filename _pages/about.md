@@ -2,6 +2,7 @@
 title: Über ACAB
 layout: page
 permalink: /about/
+image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
 order: 1
 ---
 
