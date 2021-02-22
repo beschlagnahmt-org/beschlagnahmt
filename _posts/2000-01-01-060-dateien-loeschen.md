@@ -2,6 +2,8 @@
 title: Dateien löschen
 layout: capter
 permalink: /dateien-loeschen/
+image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
+description: 
 category: capter
 ---
 # Dateien löschen
