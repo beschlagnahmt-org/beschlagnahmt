@@ -3,6 +3,8 @@
 \PassOptionsToPackage{dvipsnames,svgnames*,x11names*}{xcolor}
 \documentclass[11pt,a5paper]{$documentclass$}
 
+\usepackage[ngerman]{babel}
+
 \usepackage{lmodern}
 
 \usepackage{amssymb,amsmath}
