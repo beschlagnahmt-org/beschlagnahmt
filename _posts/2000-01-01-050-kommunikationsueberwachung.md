@@ -3,7 +3,7 @@ title: Kommunikationsüberwachung
 layout: capter
 permalink: /kommunikationsueberwachung/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
-description: 
+description: Möglichkeiten und Häufigkeit von Telekommunikationsüberwachung
 category: capter
 ---
 # Kommunikationsüberwachung
