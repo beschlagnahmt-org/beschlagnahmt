@@ -3,7 +3,7 @@ title: Dateien löschen
 layout: capter
 permalink: /dateien-loeschen/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
-description: 
+description: Tipps zum löschen von Daten auf deinen Geräten
 category: capter
 ---
 # Dateien löschen
