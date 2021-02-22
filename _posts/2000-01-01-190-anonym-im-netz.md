@@ -2,6 +2,8 @@
 title: Anonym im Netz
 layout: capter
 permalink: /anonym-im-netz/
+image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
+description: 
 category: capter
 ---
 # Anonym im Netz
