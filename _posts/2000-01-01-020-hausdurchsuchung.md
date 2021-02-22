@@ -3,6 +3,7 @@ title: Hausdurchsuchung
 layout: capter
 permalink: /hausdurchsuchung/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
+description: 
 category: capter
 ---
 # Hausdurchsuchung
