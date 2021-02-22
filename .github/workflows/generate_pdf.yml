@@ -22,7 +22,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Install packages
-        run: sudo apt install -y texlive-latex-extra texlive-xetex && wget https://github.com/jgm/pandoc/releases/download/2.6/pandoc-2.6-1-amd64.deb && sudo apt install ./pandoc-2.6-1-amd64.deb
+        run: sudo apt install -y texlive-latex-extra texlive-xetex texlive-lang-german && wget https://github.com/jgm/pandoc/releases/download/2.6/pandoc-2.6-1-amd64.deb && sudo apt install ./pandoc-2.6-1-amd64.deb
 
       - name: Run pandoc
         run: pandoc -s -f markdown _pages/about.md _posts/* --output=assets/download/acab.pdf --resource-path=assets --pdf-engine=xelatex --template=.pandoc/template.latex --lua-filter=.pandoc/remove-toc.lua -V documentclass=report
