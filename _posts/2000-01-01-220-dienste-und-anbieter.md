@@ -3,7 +3,7 @@ title: Dienste und Anbieter
 layout: capter
 permalink: /dienste-und-anbieter/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
-description: 
+description: Ein Liste von Anbietern für Mail, Video-Konferenzen, Matrix- und XMPP-Server. 
 category: capter
 ---
 # Dienste und Anbieter
