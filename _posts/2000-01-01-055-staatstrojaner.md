@@ -3,6 +3,8 @@ title: Online-Durchsuchung und Quellen-TKÜ
 layout: capter
 permalink: /staatstrojaner/
 category: capter
+description: Grundwissen über Staatstrojaner und welche Gegenmaßnahmen du trefen kannst.
+image: /assets/posts/phineas.jpg
 ---
 # Online Durchsuchung und Quellen TKÜ
 {:.no_toc}
