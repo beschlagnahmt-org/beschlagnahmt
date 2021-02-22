@@ -3,7 +3,7 @@ title: Daten verschlüsseln
 layout: capter
 permalink: /daten-verschluesseln/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
-description: 
+description: Tipps zum verschlüsseln von Daten, so wohl für den ganzen PC, das Smartphone als auch für einzelne Dateien.
 category: capter
 ---
 # Daten verschlüsseln
