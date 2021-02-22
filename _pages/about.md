@@ -3,9 +3,9 @@ title: Über ACAB
 layout: page
 permalink: /about/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
+description: Behörden können deine elektronischen Geräte beschlagnahmen, auslesen, Deine Konten übernehmen, deine Kommunikation und Anschlüsse überwachen. Sei für diesen Fall vorbereitet!
 order: 1
 ---
-
 Behörden können deine elektronischen Geräte beschlagnahmen, auslesen, Deine Konten übernehmen, deine Kommunikation und Anschlüsse überwachen. Das passiert gar nicht so selten. 
 
 **Sei für diesen Fall vorbereitet!**
