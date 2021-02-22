@@ -3,7 +3,7 @@ title: Hausdurchsuchung
 layout: capter
 permalink: /hausdurchsuchung/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
-description: 
+description: Tipps für den Fall einer Hausdurchsuchung
 category: capter
 ---
 # Hausdurchsuchung
