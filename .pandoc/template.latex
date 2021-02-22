@@ -79,7 +79,7 @@ breaklinks=true}
 %impressum
 \newpage
 Commit \input{.git/refs/heads/master}\\
-built on \today, \currenttime
+built on \today, \currenttime UTC
 
 Weitergabe und Vervielfältigung ausdrücklich erwünscht.
 
