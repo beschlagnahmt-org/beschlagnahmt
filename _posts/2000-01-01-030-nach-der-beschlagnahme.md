@@ -2,6 +2,7 @@
 title: Nach der Beschlagnahme
 layout: capter
 permalink: /nach-der-beschlagnahme/
+image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
 category: capter
 ---
 # Nach der Beschlagnahme
