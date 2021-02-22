@@ -4,7 +4,7 @@ layout: capter
 permalink: /staatstrojaner/
 category: capter
 description: Grundwissen über Staatstrojaner und welche Gegenmaßnahmen du treffen kannst.
-image: /assets/cover/acab_og.jpg
+image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
 ---
 # Online Durchsuchung und Quellen TKÜ
 {:.no_toc}
