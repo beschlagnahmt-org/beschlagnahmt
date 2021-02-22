@@ -3,7 +3,7 @@ title: Anonym im Netz
 layout: capter
 permalink: /anonym-im-netz/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
-description: Du willst dich unbeobachtet im Netz bewegen? Hier erfährst Du welche Tools bei helfen und welche du meiden solltest. 
+description: Du willst dich unbeobachtet im Netz bewegen? Hier erfährst Du welche Tools dabei helfen und welche du meiden solltest. 
 category: capter
 ---
 # Anonym im Netz
