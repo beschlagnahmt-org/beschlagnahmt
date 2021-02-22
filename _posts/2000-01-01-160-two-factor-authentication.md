@@ -2,6 +2,8 @@
 title: Two-Factor Authentication
 layout: capter
 permalink: /two-factor-authentication/
+image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
+description: 
 category: capter
 ---
 # Two-Factor Authentication

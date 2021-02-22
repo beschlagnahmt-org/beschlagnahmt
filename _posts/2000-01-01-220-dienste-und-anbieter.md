@@ -2,6 +2,8 @@
 title: Dienste und Anbieter
 layout: capter
 permalink: /dienste-und-anbieter/
+image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
+description: 
 category: capter
 ---
 # Dienste und Anbieter

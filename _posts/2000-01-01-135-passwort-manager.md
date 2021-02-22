@@ -2,6 +2,8 @@
 title: Passwort-Manager
 layout: capter
 permalink: /passwort-manager/
+image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
+description: 
 category: capter
 ---
 # Passwort-Manager
