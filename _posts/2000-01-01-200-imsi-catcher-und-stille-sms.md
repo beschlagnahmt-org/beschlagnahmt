@@ -3,7 +3,7 @@ title: IMSI Catcher und Stille SMS
 layout: capter
 permalink: /imsi-catcher-und-stille-sms/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
-description: 
+description: Grundlegende Informationen über IMSI Catcher, Stille SMS und was das für dich bedeutet.
 category: capter
 ---
 # IMSI Catcher und Stille SMS
@@ -20,7 +20,7 @@ Dazu leitet der IMSI-Catcher das Gespräch mit seiner eigenen Nummer weiter.
 Wird der Catcher nicht in diesem Abhörmodus betrieben sind für die Personen im Umfeld oft Anrufe komplett blockiert.
 Das gilt auch für Notrufe. Aus diesem Grund ist es so wichtig ein Demo-Handy mit einer [anonymen SIM-Karte](https://prepaid-data-sim-card.fandom.com/wiki/Registration_Policies_Per_Country#Europe) zu benutzen.
 Falls du Probleme hast eine anonyme SIM-Karte zu besorgen kann dir vielleicht die Gruppe [Aktionssim](https://aktionssim.blackblogs.org/) weiterhelfen.
-Tust du das nicht kann deine Nummer mit dem IMSI-Catcher angezeigt werden und die Cops müssen nur noch kurz beim Handyprovider anrufen um deinen Namen und deine Adresse herauszufinden.
+Tust du das nicht kann deine Nummer mit dem IMSI-Catcher ermittelt werden und die Cops müssen nur noch kurz beim Handyprovider anrufen um deinen Namen und deine Adresse herauszufinden.
 Somit haben sie einen eindeutigen Beweis, dass du auf der Demo anwesend warst.
 Eine weitere Methode ist die Funkzellenabfrage, dabei sparen die Behörden sich die Arbeit mit dem IMSI-Catcher und gehen direkt zu den Betreibern der Funkzellen und lassen sich von denen eine Liste aller eingebuchten Nummern geben.
 Auch hier sind Fälle bekannt geworden bei denen das Verfahren auf Demos eingesetzt wurde.
