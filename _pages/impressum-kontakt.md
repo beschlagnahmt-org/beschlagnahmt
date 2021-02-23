@@ -13,7 +13,7 @@ Mail: [beschlagnahmt@riseup.net](mailto:beschlagnahmt@riseup.net) ([GPG-Key](/as
 
 ### Lizenz ###
 
-Lizenziert unter ![WTFPL](/assets/pages/wtfpl-badge.png "WTFPL") <br>
+Lizenziert unter [![WTFPL](/assets/pages/wtfpl-badge.png)](http://www.wtfpl.net/about/)   
 Weitergabe und Druck ausdrücklich erwünscht.
 
 ### Uns abmahnen? ###
