@@ -1,12 +1,12 @@
 ---
 title: Dateien löschen
 layout: capter
-permalink: /dateien-loeschen/
+permalink: /daten-loeschen/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
 description: Tipps zum löschen von Daten auf deinen Geräten
 category: capter
 ---
-# Dateien löschen
+# Daten löschen
 {:.no_toc}
 
 <details markdown="block">
