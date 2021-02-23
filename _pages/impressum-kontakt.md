@@ -9,7 +9,7 @@ Stefan Leibfarth
 Karlstr. 15   
 73266 Bissingen a. d. Teck   
 Telefon/Signal: +49 172 63 43 48 0   
-Mail: [beschlagnahmt@riseup.net](mailto:beschlagnahmt@riseup.net) ([GPG-Key](/assets/pages/pubkey.asc)) und über die unten auf jeder Seite verlinkten Möglichkeiten.
+Mail: [beschlagnahmt@riseup.net](mailto:beschlagnahmt@riseup.net) ([GPG-Key](/assets/pages/pubkey.asc))
 
 ### Lizenz ###
 
