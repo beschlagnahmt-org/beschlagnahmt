@@ -39,10 +39,11 @@ Recherchiere aber auch nochmal selbst wer am besten zu dir passt und triff dann 
 - [so36.net](https://so36.net) (Inv)
 
 ## Jitsi Meet
-- [meet.jit.si](https://meet.jit.si) (Unterstützt E2E-Verschlüsselung)
-- [jitsi.rocks](https://jitsi.rocks)
-- [talk.snopyta.org](https://talk.snopyta.org)
+_Tipp:_ [E2E-Verschlüsselung aktivieren](https://simplemeeting.de/de/videokonferenz/encryption.php)   
+- [meet.jit.si](https://meet.jit.si)
 - [meet.systemli.org](https://meet.systemli.org/)
+- [talk.snopyta.org](https://talk.snopyta.org)
+- [jitsi.rocks](https://jitsi.rocks)
 
 ## BigBlueButton
 - [meeten.statt-drosseln.de](https://meeten.statt-drosseln.de)
