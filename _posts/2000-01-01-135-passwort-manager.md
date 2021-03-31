@@ -3,7 +3,7 @@ title: Passwort-Manager
 layout: capter
 permalink: /passwort-manager/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
-description: 
+description: Hilfestellungen und Empfehlungen für das verwalten von Passwörten und deren Synchronsation. 
 category: capter
 ---
 # Passwort-Manager
