@@ -3,6 +3,7 @@ author:
   name: ACAB
   email: beschlagnahmt@riseup.net
 description: IT-Sicherheit für Aktivisti!
+url: https://beschlagnahmt.org
 
 minima:
   date_format: "%d.%m.%Y"
