@@ -3,7 +3,7 @@ title: Systemsicherheit
 layout: capter
 permalink: /systemsicherheit/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
-description: 
+description: Ein kleine Sammlung von Grundregeln um die Sicherheit deiner Systeme zu erhalten und zu verbessern.
 category: capter
 ---
 Besonders weil die Behörden möglicherweise Spionage-Software auf deinem Rechner oder deinem Smartphone installieren wollen, solltest du darauf achten diese möglichst frei von Sicherheitslücken zu halten. 
