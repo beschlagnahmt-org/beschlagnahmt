@@ -16,4 +16,4 @@ jobs:
          ASSIGNEES: le1b1
          RECURSIVE: true
          TITLE: Broken link found (${URL})
-         EXCLUDE: https://haveibeenpwned.com/
+         EXCLUDED_KEYWORDS: https://haveibeenpwned.com/
