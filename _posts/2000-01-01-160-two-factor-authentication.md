@@ -3,7 +3,7 @@ title: Two-Factor Authentication
 layout: capter
 permalink: /two-factor-authentication/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
-description: 
+description: Informationen darüber, was 2FA bedeutet und wie du deine Accounts damit absichern kannst.
 category: capter
 ---
 # Two-Factor Authentication
