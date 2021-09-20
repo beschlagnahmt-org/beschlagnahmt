@@ -3,7 +3,7 @@ title: Nach der Beschlagnahme
 layout: capter
 permalink: /nach-der-beschlagnahme/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
-description: 
+description: Was passiert nach der Beschlagnahme deiner Geräte und Datenträger.
 category: capter
 ---
 # Nach der Beschlagnahme
