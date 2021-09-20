@@ -11,5 +11,6 @@ jobs:
     steps:
       - name: Broken Link Check
         uses: technote-space/broken-link-checker-action@v2
-    # options:
-    #  - 
+        with:
+         TARGET: https://beschlagnahmt.org/ 
+         ASSIGNEES: le1b1
