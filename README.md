@@ -1,6 +1,6 @@
 # [beschlagnahmt.org](https://beschlagnahmt.org)
 
-![Jekyll site CI](https://github.com/beschlagnahmt-org/website/workflows/Jekyll%20site%20CI/badge.svg) ![Generate PDF](https://github.com/beschlagnahmt-org/beschlagnahmt/workflows/Generate%20PDF/badge.svg)
+![Jekyll site CI](https://github.com/beschlagnahmt-org/website/workflows/Jekyll%20site%20CI/badge.svg) ![Generate PDF](https://github.com/beschlagnahmt-org/beschlagnahmt/workflows/Generate%20PDF/badge.svg) [![Broken Link Check](https://github.com/beschlagnahmt-org/beschlagnahmt/actions/workflows/broken-link-check.yml/badge.svg)](https://github.com/beschlagnahmt-org/beschlagnahmt/actions/workflows/broken-link-check.yml)
 
 ## Inhalte
 
