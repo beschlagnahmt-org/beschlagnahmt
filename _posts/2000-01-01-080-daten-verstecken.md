@@ -3,7 +3,7 @@ title: Daten verstecken
 layout: capter
 permalink: /daten-verstecken/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
-description: 
+description: Informationen darüber, wie du mit VeraCrypt Daten in einem verschlüsselten Container versteckst.
 category: capter
 ---
 # Daten verstecken
