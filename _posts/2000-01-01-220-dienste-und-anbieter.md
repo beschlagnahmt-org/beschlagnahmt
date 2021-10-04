@@ -22,7 +22,6 @@ Recherchiere aber auch nochmal selbst wer am besten zu dir passt und triff dann 
 - [Systemausfall](https://systemausfall.org) (Inv)
 - [Systemli](https://systemli.org) (Inv)
 - [so36](https://so36.net) (Inv)
-- [Anonymous Speech](https://anonymousspeech.com) (€)
 - [Immerda](https://immerda.ch) (Inv)
 - [Dismail](https://dismail.de) (XMPP Anmeldung)
 - [Disroot](https://disroot.org) (Free)
