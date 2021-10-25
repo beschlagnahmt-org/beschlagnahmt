@@ -16,4 +16,4 @@ jobs:
          ASSIGNEES: le1b1
          RECURSIVE: true
          TITLE: Broken link found (${URL})
-         EXCLUDED_KEYWORDS: https://haveibeenpwned.com/
+         EXCLUDED_KEYWORDS: https://haveibeenpwned.com/,  https://support.signal.org
