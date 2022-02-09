@@ -23,9 +23,7 @@ Recherchiere aber auch nochmal selbst wer am besten zu dir passt und triff dann 
 - [Systemli](https://systemli.org) (Inv)
 - [so36](https://so36.net) (Inv)
 - [Immerda](https://immerda.ch) (Inv)
-- [Dismail](https://dismail.de) (XMPP Anmeldung)
 - [Disroot](https://disroot.org) (Free)
-- [Snopyta](https://snopyta.org) (Free)
 
 ## Matrix
 - [systemli.org](https://systemli.org/service/matrix/)
