@@ -1,4 +1,3 @@
-
 ---
 title: Smartphone-Betriebssysteme
 layout: capter
@@ -39,5 +38,3 @@ Das meiste von dem bereits gesagtem gilt auch für CalyxOS, wobei die Sicherheit
 Außerdem erlaubt CalyxOS die Installation von microG, eine Open Source Schnittstelle für GoogleApps, die die Verwendung einiger Google Services ermöglicht.
 In unseren Augen ist microG leider ein unnötiger Kompromiss: Es funktionieren bei weitem nicht alle GoogleApps und dennoch bekommt Google hierdurch wieder eingeschränkten Zugriff auf unser System. Wenn also wie bei uns Privatssphäre und Sicherheit kompromisslos im Vordergrund stehen, ist davon abzuraten.
 Falls ihr es doch verwenden wollt, können wir euch https://plexus.techlore.tech/ ans Herz legen. Die Website verrät euch, welche Apps auch ohne GoogleApps bzw. mit microG funktionieren bzw. welche Einschränkungen es gibt.
-
-
