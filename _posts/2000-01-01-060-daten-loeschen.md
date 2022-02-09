@@ -47,12 +47,12 @@ Wenn du mit der Kommandozeile zurecht kommst kannst du auch „SDelete“ von Mi
 4. Warten bis Datei verschwunden ist
 
 ## Löschen mit shred (Linux):
-1. [wipe](http://lambda-diode.com/software/wipe/) installieren (Paketverwaltung)
+1.  [shred](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html) installieren (Paketverwaltung)
 2. Im Terminal zum Speicherort navigieren
-3. “wipe -f DATEINAME” eingeben
-4. Warten bis die Datei verschwunden ist
+3. “shred DATEINAME” eingeben
+4. “rm DATEINAME” eingeben
 
-Eine weitere Option für die du kein laufendes Betriebssystem brauchst ist [DBAN](https://dban.org).
+Wenn du unter Linux gleich ganze Festplatten löschen willst kannst du [nwipe](https://github.com/martijnvanbrummelen/nwipe/) verwenden. Eine weitere Option für die du kein laufendes Betriebssystem brauchst ist [DBAN](https://dban.org).
 Diese Techniken sind nur für klassische Festplatten geeignet.
 Für SSDs, SD-Karten, USB-Sticks und den internen Speicher von Handys funktioniert das leider nicht so gut.
 Das Überschreiben schadet dem Gerät und es können trotzdem noch Daten zurückbleiben.
