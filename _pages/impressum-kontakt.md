@@ -6,8 +6,8 @@ image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
 order: 4
 ---
 Stefan Leibfarth   
-Karlstr. 15   
-73266 Bissingen a. d. Teck   
+Haldenstr. 11   
+72532 Gomadingen  
 Telefon/Signal: +49 172 63 43 48 0   
 Mail: [beschlagnahmt@riseup.net](mailto:beschlagnahmt@riseup.net) ([GPG-Key](/assets/pages/pubkey.asc))
 
