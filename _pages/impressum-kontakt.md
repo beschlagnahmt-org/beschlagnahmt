@@ -6,8 +6,8 @@ image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
 order: 4
 ---
 Stefan Leibfarth   
-Haldenstr. 11   
-72532 Gomadingen  
+Grüner Weg 32    
+72766 Reutlingen    
 Telefon/Signal: +49 172 63 43 48 0   
 Mail: [beschlagnahmt@riseup.net](mailto:beschlagnahmt@riseup.net) ([GPG-Key](/assets/pages/pubkey.asc))
 
