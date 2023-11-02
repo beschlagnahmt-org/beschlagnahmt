@@ -28,5 +28,5 @@ Damit du nicht völlig aufgeschmissen bist falls du mal dein Handy verlierst, la
 Diese kannst du von dort mit einem Passwort abrufen. Dieses Cloud-Backup ist trotzdem ein gewisses Risiko.
 
 Eine alternative App ist '[Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro)' (nur Android).
-Diese App speichert nichts in '[der Cloud](https://fsfe.org/contribute/promopics/thereisnocloud-bluecolor-preview.png)',du musst dich aber um die Backups selbst kümmern. 
+Diese App speichert nichts in '[der Cloud](https://fsfe.org/contribute/promopics/thereisnocloud-bluecolor-preview.png)', du musst dich aber um die Backups selbst kümmern. 
 Die App stellt dafür eine Möglichkeit bereit.
