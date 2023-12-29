@@ -9,7 +9,7 @@ ruby RUBY_VERSION
 #g
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.9.3"
+gem "jekyll", "3.9.4"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", :github => 'jekyll/minima', :ref => '49f6dce'
