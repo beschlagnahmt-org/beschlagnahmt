@@ -29,8 +29,6 @@ jobs:
 
       - name: push changes to remote
         run: |
-             git config --global user.name "Pandoc Bot"
-
              git add assets/download/acab.pdf 
              git commit -m "Upload latest .pdf"
              git push
