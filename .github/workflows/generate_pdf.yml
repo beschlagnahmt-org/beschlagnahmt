@@ -8,6 +8,7 @@ on:
     - '_pages/**'
     - '_posts/**'
     - '.pandoc/**'
+  workflow_dispatch:
      
 jobs:
   convert_via_pandoc:
