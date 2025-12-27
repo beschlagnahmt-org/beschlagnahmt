@@ -8,7 +8,7 @@ order: 4
 Stefan Leibfarth   
 Grüner Weg 32    
 72766 Reutlingen    
-Telefon/Signal: +49 172 63 43 48 0   
+Telefon/Signal: [+49 172 63 43 48 0](https://signal.me/#eu/2-ShnqVqhCnN0atMV_QfeKraP9y7ZQMOURYT_0PAtrIKCia6_GJEUaOyo4s1_R5A)   
 Mail: [info@beschlagnahmt.org](mailto:info@beschlagnahmt.org) (bitte benutzt Signal)
 
 ### Lizenz ###
@@ -29,3 +29,4 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für di
 Wir tracken unsere Besuchenden nicht, analysieren diese nicht, setzen keine Cookies und unser Webserver speichert Eure IP nicht. Was unser Hoster macht, können wir hingegen nicht überprüfen, dessen Datenschutzerklärung findet sich [hier](https://www.server4you.de/index.php?id=327#datenschutzerkl%C3%A4rung).
 
 Damit Ihr uns das nicht glauben müsst, tut was dafür, dass wir keine personenbezogenen oder personenbeziehbaren Daten von euch zur Analyse bekommen: Nutzt den [Tor Browser](https://torproject.org).
+
