@@ -9,7 +9,7 @@ Stefan Leibfarth
 Grüner Weg 32    
 72766 Reutlingen    
 Telefon/Signal: +49 172 63 43 48 0   
-Mail: [info@beschlagnahmt.org](mailto:info@beschlagnahmt.org)
+Mail: [info@beschlagnahmt.org](mailto:info@beschlagnahmt.org) (bitte benutzt Signal)
 
 ### Lizenz ###
 
