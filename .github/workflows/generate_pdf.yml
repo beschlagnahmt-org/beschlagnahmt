@@ -12,7 +12,7 @@ on:
      
 jobs:
   convert_via_pandoc:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
     steps:
       - name: Cancel Previous Runs
         uses: styfle/cancel-workflow-action@0.7.0
@@ -26,7 +26,7 @@ jobs:
         run: sudo apt install -y texlive-latex-extra texlive-xetex texlive-lang-german && wget https://github.com/jgm/pandoc/releases/download/2.6/pandoc-2.6-1-amd64.deb && sudo apt install ./pandoc-2.6-1-amd64.deb
 
       - name: Run pandoc
-        run: pandoc -s -f markdown _pages/about.md _posts/* --output=assets/download/acab.pdf --resource-path=assets --pdf-engine=xelatex --template=.pandoc/template.latex --lua-filter=.pandoc/remove-toc.lua -V documentclass=report
+        run: pandoc -s -f markdown _pages/0_about.md _posts/* --output=assets/download/acab.pdf --resource-path=assets --pdf-engine=xelatex --template=.pandoc/template.latex --lua-filter=.pandoc/remove-toc.lua -V documentclass=report
 
       - name: push changes to remote
         run: |
