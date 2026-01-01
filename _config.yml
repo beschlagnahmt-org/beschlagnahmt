@@ -1,19 +1,25 @@
 title: beschlagnahmt.org
 author:
   name: ACAB
-  email: beschlagnahmt@riseup.net
+  email: info@beschlagnahmt.org
 description: IT-Sicherheit für Aktivisti!
-url: https://beschlagnahmt.org
+url: "https://beschlagnahmt.org"
 
 minima:
   date_format: "%d.%m.%Y"
-
-  # generate social links in footer
+  skin: auto
   social_links:
-    github:  beschlagnahmt-org
-    mastodon:
-      - username: beschlagnahmt 
-        instance: social.bau-ha.us
+    - title: beschlagnahmt.org auf GitHub
+      icon: github
+      url: "https://github.com/beschlagnahmt-org/beschlagnahmt"
+    - title: beschlagnahmt.org bei Mastodon
+      icon: mastodon
+      url: "https://social.bau-ha.us/@beschlagnahmt"
+  nav_pages:
+    - _pages/0_about.md
+    - _pages/1_themen.md
+    - _pages/2_download.md
+    - _pages/3_impressum-kontakt.md
 
 # Build settings
 source: .
@@ -34,8 +40,3 @@ exclude:
   - LICENSE.md
 keep_files:
   - assets
-header_pages:
- -  _pages/0_about.md
- -  _pages/1_themen.md
- -  _pages/2_download.md
- -  _pages/3_impressum-kontakt.md
