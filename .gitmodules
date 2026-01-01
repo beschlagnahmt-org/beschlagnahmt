@@ -1,0 +1,3 @@
+[submodule "Font-Awesome"]
+	path = assets
+	url = https://github.com/Le1b1/Font-Awesome.git
