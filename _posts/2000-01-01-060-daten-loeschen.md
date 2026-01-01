@@ -1,5 +1,5 @@
 ---
-title: Daten löschen
+title: "Daten löschen"
 layout: capter
 permalink: /daten-loeschen/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg

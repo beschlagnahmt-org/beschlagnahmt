@@ -1,5 +1,5 @@
 ---
-title: Smartphone-Betriebssysteme
+title: "Smartphone-Betriebssysteme"
 layout: capter
 permalink: /smartphone-betriebssysteme/
 category: capter

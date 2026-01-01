@@ -3,13 +3,11 @@ title: Kontakt
 layout: page
 permalink: /kontakt/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
-order: 4
 ---
-Stefan Leibfarth   
-Grüner Weg 32    
-72766 Reutlingen    
-Telefon/Signal: [+49 172 63 43 48 0](https://signal.me/#eu/2-ShnqVqhCnN0atMV_QfeKraP9y7ZQMOURYT_0PAtrIKCia6_GJEUaOyo4s1_R5A)   
-Mail: [info@beschlagnahmt.org](mailto:info@beschlagnahmt.org) (bitte benutzt Signal)
+### Support, Fragen und Anregungen ###
+
+Signal-Gruppe: [Link](https://signal.group/#CjQKIHWuN9nw5m_pXBerjG6eZ7WKN8hXslVQlYQVepGYVZ2GEhA6Unt3M3KOzC4PYNyLKtYc)   
+Mail: [info@beschlagnahmt.org](mailto:info@beschlagnahmt.org)
 
 ### Lizenz ###
 

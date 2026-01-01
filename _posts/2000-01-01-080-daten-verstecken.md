@@ -1,5 +1,5 @@
 ---
-title: Daten verstecken
+title: "Daten verstecken"
 layout: capter
 permalink: /daten-verstecken/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg

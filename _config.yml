@@ -35,7 +35,7 @@ exclude:
 keep_files:
   - assets
 header_pages:
- -  _pages/about.md
- -  _pages/themen.md
- -  _pages/download.md
- -  _pages/impressum-kontakt.md
+ -  _pages/0_about.md
+ -  _pages/1_themen.md
+ -  _pages/2_download.md
+ -  _pages/3_impressum-kontakt.md

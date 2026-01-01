@@ -1,5 +1,5 @@
 ---
-title: Passwort-Manager
+title: "Passwort-Manager"
 layout: capter
 permalink: /passwort-manager/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg

@@ -1,5 +1,5 @@
 ---
-title: Systemsicherheit
+title: "Systemsicherheit"
 layout: capter
 permalink: /systemsicherheit/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg

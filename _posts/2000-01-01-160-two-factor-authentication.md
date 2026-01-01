@@ -1,5 +1,5 @@
 ---
-title: Zwei-Faktor Authentifizierung
+title: "Zwei-Faktor Authentifizierung"
 layout: capter
 permalink: /zwei-faktor-authentifizierung/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg

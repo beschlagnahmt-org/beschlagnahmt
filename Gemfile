@@ -27,3 +27,8 @@ group :jekyll_plugins do
    gem "kramdown-parser-gfm"
    gem "jekyll-sitemap"
 end
+
+gem "base64", "~> 0.3.0"
+gem "logger", "~> 1.7"
+
+gem "bigdecimal", "~> 4.0"

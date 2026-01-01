@@ -1,12 +1,12 @@
 ---
-title: Nach der Beschlagnahme
+title: "Bedrohung: Auswertung von Geräten"
 layout: capter
-permalink: /nach-der-beschlagnahme/
+permalink: /auswertung-von-geraeten/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
 description: Was passiert nach der Beschlagnahme deiner Geräte und Datenträger.
 category: capter
 ---
-# Nach der Beschlagnahme
+# Auswertung von Geräten
 Jetzt werden die Cops oder ein:e Sachverständige:r sich daran machen deine Daten auszulesen und “gerichtssicher” zu machen. Wenn du deinen Kram anständig verschlüsselt hast werden sie dabei nicht weit kommen.
 Andernfalls werden die Daten akribisch durchsucht. Den dabei verwendeten Forensikprogrammen entgeht kaum etwas und selbst gelöschte Daten können wiederhergestellt werden.
 
