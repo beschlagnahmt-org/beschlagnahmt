@@ -16,8 +16,8 @@ Hier bekommst du einige Anhaltspunkte wie du dich schützen kannst, auch ohne ei
 
 ## Für wen ist ACAB?
 
-Um zu wissen, wie wie man sich verteidigen kann, muss man die Fähigkeiten der Angreifer:in kennen. Für Aktivisti ist das oft Staat. Wann dieser zu welchen Mitteln greift, ist nicht vorhersehbar und zeigt sich erst, wenn es bereits zu spät ist. Dann hilft es auch nicht, wenn die Maßnahme [im Nachhinein als Rechtswiedrig erklärt wird](https://netzpolitik.org/2025/radio-dreyeckland-hausdurchsuchung-wegen-eines-links-war-verfassungswidrig/).   
-Deshalb vermittelt ACAB einen 'IT-Grungschutz für Aktivisti', egal ob Antifa, Klima-Aktivisti oder Tierschutz-Aktivisti.
+Um zu wissen, wie wie man sich verteidigen kann, muss man die Fähigkeiten der Angreifer:in kennen. Für Aktivisti ist das oft der Staat. Wann dieser zu welchen Mitteln greift, ist nicht vorhersehbar und zeigt sich erst, wenn es bereits zu spät ist. Dann hilft es auch nicht, wenn die Maßnahme [im Nachhinein als Rechtswiedrig erklärt wird](https://netzpolitik.org/2025/radio-dreyeckland-hausdurchsuchung-wegen-eines-links-war-verfassungswidrig/).   
+Deshalb vermittelt ACAB einen 'IT-Grungschutz für Aktivisti', egal ob Antifa, Klima-Aktivisti oder Tierrrechts-Aktivist:in.
 
 ## Mach mit
 
