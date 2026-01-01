@@ -31,7 +31,7 @@ Mittels [Github Action](https://github.com/beschlagnahmt-org/beschlagnahmt/actio
 ### Manueller Export
 
 ```bash
-$ > pandoc -s -f markdown _pages/about.md _posts/* \
+$ > pandoc -s -f markdown _pages/0_about.md _posts/* \
     -o acab.pdf \
     --resource-path=assets \
     --pdf-engine=xelatex \
