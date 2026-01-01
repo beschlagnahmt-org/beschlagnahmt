@@ -40,3 +40,4 @@ exclude:
   - LICENSE.md
 keep_files:
   - assets
+  - Font-Awesome
