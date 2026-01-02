@@ -24,7 +24,7 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für di
 
 ### Datenschutz ###
 
-Wir tracken unsere Besuchenden nicht, analysieren diese nicht, setzen keine Cookies und unser Webserver speichert Eure IP nicht. Was unser Hoster macht, können wir hingegen nicht überprüfen, dessen Datenschutzerklärung findet sich [hier](https://www.server4you.de/index.php?id=327#datenschutzerkl%C3%A4rung).
+Wir tracken unsere Besuchenden nicht, analysieren diese nicht, setzen keine Cookies und unser Webserver speichert Eure IP nicht. Was unser Hoster macht, können wir hingegen nicht überprüfen, dessen Datenschutzerklärung findet sich [hier](https://www.strato.de/datenschutz/).
 
 Damit Ihr uns das nicht glauben müsst, tut was dafür, dass wir keine personenbezogenen oder personenbeziehbaren Daten von euch zur Analyse bekommen: Nutzt den [Tor Browser](https://torproject.org).
 
