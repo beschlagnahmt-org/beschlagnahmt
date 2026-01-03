@@ -24,20 +24,6 @@ $ > bundle exec jekyll serve
 Dann im Browser [http://127.0.0.1:4000](http://127.0.0.1:4000) aufrufen.
 
 ## PDF Export
-mittels Pandoc 1.6
-
-### Automatischer Export und Upload
+mittels Pandoc
 
 Mittels [Github Action](https://github.com/beschlagnahmt-org/beschlagnahmt/actions?query=workflow%3A%22Generate+PDF%22) wird nach jeder Änderung ein neues PDF generiert und dem Repo hinzugefügt.
-
-### Manueller Export
-
-```bash
-$ > pandoc -s -f markdown _pages/0_about.md _posts/* \
-    -o acab.pdf \
-    --resource-path=assets \
-    --pdf-engine=xelatex \
-    --template=.pandoc/template.latex \
-    --lua-filter=.pandoc/remove-toc.lua \
-    -V documentclass=report
-```
