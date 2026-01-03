@@ -8,13 +8,17 @@ url: "https://beschlagnahmt.org"
 minima:
   date_format: "%d.%m.%Y"
   skin: auto
+  hide_site_feed_link: true
   social_links:
-    - title: beschlagnahmt.org auf GitHub
-      icon: github
-      url: "https://github.com/beschlagnahmt-org/beschlagnahmt"
+    - title: beschlagnahmt.org-Gruppe bei Signal
+      icon: signal-messenger
+      url: "https://signal.group/#CjQKIHWuN9nw5m_pXBerjG6eZ7WKN8hXslVQlYQVepGYVZ2GEhA6Unt3M3KOzC4PYNyLKtYc"
     - title: beschlagnahmt.org bei Mastodon
       icon: mastodon
       url: "https://social.bau-ha.us/@beschlagnahmt"
+    - title: beschlagnahmt.org auf GitHub
+      icon: github
+      url: "https://github.com/beschlagnahmt-org/beschlagnahmt"
   nav_pages:
     - _pages/0_about.md
     - _pages/1_themen.md

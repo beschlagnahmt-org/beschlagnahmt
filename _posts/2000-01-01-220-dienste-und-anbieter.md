@@ -1,12 +1,10 @@
 ---
 title: "Dienste und Anbieter"
-layout: capter
+layout: post
 permalink: /dienste-und-anbieter/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
-description: Ein Liste von Anbietern für Mail, Video-Konferenzen, Matrix- und XMPP-Server. 
-category: capter
+description: Ein Liste von Anbietern für Mail, Video-Konferenzen und Matrix-Servern. 
 ---
-# Dienste und Anbieter
 Hier wurde nun öfters erwähnt wie viel Vertrauen du den Menschen gegenüber bringen musst die zum Beispiel deinen Mailserver oder dein VPN betreiben.
 Um die Auswahl etwas leichter zu machen ist hier eine kleine Liste mit Anbietern.
 Recherchiere aber auch nochmal selbst wer am besten zu dir passt und triff dann deine eigene Entscheidung.   
@@ -28,12 +26,6 @@ Recherchiere aber auch nochmal selbst wer am besten zu dir passt und triff dann 
 ## Matrix
 - [systemli.org](https://systemli.org/service/matrix/)
 - [systemausfall.org](https://systemausfall.org/dienste/matrix) (Inv)
-
-## Jabber/XMPP
-- [riseup.net](https://riseup.net) (Inv)
-- [systemli.org](https://systemli.org/service/xmpp/)
-- [systemausfall.org](https://systemausfall.org) (Inv)
-- [so36.net](https://so36.net) (Inv)
 
 ## Jitsi Meet
 _Tipp:_ [E2E-Verschlüsselung aktivieren](https://simplemeeting.de/de/videokonferenz/encryption.php)   

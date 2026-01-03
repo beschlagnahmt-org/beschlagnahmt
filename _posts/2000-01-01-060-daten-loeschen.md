@@ -1,22 +1,10 @@
 ---
 title: "Daten löschen"
-layout: capter
+layout: post
 permalink: /daten-loeschen/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
 description: Tipps zum löschen von Daten auf deinen Geräten
-category: capter
 ---
-# Daten löschen
-{:.no_toc}
-
-<details markdown="block">
-  <summary>
-    Inhalt
-  </summary>
-* TOC
-{:toc}
-</details>
-
 Wie wir vorhin Erfahren haben können die Cops und Sachverständige also gelöschte Daten wiederherstellen.
 Wie kann das angehen?
 Wenn du eine Datei auf deinem Computer löschst verschwinden die Einsen und Nullen auf der Festplatte nicht automatisch.

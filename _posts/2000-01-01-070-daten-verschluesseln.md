@@ -1,22 +1,10 @@
 ---
 title: "Daten verschlüsseln"
-layout: capter
+layout: post
 permalink: /daten-verschluesseln/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
 description: Tipps zum verschlüsseln von Daten, so wohl für den ganzen PC, das Smartphone als auch für einzelne Dateien.
-category: capter
 ---
-# Daten verschlüsseln
-{:.no_toc} 
-
-<details markdown="block">
-  <summary>
-    Inhalt
-  </summary>
-* TOC
-{:toc}
-</details>
-
 So schützt du also die Daten die du eh nicht mehr haben willst.
 Aber was ist mit denen die du noch brauchst?
 Diese solltest du verschlüsseln.

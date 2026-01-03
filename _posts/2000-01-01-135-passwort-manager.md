@@ -1,22 +1,10 @@
 ---
 title: "Passwort-Manager"
-layout: capter
+layout: post
 permalink: /passwort-manager/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
 description: Hilfestellungen und Empfehlungen für das verwalten von Passwörten und deren Synchronsation. 
-category: capter
 ---
-# Passwort-Manager
-{: .no_toc }
-
-<details markdown="block">
-  <summary>
-    Inhalt
-  </summary>
-* TOC
-{:toc}
-</details>
-
 Was bei einem Passwort wichtig ist haben wir erklärt und auch warum du bei jeden Dienst ein eizigartiges verwenden solltest.
 Um diese super sicheren Passwörter alle aufzubewahren brauchst du einen Passwort-Manager, außer du hast ein extrem gutes Gedächtnis.
 Da es bereits zu Datenlecks bei den kostenplichtigen Anbietern kam, sollte die Wahl hierbei auf [KeepassXC](https://keepassxc.org/) fallen, denn die Anwendung ist Open Source, bewährt und nicht web-basiert.

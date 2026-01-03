@@ -1,12 +1,10 @@
 ---
 title: "Bedrohung: IMSI Catcher und Stille SMS"
-layout: capter
+layout: post
 permalink: /imsi-catcher-und-stille-sms/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
 description: Grundlegende Informationen über IMSI Catcher, Stille SMS und was das für dich bedeutet.
-category: capter
 ---
-# IMSI Catcher und Stille SMS
 Warum wird denn eigentlich immer dazu geraten zu Demos und Aktionen nur Zweithandys mitzunehmen?
 
 Klar, die Cops können dir eventuell dein Haupthandy wegnehmen und Daten davon gewinnen.

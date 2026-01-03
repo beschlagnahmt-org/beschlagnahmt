@@ -8,6 +8,7 @@ on:
     - '_pages/**'
     - '_posts/**'
     - '.pandoc/**'
+    - '.github/workflows/**'
   workflow_dispatch:
      
 jobs:
@@ -23,14 +24,37 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Install packages
-        run: sudo apt install -y texlive-latex-extra texlive-xetex texlive-lang-german && wget https://github.com/jgm/pandoc/releases/download/2.6/pandoc-2.6-1-amd64.deb && sudo apt install ./pandoc-2.6-1-amd64.deb
+        run: sudo apt install -y texlive-latex-extra texlive-xetex texlive-lang-german pandoc
 
-      - name: Run pandoc
-        run: pandoc -s -f markdown _pages/0_about.md _posts/* --output=assets/download/acab.pdf --resource-path=assets --pdf-engine=xelatex --template=.pandoc/template.latex --lua-filter=.pandoc/remove-toc.lua -V documentclass=report
+      - name: Generate PDF
+        run: |
+          # Zielordner sicherstellen
+          mkdir -p assets/download
+          
+          # Loop über Dateien (About + Posts) und Verarbeitung
+          (
+            for f in _pages/0_about.md _posts/*.md; do
+              [ -f "$f" ] || continue
+              
+              # Titel extrahieren und Quotes entfernen
+              titel=$(grep "^title:" "$f" | head -n 1 | sed 's/^title: *//' | sed "s/^['\"]//;s/['\"]$//")
+              
+              # Titel als H1 schreiben
+              echo -e "\n# $titel\n"
+              
+              # Body ohne YAML Header schreiben
+              sed '1,/^---$/d' "$f"
+            done
+          ) | sed 's|(\.\./assets|(assets|g' | sed -E 's/\[([^]]+)\]\(\/[^)]+\)/\1/g' | pandoc -o assets/download/acab.pdf \
+            --pdf-engine=xelatex \
+            --template=.pandoc/template.latex \
+            -V documentclass=report \
+            --from markdown
 
       - name: push changes to remote
         run: |
-             git config user.name "Pandoc Bot" 
+             git config user.name "Pandoc Bot"
+             git config user.email "bot@beschlagnahmt.org"
              git add assets/download/acab.pdf 
-             git commit -m "Upload latest .pdf"
-             git push
+             # Commit nur erstellen, wenn es Änderungen gibt, um Fehler zu vermeiden
+             git diff --staged --quiet || (git commit -m "Upload latest .pdf" && git push)

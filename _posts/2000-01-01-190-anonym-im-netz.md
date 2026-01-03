@@ -1,22 +1,10 @@
 ---
 title: "Anonym im Netz"
-layout: capter
+layout: post
 permalink: /anonym-im-netz/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
 description: Du willst dich unbeobachtet im Netz bewegen? Hier erfährst Du welche Tools dabei helfen und welche du meiden solltest. 
-category: capter
 ---
-# Anonym im Netz
-{:.no_toc}
-
-<details markdown="block">
-  <summary>
-    Inhalt
-  </summary>
-* TOC
-{:toc}
-</details>
-
 Ganz grundlegend: Solltest du nicht wollen, dass ersichtlich ist was Du im Internet machst, musst Du einen Anonymisierungsdienst verwenden.
 Das Tool, welches Dir hierfür die besten Chancen bietet ist das 'Tor Netzwerk'.
 Es gibt noch andere Angebote die das selbe versprechen, diese sind aber entweder unsicherer (wie z. B. VPNs, mehr dazu weiter unten) oder weit weniger verbreitet (wie z. B. [I2P](https://geti2p.net/de/) oder [Freenet](https://freenetproject.org/)) damit auch weniger von Fachleuten geprüft.

@@ -1,11 +1,8 @@
 ---
 title: "Smartphone-Betriebssysteme"
-layout: capter
+layout: post
 permalink: /smartphone-betriebssysteme/
-category: capter
 ---
-# Smartphone Betriebssysteme
-
 Wie wir bereits gelesen haben, gibt es für Cops einige Möglichkeiten, über euer Smartphone eure Daten abzugreifen. 
 Aus dem Grund scheint es natürlich sinnvoll, sich damit auseinanderzusetzen, wie ihr euer Endgerät vor solcher Einsicht schützen könnt. 
 Eine Möglichkeit die dafür in Frage kommt, ist das Betriebssystem eures Smartphones zu wechseln. Da das auch einige Tücken mitbringt und nicht immer der beste Lösungsansatz sein muss, bieten wir nachfolgend unsere Sicht auf die Situation. 

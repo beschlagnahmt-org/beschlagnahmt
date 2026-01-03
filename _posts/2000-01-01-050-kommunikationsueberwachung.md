@@ -1,14 +1,14 @@
 ---
 title: "Bedrohung: Kommunikations-Überwachung"
-layout: capter
+layout: post
 permalink: /kommunikationsueberwachung/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
 description: Möglichkeiten und Häufigkeit von Telekommunikationsüberwachung
-category: capter
 ---
-# Kommunikations-Überwachung
 Bei der Telekommunikationsüberwachung (TKÜ) werden Betreibende von Diensten gezwungen all eure Aktivitäten den Behörden zur Verfügung zu stellen.
+
 ![](../assets/posts/kommunikationsueberwachung.jpg) 
+
 ### Handyanbieter
 Kommunikationsparten:innen, Standort des mit Gerät verbundenen Funkmasts, Zeitpunkt und Dauer deiner Kommunikation, alle übertragene Daten, Inhalt der Telefongespräche (ab dem Zeitpunkt des Verbindungsaufbaus) und SMS.  
    *Verteidigung*: Gegen das speichern des Standorts hilft nur das deaktivieren der Mobilfunkverbindung, gegen viele anderen Angriffe siehe [Telefonie](/telefonie/) und [Messenger](/messenger/)

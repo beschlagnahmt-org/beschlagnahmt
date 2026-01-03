@@ -1,12 +1,10 @@
 ---
 title: "Daten verstecken"
-layout: capter
+layout: post
 permalink: /daten-verstecken/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
 description: Informationen darüber, wie du mit VeraCrypt Daten in einem verschlüsselten Container versteckst.
-category: capter
 ---
-# Daten verstecken
 Als Beschuldigte:r in einem Prozess kannst du dich auf dein Aussageverweigerungsrecht berufen um das Passwort geheim zu halten.
 Als Zeug:in wird das schon schwieriger.
 Mit der Argumentation dass du dich dadurch selbst belasten würdest und daher ebenfalls ein Aussageverweigerungsrecht hast, verrätst du möglicherweise mehr als dir lieb ist. Ein ähnliches Problem hast du wenn irgendwer versucht dir das Passwort mit Gewalt oder Erpressung zu entlocken.

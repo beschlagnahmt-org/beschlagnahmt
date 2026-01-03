@@ -1,22 +1,10 @@
 ---
 title: "Bedrohung: Online-Durchsuchung und Quellen-TKÜ"
-layout: capter
+layout: post
 permalink: /staatstrojaner/
-category: capter
 description: Grundwissen über Staatstrojaner und welche Gegenmaßnahmen du treffen kannst.
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
 ---
-# Online Durchsuchung und Quellen TKÜ
-{:.no_toc}
-
-<details markdown="block">
-  <summary>
-    Inhalt
-  </summary>
-* TOC
-{:toc}
-</details>
-
 ## Online-Durchsuchung
 
 Eine 'Online-Durchsuchung' lässt sich mit einer heimlichen Hausdurchsuchung vergleichen.

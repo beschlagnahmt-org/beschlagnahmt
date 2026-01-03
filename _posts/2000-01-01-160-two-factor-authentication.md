@@ -1,12 +1,10 @@
 ---
 title: "Zwei-Faktor Authentifizierung"
-layout: capter
+layout: post
 permalink: /zwei-faktor-authentifizierung/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
 description: Informationen darüber, was 2FA bedeutet und wie du deine Accounts damit absichern kannst.
-category: capter
 ---
-# Zwei-Faktor Authentifizierung
 Deine Passwörter können aus verschiedenen Gründen dritten bekannt werden:
   - Eine Seite, auf der du es benutzt hast [wurde gehackt](https://www.zeit.de/digital/datenschutz/2019-01/datenleak-email-passwoerter-internet-it-sicherheit) 
   - Dir hat irgendwer beim [Eingeben über die Schulter geschaut](https://en.wikipedia.org/wiki/Shoulder_surfing_(computer_security))
