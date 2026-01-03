@@ -21,10 +21,10 @@ Deshalb vermittelt ACAB einen 'IT-Grungschutz für Aktivisti', egal ob Antifa, K
 
 ## Mach mit
 
-Der Quelltext von ACAB ist unter [https://github.com/beschlagnahmt-org/beschlagnahmt](https://github.com/beschlagnahmt-org/beschlagnahmt) zu finden. 
+Der Quelltext von ACAB ist bei [Github](https://github.com/beschlagnahmt-org/beschlagnahmt) zu finden. 
 Wenn du einen Fehler gefunden oder einen Verbessungsvorschlag hast, [lass es uns wissen](https://github.com/beschlagnahmt-org/beschlagnahmt/issues).
-Gerne kannst du direkt [auf Github einen Verbesserungsvorschlag einreichen](https://github.com/beschlagnahmt-org/beschlagnahmt/pulls).
-Sollte dir das zu öffentlich sein, melde dich gerne per Mail.
+Gerne kannst du direkt auf Github einen [Verbesserungsvorschlag einreichen](https://github.com/beschlagnahmt-org/beschlagnahmt/pulls).
+Sollte dir das zu öffentlich sein, melde dich gerne per Signal oder Mail.
 
 ![](../assets/pages/crt-antifa.jpg)  
 (Computer: CC-BY-SA-3.0 Thomas Kaiser, Montage: Beschlagnahmt)
