@@ -21,7 +21,7 @@ $ > bundle install
 $ > bundle exec jekyll serve
 ```
 
-Dann im Browser (http://127.0.0.1:4000)[http://127.0.0.1:4000] aufrufen.
+Dann im Browser [http://127.0.0.1:4000](http://127.0.0.1:4000) aufrufen.
 
 ## PDF Export
 mittels Pandoc 1.6
