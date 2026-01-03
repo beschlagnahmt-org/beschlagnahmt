@@ -12,6 +12,10 @@ Die Webseite wird mittels [Jekyll](https://jekyllrb.com/) generiert.
 ## Lokale Entwicklung
 
 ```bash
+#Repo clonen
+
+$ > git clone --recursive https://github.com/beschlagnahmt-org/beschlagnahmt.git
+
 # Abhängigkeiten installieren
 
 $ > bundle install
