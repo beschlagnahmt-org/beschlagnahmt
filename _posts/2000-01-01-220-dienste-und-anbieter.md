@@ -30,7 +30,7 @@ Recherchiere aber auch nochmal selbst wer am besten zu dir passt und triff dann 
 ## Jitsi Meet
 _Tipp:_ [E2E-Verschlüsselung aktivieren](https://simplemeeting.de/de/videokonferenz/encryption.php)   
 - [meet.systemli.org](https://meet.systemli.org/)
-- [talk.snopyta.org](https://talk.snopyta.org)
+- [meet.jit.si/](https://meet.jit.si/)
 - [jitsi.rocks](https://jitsi.rocks)
 
 ## BigBlueButton
