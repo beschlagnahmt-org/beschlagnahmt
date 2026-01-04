@@ -34,7 +34,6 @@ _Tipp:_ [E2E-Verschlüsselung aktivieren](https://simplemeeting.de/de/videokonfe
 
 - [meet.systemli.org](https://meet.systemli.org/)
 - [meet.jit.si/](https://meet.jit.si/)
-- [jitsi.rocks](https://jitsi.rocks)
 
 ## BigBlueButton
 
