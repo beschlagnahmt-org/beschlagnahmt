@@ -1,10 +1,12 @@
 ---
-title: "Bedrohung: Online-Durchsuchung und Quellen-TKÜ"
+title: "Bedrohung: Staatstrojaner"
 layout: post
 permalink: /staatstrojaner/
 description: Grundwissen über Staatstrojaner und welche Gegenmaßnahmen du treffen kannst.
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
 ---
+Staatstrojaner, also staatlich genutzte Schadsoftware auf deinem Gerät, werden für die folgenden beiden Zwecke genutzt.
+
 ## Online-Durchsuchung
 
 Eine 'Online-Durchsuchung' lässt sich mit einer heimlichen Hausdurchsuchung vergleichen.
