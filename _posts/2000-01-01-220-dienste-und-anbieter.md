@@ -39,6 +39,5 @@ _Tipp:_ [E2E-Verschlüsselung aktivieren](https://simplemeeting.de/de/videokonfe
 
 - [meeten.statt-drosseln.de](https://meeten.statt-drosseln.de)
 - [senfcall.de](https://senfcall.de)
-- [bbb.daten.reisen/b](https://bbb.daten.reisen/b) 
 
 Eine ausführliche Liste von Software und Anbietern findest du bei [PrismBreak](https://prism-break.org/de/) und [PrivacyTools](https://www.privacytools.io/).
