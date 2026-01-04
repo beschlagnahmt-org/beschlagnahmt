@@ -22,8 +22,7 @@ Tust du das nicht kann deine Nummer mit dem IMSI-Catcher ermittelt werden und di
 Somit haben sie einen eindeutigen Beweis, dass du auf der Demo anwesend warst.
 Eine weitere Methode ist die Funkzellenabfrage, dabei sparen die Behörden sich die Arbeit mit dem IMSI-Catcher und gehen direkt zu den Betreibern der Funkzellen und lassen sich von denen eine Liste aller eingebuchten Nummern geben.
 Auch hier sind Fälle bekannt geworden bei denen das Verfahren auf Demos eingesetzt wurde.
-In Berlin gibt es mittlerweile ein “[Funkzellenabfragen-Transparenz-System](https://fts.berlin.de/)” mithilfe dessen du dich nach Abschluss der Ermittlungen benachrichtigen lassen kannst, falls du betroffen bist.
-In anderen Bundesländern gibt es das bisher noch nicht.
+
 Eine Ergänzung zur Funkzellenabfrage ist die sogenannte “Stille SMS”, diese wird benutzt wenn die Cops deine Nummer haben und wissen wollen wo du gerade bist.
 Dazu senden sie eine spezielle SMS an dein Gerät welche dir nicht angezeigt wird.
 Du merkst von der ganzen Sache also gar nichts, dabei antwortet dein Handy aber der Funkzelle in die du gerade eingebucht bist.
