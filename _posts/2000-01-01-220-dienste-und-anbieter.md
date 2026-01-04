@@ -13,6 +13,7 @@ Recherchiere aber auch nochmal selbst wer am besten zu dir passt und triff dann 
 (Inv) = Nur auf persönliche Anfrage oder Einladung
 
 ## Mail
+
 - [Posteo](https://posteo.de) (€)
 - [Mailbox](https://mailbox.org) (€)
 - [Riseup](https://riseup.net) (Inv)
@@ -24,16 +25,19 @@ Recherchiere aber auch nochmal selbst wer am besten zu dir passt und triff dann 
 - [Disroot](https://disroot.org) (Free)
 
 ## Matrix
+
 - [systemli.org](https://systemli.org/service/matrix/)
 - [systemausfall.org](https://systemausfall.org/dienste/matrix) (Inv)
 
 ## Jitsi Meet
-_Tipp:_ [E2E-Verschlüsselung aktivieren](https://simplemeeting.de/de/videokonferenz/encryption.php)   
+_Tipp:_ [E2E-Verschlüsselung aktivieren](https://simplemeeting.de/de/videokonferenz/encryption.php)
+
 - [meet.systemli.org](https://meet.systemli.org/)
 - [meet.jit.si/](https://meet.jit.si/)
 - [jitsi.rocks](https://jitsi.rocks)
 
 ## BigBlueButton
+
 - [meeten.statt-drosseln.de](https://meeten.statt-drosseln.de)
 - [senfcall.de](https://senfcall.de)
 - [bbb.daten.reisen/b](https://bbb.daten.reisen/b) 
