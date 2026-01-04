@@ -45,6 +45,5 @@ Links:
 - [SnoopSnitch](https://opensource.srlabs.de/projects/snoopsnitch)
 - [Darshak](https://github.com/darshakframework/darshak)
 - [AIMSICD](https://cellularprivacy.github.io/Android-IMSI-Catcher-Detector/)
-- [Berliner Transparenzsystem](https://fts.berlin.de/)
 - [Wikipedia - Stille SMS](https://de.wikipedia.org/wiki/Stille_SMS)
 - [Statistik Stille SMS](https://netzpolitik.org/2018/halbjahreswerte-fuer-stille-sms-imsi-catcher-und-funkzellenabfragen/)
