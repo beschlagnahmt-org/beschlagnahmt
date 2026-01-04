@@ -1,7 +1,7 @@
 ---
-title: "Bedrohung: IMSI Catcher und Stille SMS"
+title: "Bedrohung: IMSI-Catcher"
 layout: post
-permalink: /imsi-catcher-und-stille-sms/
+permalink: /imsi-catcher/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
 description: Grundlegende Informationen über IMSI Catcher, Stille SMS und was das für dich bedeutet.
 ---
