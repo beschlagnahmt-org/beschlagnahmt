@@ -35,7 +35,7 @@ Bei Android & Apple-Geräten ist die Situation nicht eindeutig. Hier liefern sic
 
 | **BFU** | Modellabhängig, meißt auslesbar |
 | **AFU** | Modellabhängig, meißt auslesbar |
-| **Verteidigung** | &bull; BFU: Lange Passphrase, siehe [Passwörter](/passwort/)<br> &bull; Ungenutzte Geräte ausschalten<br> &bull; Auf (Gerät mit) GrapheneOS wechseln, siehe [Betriebssysteme](/smartphone-betriebssysteme/) <br> &bull; Möglichstes neues Modell verwenden &rarr; i.d.R. bessere Sicherheitschips|
+| **Verteidigung** | &bull; BFU: Lange Passphrase, siehe [Passwörter](/passwort/)<br> &bull; Ungenutzte Geräte ausschalten<br> &bull; Auf (Gerät mit) GrapheneOS wechseln, siehe [Betriebssysteme](/smartphone-betriebssysteme/) <br> &bull; Möglichst aktuelle Geräte-Generation verwenden &rarr; i.d.R. bessere Sicherheitschips|
 
 **Schlussfolgerung:** Die Cops bekommen dein Handy meißtens entsperrt oder ausgelesen. Du solltest deshalb möglich wenig interessantes Material auf deinen Geräten haben, z.B. in dem du [verschwindende Nachrichten](/messenger/) verwendest.
 
