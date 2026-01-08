@@ -1,7 +1,7 @@
 ---
 title: "Smartphone-Betriebssysteme"
 layout: post
-permalink: /smartphone-betriebssysteme/
+permalink: /betriebssysteme/
 ---
 Wie wir bereits gelesen haben, gibt es für Cops einige Möglichkeiten, über euer Smartphone eure Daten abzugreifen. 
 Aus dem Grund scheint es natürlich sinnvoll, sich damit auseinanderzusetzen, wie ihr euer Endgerät vor solcher Einsicht schützen könnt. 
