@@ -27,8 +27,6 @@ Grundsätzlich entscheidet man beim Schutz von ungewolltem Auslesen oder Entsper
   Das Gerät ist aktuell gesperrt, wurde aber nach dem Starten bereits mittels Passwort / PIN entsperrt.
   Hier liegen Passwörter oder PIN bereits im Speicher des Geräts.
   
-*Grundregel:* Gerät aus = Passwort / PIN aus Speicher gelöscht  = Daten sicher(er).
-
 Das heißt für die häufigsten Geräte bzw. Betriebssysteme:
 
 ### Android & Apple-Geräte
