@@ -21,10 +21,7 @@ Es werden jetzt also zwei “Faktoren” geprüft: Etwas das du weißt (das Pass
 
 Auf [twofactorauth.org](https://twofactorauth.org/) kannst du dich informieren, ob die Dienste die du nutzt 2FA anbieten und wie du es aktivieren kannst. 
 
-Eine weit verbreitete 2FA App ist “[Authy](https://www.authy.com/)”.
-Damit du nicht völlig aufgeschmissen bist falls du mal dein Handy verlierst, lagert Authy eine verschlüsselte Kopie deiner Datenbank auf deren Server.
-Diese kannst du von dort mit einem Passwort abrufen. Dieses Cloud-Backup ist trotzdem ein gewisses Risiko.
-
-Eine alternative App ist '[Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro)' (nur Android).
-Diese App speichert nichts in '[der Cloud](https://fsfe.org/contribute/promopics/thereisnocloud-bluecolor-preview.png)', du musst dich aber um die Backups selbst kümmern. 
-Die App stellt dafür eine Möglichkeit bereit.
+Eine empfehlenswerte 2FA App ist “[Ente Auth](https://ente.io/auth/)”.
+Damit du nicht völlig aufgeschmissen bist falls du mal dein Handy verlierst, speichert Enthe Auth deine Daten verschlüsselte auf deren Server.
+Diese kannst du von dort mit deiner Passphrase abrufen.
+Diese Passphrase speicherste du allerdings nicht in deinem Passwort-Manager, sondern notiertst sie auf einem Zettel.
