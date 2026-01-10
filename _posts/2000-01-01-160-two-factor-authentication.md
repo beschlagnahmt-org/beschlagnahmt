@@ -22,6 +22,9 @@ Es werden jetzt also zwei “Faktoren” geprüft: Etwas das du weißt (das Pass
 Auf [twofactorauth.org](https://twofactorauth.org/) kannst du dich informieren, ob die Dienste die du nutzt 2FA anbieten und wie du es aktivieren kannst. 
 
 Eine empfehlenswerte 2FA App ist “[Ente Auth](https://ente.io/auth/)”.
-Damit du nicht völlig aufgeschmissen bist falls du mal dein Handy verlierst, speichert Enthe Auth deine Daten verschlüsselte auf deren Server.
+Damit du nicht völlig aufgeschmissen bist falls dir mal dein [Handy abhanden kommst](/Hausdurchsuchung/), speichert Enthe Auth deine Daten verschlüsselte auf deren Server.
 Diese kannst du von dort mit deiner Passphrase abrufen.
-Diese Passphrase speicherste du allerdings nicht in deinem Passwort-Manager, sondern notiertst sie auf einem Zettel.
+
+Für diese Passphrase beachtet du zwei Dinge:
+  - Sie muss lang sein, denn sie verschlüsselt deine Daten beim Anbieter und darf nicht leicht zu knacken sein; siehe [Passwörter](/passwort/)
+  - Du speicherst sie nicht in deinem Passwort-Manager, sondern notiertst sie auf einem Zettel. Den Zettel bewarst du so auf, dass nur du ihn wieder findest.
