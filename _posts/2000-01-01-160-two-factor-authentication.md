@@ -5,13 +5,13 @@ permalink: /zwei-faktor-authentifizierung/
 image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
 description: Informationen darüber, was 2FA bedeutet und wie du deine Accounts damit absichern kannst.
 ---
-Deine Passwörter können aus verschiedenen Gründen dritten bekannt werden:
+Ein Passwort von dir kann aus verschiedenen Gründen Dritten bekannt werden:
   - Eine Seite, auf der du es benutzt hast [wurde gehackt](https://www.zeit.de/digital/datenschutz/2019-01/datenleak-email-passwoerter-internet-it-sicherheit) 
   - Dir hat irgendwer beim [Eingeben über die Schulter geschaut](https://en.wikipedia.org/wiki/Shoulder_surfing_(computer_security))
   - Du hast als Passwort den Namenstag deiner Katze ausgewählt und irgendwer hat es geschafft das zu [erraten](https://en.wikipedia.org/wiki/Brute-force_attack)
   - Dein Diensteanbieter wurde [gezwungen das Passwort heraus zu geben](https://netzpolitik.org/2020/bundesregierung-beschliesst-pflicht-zur-passwortherausgabe/)
 
-Durch die, zuvor bereits erwähnte, Verwendung eines Passwortmanagers kannst du dich vor ein paar dieser Szenarien schützen.
+Durch die, hier bereits erwähnte, Verwendung eines [Passwortmanagers](/passwort/) kannst du dich vor ein paar dieser Szenarien schützen.
 
 Trotzdem macht “Zwei-Faktor Authentifizierung” oder kurz “2FA” zusätzlich großen Sinn.
 Dabei installierst du z.B. eine App auf deinem Handy, die dir alle 30 Sekunden einen anderen kurzen Zahlencode anzeigt.
