@@ -2,7 +2,7 @@
 title: "Bedrohung: Hausdurchsuchung"
 layout: post
 permalink: /hausdurchsuchung/
-image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
+image: https://beschlagnahmt.org/assets/posts/hausdurchsuchung.jpg
 description: Tipps für den Fall einer Hausdurchsuchung
 ---
 Guten Morgen Sonnenschein! Es ist [6 Uhr](https://www.ferner-alsdorf.de/hausdurchsuchung-zeiten/) morgens und einige unfreundliche Beamt:innen stehen vor deiner Wohnung und erklären dir, dass sie nun eine Durchsuchung durchführen werden.
