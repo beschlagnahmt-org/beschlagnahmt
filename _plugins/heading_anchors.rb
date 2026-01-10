@@ -6,6 +6,6 @@ Jekyll::Hooks.register [:pages, :posts], :post_render do |doc|
     text = $4
     closing_tag = $5
     
-    "#{opening_tag}#{text} <a href='##{id}' class='anchor-link'>#</a>#{closing_tag}"
+    "#{opening_tag}#{text} <a href='##{id}' class='anchor-link'><i class='fas fa-link'></i></a>#{closing_tag}"
   end
 end
