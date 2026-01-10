@@ -2,7 +2,7 @@
 title: "Bedrohung: Kommunikations-Überwachung"
 layout: post
 permalink: /kommunikationsueberwachung/
-image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
+image: https://beschlagnahmt.org/assets/posts/kommunikationsueberwachung.jpg
 description: Möglichkeiten und Häufigkeit von Telekommunikationsüberwachung
 ---
 Bei der Telekommunikationsüberwachung (TKÜ) werden Betreibende von Diensten gezwungen all eure Aktivitäten den Behörden zur Verfügung zu stellen.
