@@ -2,7 +2,7 @@
 title: "Bedrohung: Auswertung von Geräten"
 layout: post
 permalink: /auswertung-von-geraeten/
-image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
+image: https://beschlagnahmt.org/assets/posts/beschlagnahme.jpg
 description: Was passiert nach der Beschlagnahme deiner Geräte.
 ---
 Falls euer Gerät beschlagnahmt wurde, werden die Cops oder ein:e Sachverständige:r versuchen deine Daten auszulesen und gerichtsverwertbar zu machen. 
