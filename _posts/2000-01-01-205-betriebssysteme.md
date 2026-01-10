@@ -10,7 +10,7 @@ Da das Phänomen "CustomROMS" für iOS Geräte keine Rolle spielt, gehen wir hie
 
 An der Stelle nochmal der Hinweis: auf Aktionen sollte das Smartphone in jedem Fall zuhause gelassen werden, falls ihr kein Aktionshandy braucht und zusätzlich genau wisst was ihr tut.
 
-## Warum es oftmals keine gute Idee ist, das Betriebssystem zu wechseln
+## Ein Schritt vorwärts, Zwei zurück?
 
 Damit ihr überhaupt soweit kommt, über die Wahl eures zukünftigen Betriebssystems zu philosophieren, müsst ihr in jedem Fall den Bootloader öffnen. Da liegt aber schon das erste Problem: 
 
@@ -24,13 +24,13 @@ Aber auch das bietet wieder einen enormen Angriffsvektor für Schadsoftware, der
 Und wenn wir schon beim unbedarften installieren von Software sind: GoogleApps ist da ebenfalls so ein Kandidat, der oft unnötigerweise mitinstalliert wird.
 Es ist grundsätzlich davon abzuraten Konzerne tief in euer Smartphone zu lassen, die zweifelsohne mit den Repressionsbehörden kooperieren.
 
-## Bei welchen Betriebssystemen ihr diese Probleme nicht habt
+## Die beste Alternative
 
-Es gibt auch Betriebssysteme, die eine echte Alternative darstellen und den Datenschutz eures Geräts tatsächlich kompromisslos erhöhen. Uns sind während unserer Recherche da allerdings nur 2 Kandidaten aufgefallen: GrapheneOS & CalyxOS.
+Es gibt auch ein Betriebssystem, das eine echte Alternative darstellt und den Datenschutz eures Geräts tatsächlich kompromisslos erhöht: GrapheneOS.
 
-Beide Betriebssysteme bestehen darauf, dass im Anschluss der Installation der Bootloader wieder verschlossen wird. 
-Somit ist sichergestellt, dass nur vom Betriebssystem zur Verfügung gestellte Updates installiert werden können. Diese funktionieren durch den integriegten Updater unkompliziert.
-Zudem erlauben sie keinen Root-Zugriff und GoogleApps lassen sich ebenfalls nicht installieren (obwohl CalyxOS eine Kompromisslösung anbietet, dazu später mehr).
+Dieses Betriebssysteme besteht darauf, dass im Anschluss an die Installation der Bootloader wieder verschlossen wird. 
+Somit ist sichergestellt, dass nur von den Entwicklern zur Verfügung gestellte Updates installiert werden können. Diese funktionieren durch den integriegten Updater unkompliziert.
+Zudem erlauben sie keinen Root-Zugriff und GoogleApps sind nicht direkt mit installiert, können aber nachgerüstet werden.
 
 GrapheneOS verhält sich in der Verwendung nicht anders als ein gewöhnliches Android Telefon, kommt aber unter der Haube mit einigen teils sehr technischen Sicherheitsvorkehrungen. Um einige davon kurz zu benennen: 
 - Standardmäßige Geräteverschlüsselung
@@ -47,13 +47,3 @@ Durch die fehlenden Google Dienste funktionieren einige Apps nicht oder nur eing
 Das Betriebssystem ist aktuell nur für auf Google Pixel Smartphones verfügbar. 
 Diese sind technisch betrachtet am besten geeignet für die vorgenommen Verbesserungen. 
 Sollte das Projekt wachsen ist auch die Unterstützung für andere Geräte möglich, dies liegt allerdings nicht im Fokus.
-
-Das meiste von dem bereits gesagtem gilt auch für CalyxOS, wobei die Sicherheitsfunktionen hier minimal weniger drastisch ausfallen und daher das System etwas flotter läuft. Mehr Infos findet ihr auf https://calyxos.org/. 
-
-Außerdem erlaubt CalyxOS die Installation von microG, eine Open Source Schnittstelle für GoogleApps, die die Verwendung einiger Google Services ermöglicht.
-In unseren Augen ist microG leider ein unnötiger Kompromiss: 
-Es funktionieren bei weitem nicht alle GoogleApps und dennoch bekommt Google hierdurch wieder eingeschränkten Zugriff auf unser System. 
-Wenn also wie bei uns Privatssphäre und Sicherheit kompromisslos im Vordergrund stehen, ist davon abzuraten.
-
-Falls ihr es doch verwenden wollt, können wir euch https://plexus.techlore.tech/ ans Herz legen. 
-Die Website verrät euch, welche Apps auch ohne GoogleApps bzw. mit microG funktionieren bzw. welche Einschränkungen es gibt.
