@@ -19,6 +19,13 @@ Hier bekommst du einige Anhaltspunkte wie du dich schützen kannst, auch ohne ei
 Um zu wissen, wie wie man sich verteidigen kann, muss man die Fähigkeiten der Angreifer:in kennen. Für Aktivisti ist das oft der Staat. Wann dieser zu welchen Mitteln greift, ist nicht vorhersehbar und zeigt sich erst, wenn es bereits zu spät ist. Dann hilft es auch nicht, wenn die Maßnahme [im Nachhinein als Rechtswiedrig erklärt wird](https://netzpolitik.org/2025/radio-dreyeckland-hausdurchsuchung-wegen-eines-links-war-verfassungswidrig/).   
 Deshalb vermittelt ACAB einen 'IT-Grungschutz für Aktivisti', egal ob Antifa, Klima-Aktivisti oder Tierrrechts-Aktivist:in.
 
+## Herangehensweise von ACAB
+
+Wir haben uns bewusst entschieden nicht jedes mögliche Tool hier aufzulisten, sondern geben konkrete Handlungs-, Software- und Geräte-Empfehlungen. 
+Hierbei orientierten wir uns am Prinzip 'So sicher wie nötig, so Benutzer:innen freundlich wie möglich'. 
+Unsere Erfahrung hat gezeigt: 
+Selbst das sicherste Tool wird nicht verwendet, wenn es nicht einfach genug nutzbar ist.
+
 ## Mach mit
 
 Der Quelltext von ACAB ist bei [Github](https://github.com/beschlagnahmt-org/beschlagnahmt) zu finden. 
