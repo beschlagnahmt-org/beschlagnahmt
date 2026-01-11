@@ -43,13 +43,13 @@ Bei Android & Apple-Geräten ist die Situation nicht eindeutig. Hier liefern sic
 
 | **BFU** | Geschützt, wenn Verschlüsselung aktiv (Standard) | 
 | **AFU** | Auslesbar | 
-| **Verteidigung** | &bull; Ungenutzte Geräte herunter fahren<br> &bull; BFU: Lange Passphrase, siehe [Passwörter](/passwort/)<br> &Bull; [Tails](/anonym-im-netz/#tails) nutzen &ararr Speichert keine Daten auf dem Gerät | 
+| **Verteidigung** | &bull; Ungenutzte Geräte herunter fahren<br> &bull; BFU: Lange Passphrase, siehe [Passwörter](/passwort/)<br> &bull; [Tails](/anonym-im-netz/#tails) nutzen &ararr; Speichert keine Daten auf dem Gerät | 
 
 ### Windows
 
 | **BFU** | Auslesbar |
 | **AFU** | Auslesbar | 
-| **Verteidigung** | &bull; Auf Linux wechseln<br>  &bull; BFU: VeraCrypt, siehe [Daten verschlüsseln](/daten-verschluesseln/)<br> &Bull; [Tails](/anonym-im-netz/#tails) nutzen &ararr Speichert keine Daten auf dem Gerät |
+| **Verteidigung** | &bull; Auf Linux wechseln<br>  &bull; BFU: VeraCrypt, siehe [Daten verschlüsseln](/daten-verschluesseln/)<br> &bull; [Tails](/anonym-im-netz/#tails) nutzen &ararr; Speichert keine Daten auf dem Gerät |
 
 ## Statistik
 
