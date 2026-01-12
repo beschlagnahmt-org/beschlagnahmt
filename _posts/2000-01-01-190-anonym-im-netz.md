@@ -22,7 +22,7 @@ Durch die Verwendung von diesen 3 Zwischenstationen ist sichergestellt, dass nie
 
 Das stellt den endscheidenden Vorteil gegenüber einem VPN dar, mehr dazu im Abschnitt zu VPNs. 
 
-![](../assets/posts/howtorworks.jpg)
+![](/assets/posts/howtorworks.jpg)
 
 Quelle: [Edward Snowden auf Twitter](https://twitter.com/Snowden/status/653587720598626304)
 
@@ -92,4 +92,4 @@ Das bedeutet: Du bist darauf angewiesen, dass dieser Anbieter nicht speichert, w
 Da dies nicht gewährleistet werden kann, solltest Du [keine](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) VPNs [nutzen](https://schub.wtf/blog/2019/04/08/very-precarious-narrative.html).
 Denn die Anbieter müssen auf gerichtliche Anordnung diese Daten heraus geben und [machen das auch](https://www.theregister.com/2011/09/26/hidemyass_lulzsec_controversy/).
 
-![](../assets/posts/vpn.jpg)
+![](/assets/posts/vpn.jpg)
