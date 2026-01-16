@@ -41,7 +41,7 @@ Bei Android & Apple-Geräten ist die Situation nicht eindeutig. Hier liefern sic
 
 ### Linux
 
-| **BFU** | Geschützt, wenn Verschlüsselung aktiv | 
+| **BFU** | Geschützt, wenn Systemverschlüsselung aktiv | 
 | **AFU** | Auslesbar | 
 | **Verteidigung** | &bull; [Systemverschlüsselung aktivieren](/daten-verschluesseln/#systemverschl%C3%BCsselung-bei-der-installation-linux)<br> &bull; Ungenutzte Geräte herunter fahren<br> &bull; BFU: Lange Passphrase, siehe [Passwörter](/passwort/)<br> &bull; [Tails](/anonym-im-netz/#tails) nutzen &rarr; Speichert keine Daten auf dem Gerät | 
 
