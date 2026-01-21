@@ -13,6 +13,9 @@ Den dabei verwendeten Forensikprogrammen entgeht kaum etwas und manchmal können
 Wird das Verfahren irgendwann eingestellt bekommst du deine beschlagnahmten Sachen zurück. Das dauert aber oft einige Monate bis hin zu Jahren.
 
 ![](../assets/posts/beschlagnahme.jpg)
+<p style="text-align: right; font-size: small; margin-top: -15px;">
+  <a href="/kontakt/#ki-generierte-bilder"><i class="fa-solid fa-microchip"></i>-Bild</a>
+</p>
 
 ## Wann ist dein Gerät auslesbar?
 

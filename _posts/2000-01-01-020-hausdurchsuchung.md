@@ -9,7 +9,7 @@ Guten Morgen Sonnenschein! Es ist [6 Uhr](https://www.ferner-alsdorf.de/hausdurc
 Du bleibst natürlich cool und rufst dir in Erinnerung wie du dich [in so einer Situation verhalten solltest](https://rote-hilfe.de/sites/default/files/2023-10/wtwb_sep2022.pdf).
 
 Dieser Aufkleber an deiner Türe hilft Dir in der Hektik nichts Wichtiges zu vergessen:  
-![](../assets/posts/hausdurchsuchung-aufkleber.jpg)  
+![](/assets/posts/hausdurchsuchung-aufkleber.jpg)  
 [Bestellen](https://shop.digitalcourage.de/digitalcourage-und-ccc-aufkleber/hausdurchsuchung-was-tun.html) - [Herunterladen](https://shop.digitalcourage.de/files/HausdurchsuchungChaotikum.pdf)
 
 Noch __bevor__ du die Türe öffnest, schaltest du deine Geräte aus:
@@ -24,7 +24,10 @@ Zum Glück klebt an deiner Türe der hilfreiche Aufkleber mit der Telefon-Nummer
 
 Warum du das machen solltest erfährt du beim Thema "[Auswertung von Geräten](/auswertung-von-geraeten/)".
 
-![](../assets/posts/hausdurchsuchung.jpg)
+![](/assets/posts/hausdurchsuchung.jpg)
+<p style="text-align: right; font-size: small; margin-top: -15px;">
+  <a href="/kontakt/#ki-generierte-bilder"><i class="fa-solid fa-microchip"></i>-Bild</a>
+</p>
 
 Irgendwann werden sie dann anfangen deinen Kram einzupacken.
 Achte darauf, dass sie sich an den Durchsuchungsbeschluss halten und sei ansonsten ganz entspannt.
