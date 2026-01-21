@@ -2,7 +2,7 @@
 title: "Zwei-Faktor Authentifizierung"
 layout: post
 permalink: /zwei-faktor-authentifizierung/
-image: https://beschlagnahmt.org/assets/cover/acab_og.jpg
+image: https://beschlagnahmt.org/assets/posts/2fa.jpg
 description: Informationen darüber, was 2FA bedeutet und wie du deine Accounts damit absichern kannst.
 ---
 Ein Passwort von dir kann aus verschiedenen Gründen Dritten bekannt werden:
@@ -19,12 +19,17 @@ Wenn du dich bei einem Dienst anmelden willst, bei dem Du 2FA aktiviert hast, gi
 Ohne den Code kommt keine:r rein, das Passwort alleine reicht nicht mehr.
 Es werden jetzt also zwei “Faktoren” geprüft: Etwas das du weißt (das Passwort) und etwas das du besitzt (dein Handy mit der App).
 
+![](/assets/posts/2fa.jpg)
+<p style="text-align: right; font-size: small; margin-top: -15px;">
+  <a href="/kontakt/#ki-generierte-bilder"><i class="fa-solid fa-microchip"></i>-Bild</a>
+</p>
+
 Auf [twofactorauth.org](https://twofactorauth.org/) kannst du dich informieren, ob die Dienste die du nutzt 2FA anbieten und wie du es aktivieren kannst. 
 
 Eine empfehlenswerte 2FA App ist “[Ente Auth](https://ente.io/auth/)”.
-Damit du nicht völlig aufgeschmissen bist falls dir mal dein [Handy abhanden kommst](/Hausdurchsuchung/), speichert Enthe Auth deine Daten verschlüsselte auf deren Server.
+Damit du nicht völlig aufgeschmissen bist, falls dir mal dein [Handy abhanden kommst](/Hausdurchsuchung/), speichert Ente Auth deine Daten verschlüsselte auf deren Server.
 Diese kannst du von dort mit deiner Passphrase abrufen.
 
 Für diese Passphrase beachtet du zwei Dinge:
   - Sie muss lang sein, denn sie verschlüsselt deine Daten beim Anbieter und darf nicht leicht zu knacken sein; siehe [Passwörter](/passwort/)
-  - Du speicherst sie nicht in deinem Passwort-Manager, sondern notiertst sie auf einem Zettel. Den Zettel bewarst du so auf, dass nur du ihn wieder findest.
+  - Du speicherst sie nicht in deinem Passwort-Manager, sondern notierst sie auf einem Zettel. Den Zettel bewahrst du so auf, dass nur du ihn wieder findest.
