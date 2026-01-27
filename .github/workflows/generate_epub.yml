@@ -1,0 +1,60 @@
+name: Generate epub
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+    - '_pages/**'
+    - '_posts/**'
+    - '.pandoc/**'
+    - '.github/workflows/**'
+  workflow_dispatch:
+     
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Cancel Previous Runs
+        uses: styfle/cancel-workflow-action@0.7.0
+        with:
+          access_token: ${{ github.token }}
+      
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install packages
+        run: sudo apt install -y texlive-latex-extra texlive-xetex texlive-lang-german pandoc
+
+      - name: Generate epub
+        run: |
+          # Zielordner sicherstellen
+          mkdir -p assets/download
+          
+          # Loop über Dateien (About + Posts) und Verarbeitung
+          (
+            for f in _pages/0_about.md _posts/*.md; do
+              
+              # Titel extrahieren und Quotes entfernen
+              titel=$(grep "^title:" "$f" | head -n 1 | sed 's/^title: *//' | sed 's/^["'\'']//;s/["'\'']$//') 
+
+              # Titel als H1 schreiben
+              echo -e "\n# $titel\n"
+              
+              # Body ohne YAML Header schreiben
+              sed '1,/^---$/d' "$f"
+            done 
+          ) | sed -E 's#\((\.\./|/)+assets#(assets#g' | sed -E 's/\[([^]]+)\]\(\/[^)]+\)/\1/g' | pandoc -o "$HOME/acab.epub" \
+              --metadata title="ACAB" \
+              --metadata author="beschlagnahmt" \
+              --metadata language="de" \
+              --epub-cover-image="assets/cover/cover.jpg" \
+              --from markdown
+
+      - name: push changes to remote
+        run: |
+             git config user.name "Pandoc Bot"
+             git config user.email "bot@beschlagnahmt.org"
+             git add assets/download/acab.epub 
+             # Commit nur erstellen, wenn es Änderungen gibt, um Fehler zu vermeiden
+             git diff --staged --quiet || (git commit -m "Upload latest .epub" && git push)
