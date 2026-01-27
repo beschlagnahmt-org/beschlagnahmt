@@ -45,7 +45,7 @@ jobs:
               # Body ohne YAML Header schreiben
               sed '1,/^---$/d' "$f"
             done
-          ) | sed 's|(\.\./assets|(assets|g' | sed -E 's/\[([^]]+)\]\(\/[^)]+\)/\1/g' | pandoc -o assets/download/acab.pdf \
+          ) | sed -E 's#\((\.\./|/)+assets#(assets#g' | sed -E 's/\[([^]]+)\]\(\/[^)]+\)/\1/g' | pandoc -o assets/download/acab.pdf \
             --pdf-engine=xelatex \
             --template=.pandoc/template.latex \
             -V documentclass=report \
