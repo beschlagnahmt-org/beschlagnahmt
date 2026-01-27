@@ -12,7 +12,7 @@ Den dabei verwendeten Forensikprogrammen entgeht kaum etwas und manchmal können
 
 Wird das Verfahren irgendwann eingestellt bekommst du deine beschlagnahmten Sachen zurück. Das dauert aber oft einige Monate bis hin zu Jahren.
 
-![](../assets/posts/beschlagnahme.jpg)
+![](/assets/posts/beschlagnahme.jpg)
 <p style="text-align: right; font-size: small; margin-top: -15px;">
   <a href="/kontakt/#ki-generierte-bilder"><i class="fa-solid fa-microchip"></i>-Bild</a>
 </p>
@@ -59,5 +59,5 @@ Bei Android & Apple-Geräten ist die Situation nicht eindeutig. Hier liefern sic
 Leider werden die entsprechenden Zahlen nicht systematisch erfasst.
 Es gibt jedoch Statistiken aus einzelnen Bundesländer, hier z.B. Sachsen-Anhalt:
 
-![](../assets/posts/beschlagnahme-statistik.png)  
+![](/assets/posts/beschlagnahme-statistik.png)  
 Quelle: [netzpolitik.org](https://netzpolitik.org/2024/sachsen-anhalt-alle-35-stunden-durchsucht-die-polizei-ein-smartphone/#2024-02-07_ZahlenSAH)

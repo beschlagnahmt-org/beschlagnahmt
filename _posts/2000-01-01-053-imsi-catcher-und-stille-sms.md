@@ -31,7 +31,7 @@ Das Bundesamt für Verfassungsschutz versendete im ersten Halbjahr 2018 ganze 10
 Die Landesbehörden für Verfassungsschutz und die Polizeien der Bundesländer nutzen das Verfahren ebenfalls reichlich.
 Es ist von deutlich mehr als einer Millionen Ortungen pro Jahr auszugehen. Stille SMS können mit der bereits erwähnten App SnoopSnitch sichtbar gemacht werden.
 
-![](../assets/posts/imsi-catcher.jpg)<br>
+![](/assets/posts/imsi-catcher.jpg)<br>
 Bild: Ein IMSI-Catcher, Creative Commons BY-NC-SA 2.5 Canada. BC Civil Liberties Association
 
 > ⚠ Fallstrick beim Demo-Handy ⚠<br>

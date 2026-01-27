@@ -43,7 +43,7 @@ klicken
 10. “Next”
 11. Entsprechend der Anweisungen eine Rescue Disk erstellen. Wenn du kein CD-Laufwerk hast kannst du auch einen USB-Stick verwenden. Mit der CD bzw. dem USB-Stick kannst du das System nicht wiederherstellen wenn du dein Passwort vergessen hast. Sie dienen nur dazu das System zu retten falls Dateien beschädigt wurden die VeraCrypt zum entschlüsseln benötigt. Du solltest den Datenträger also gut aufbewahren, aber falls die Cops ihn kriegen sind deine Daten aber trotzdem noch sicher.
 
-![](../assets/posts/veracrypt-verschluesseln.jpg)
+![](/assets/posts/veracrypt-verschluesseln.jpg)
 
 *VeraCrypt benötigt Zufallsdaten zum verschlüsseln.*
 
@@ -108,4 +108,4 @@ Grundsätzlich ist das alles auch genau so sicher wie auf dem Computer, aber bes
 Trotz Verschlüsselung ist es also vernünftig zu Aktionen nur ein billiges Zweit-Handy mitzunehmen, auf dem keine persönlichen Daten gespeichert sind.
 Auch eine SIM-Karte, die nicht mit deinem Namen verknüpft ist, ist dabei eine gute Idee.
 
-![](../assets/posts/smartphone_verschluesselt.png)
+![](/assets/posts/smartphone_verschluesselt.png)

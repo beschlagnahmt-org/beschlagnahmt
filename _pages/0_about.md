@@ -33,7 +33,7 @@ Wenn du einen Fehler gefunden oder einen Verbessungsvorschlag hast, [lass es uns
 Gerne kannst du direkt auf Github einen [Verbesserungsvorschlag einreichen](https://github.com/beschlagnahmt-org/beschlagnahmt/pulls).
 Sollte dir das zu öffentlich sein, melde dich gerne per [Signal](https://signal.group/#CjQKIHWuN9nw5m_pXBerjG6eZ7WKN8hXslVQlYQVepGYVZ2GEhA6Unt3M3KOzC4PYNyLKtYc) oder [Mail](mailto:info@beschlagnahmt.org).
 
-![](../assets/pages/crt-antifa.jpg)  
+![](/assets/pages/crt-antifa.jpg)  
 (Computer: CC-BY-SA-3.0 Thomas Kaiser, Montage: Beschlagnahmt)
 
 ## Weitere Infos

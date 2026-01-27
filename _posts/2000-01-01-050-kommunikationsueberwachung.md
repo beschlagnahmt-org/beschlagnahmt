@@ -7,7 +7,7 @@ description: Möglichkeiten und Häufigkeit von Telekommunikationsüberwachung
 ---
 Bei der Telekommunikationsüberwachung (TKÜ) werden Betreibende von Diensten gezwungen all eure Aktivitäten den Behörden zur Verfügung zu stellen.
 
-![](../assets/posts/kommunikationsueberwachung.jpg)
+![](/assets/posts/kommunikationsueberwachung.jpg)
 <p style="text-align: right; font-size: small; margin-top: -15px;">
   <a href="/kontakt/#ki-generierte-bilder"><i class="fa-solid fa-microchip"></i>-Bild</a>
 </p>
