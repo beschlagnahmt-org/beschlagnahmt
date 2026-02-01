@@ -11,7 +11,7 @@ description: Das Beschlagnahmt-Zine zum Downlad
     <span style="font-weight: bold; font-family: sans-serif;">PDF</span>
   </a>
 
-  <a href="/assets/download/acab.epub" style="text-decoration: none; margin: 0 30px; display: inline-block; color: #424242;">
+  <a href="/assets/download/acab.epub" style="text-decoration: none; margin: 0 30px; display: inline-block; color: #145bde;">
     <i class="fas fa-book-open fa-5x"></i><br>
     <span style="font-weight: bold; font-family: sans-serif;">ePub</span>
   </a>
