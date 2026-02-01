@@ -7,16 +7,17 @@ description: Hilfestellungen und Empfehlungen für das verwalten von Passwörten
 ---
 Was bei einem Passwort wichtig ist haben wir erklärt und auch warum du bei jeden Dienst ein eizigartiges verwenden solltest.
 Um diese super sicheren Passwörter alle aufzubewahren brauchst du einen Passwort-Manager, außer du hast ein extrem gutes Gedächtnis.
-Da es bereits zu Datenlecks bei den kostenplichtigen Anbietern kam, sollte die Wahl hierbei auf [KeepassXC](https://keepassxc.org/) fallen, denn die Anwendung ist Open Source, bewährt und nicht web-basiert.
-Wie du trotzdem die Vorzüge von Browserintegration und geräteübergreifender Synchronisation genießen kannst weiter unten.
+Da es bereits zu Datenlecks bei den kostenpflichtigen Anbietern kam, sollte die Wahl hierbei auf [KeepassXC](https://keepassxc.org/) fallen, denn die Anwendung ist Open Source, bewährt und nicht web-basiert.
+Wie du trotzdem die Vorzüge von Browser-Integration und geräteübergreifender Synchronisation genießen kannst weiter unten.
 
 ## Windows, Linux und MacOS
 
 Das Prinzip ist denkbar einfach.
-Mensch lädt sich die Anwendung herunter, erstellt eine neue Datenbank, vergibt ein Hauptpasswort und kann damit beginnen, Logindaten für Webseiten und Dienste zu hinterlegen. Die Datenbank ist hierbei verschlüsselt.
+Mensch lädt sich die Anwendung herunter, erstellt eine neue Datenbank, vergibt ein Hauptpasswort und kann damit beginnen, Logindaten für Webseiten und Dienste zu hinterlegen.
+Die Datenbank ist hierbei verschlüsselt.
 Das heißt: Solange niemensch dein Passwort knackt, bringt es der Person nichts im Besitz der Datei zu sein.
 Wichtig: Das Hauptpasswort wird selbstverständlich nicht in der Datenbank hinterlegt, du musst es dir also merken und es muss sicher sein.
-Wie Du ein möglichsts sicheres wählst, kannst du im Kapitel [Passwörter](/passwort/) nachlesen.
+Wie Du ein möglichst sicheres wählst, kannst du im Kapitel [Passwörter](/passwort/) nachlesen.
 Solltest du nun einen neuen Eintrag in der Datenbank anlegen, kannst du dir ein zufälliges Passwort generieren lassen.
 Übernimm dieses bei das Passwortvergabe einfach in das Passwortfeld im Browser.
 Merken muss sich das zum Glück niemensch, du hast ja das Hauptpasswort.
@@ -37,10 +38,11 @@ Dieses kann Anmeldeformulare automatisch ausfüllen, Passwörter generieren oder
 
 1. Installiere KeePassXC-Browser
 2. Aktiviere die Browser-Integration in den Einstellungen von KeePassXC
-3. Wenn du ein Passwort eingibst bietet das Addon dir nun an es in KeePassXC zu speichern. Anders rum kannst du mit einem Knopfdruck gespeicherte Anmeldedaten ausfüllen lassen, sofern du die zugehörige URL in jeweiligen Eintrag hinterlegt hast.
+3. Wenn du ein Passwort eingibst bietet das Addon dir nun an es in KeePassXC zu speichern. Anders herum kannst du mit einem Knopfdruck gespeicherte Anmeldedaten ausfüllen lassen, sofern du die zugehörige URL im jeweiligen Eintrag hinterlegt hast.
 
 > ⚠ Tipp für zusätzliche Sicherheit ⚠<br>
-> Schütze Deinen Passwort-Safe zusätzlich mit einem [YubiKey / OnlyKey](https://keepassxc.org/docs/#faq-yubikey-howto), dann hast Du eine [Two-Factor Authentication](/two-factor-authentication/). Das funktioniert auch in Verbindung mit den nachfolgend empfohlenen Smartphone-Apps.
+> Schütze Deinen Passwort-Safe zusätzlich mit einem [YubiKey / OnlyKey](https://keepassxc.org/docs/#faq-yubikey-howto), dann hast Du eine [Two-Factor Authentication](/two-factor-authentication/). 
+> Das funktioniert auch in Verbindung mit den nachfolgend empfohlenen Smartphone-Apps.
 
 ## Android und iOS
 
