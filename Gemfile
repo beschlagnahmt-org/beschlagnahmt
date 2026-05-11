@@ -8,7 +8,7 @@ gem "minima", :github => 'jekyll/minima', :ref => 'bf9ef989246b63536e9db61082f66
 group :jekyll_plugins do
    gem "jekyll-paginate", "~>1.1.0"
 #   gem "jekyll-srcset2"
-   gem "jekyll-seo-tag", "~>2.8.0"
+   gem "jekyll-seo-tag", "~>2.9.0"
    gem "kramdown"
    gem "kramdown-parser-gfm"
    gem "jekyll-sitemap"
